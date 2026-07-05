@@ -56,7 +56,7 @@ GRADE_THRESHOLDS = [
     (0, "Poor"),
 ]
 
-from src.utils.labels import FINN_SCORE_LABEL  # re-export
+FINN_SCORE_LABEL = "FINN. Alternative Score"
 
 DEMO_PERSONAS = {
     "MSME001": {

@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from src.utils.labels import FINN_SCORE_LABEL
+from src.utils.ui_text import FINN_SCORE_LABEL
 from src.utils.display_metrics import active_litigation_label, bill_pay_on_time_pct
 from src.utils.helpers import score_to_grade
 

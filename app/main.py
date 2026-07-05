@@ -9,6 +9,11 @@ if str(ROOT) not in sys.path:
 
 import streamlit as st
 
+# Startup-safe copy — duplicated in src/utils/ui_text.py for other modules.
+APP_TITLE = "FINN. Alternative Score System"
+APP_TAGLINE = "NTC MSME underwriting · powered by Finndot alternative data"
+FINN_SCORE_LABEL = "FINN. Alternative Score"
+
 PAGE_ORDER = ("Cases", "Assessment", "Details")
 
 
@@ -53,11 +58,31 @@ def bootstrap_once():
     st.session_state._bootstrapped = True
 
 
-def sidebar():
-    from app.components.branding import render_sidebar_branding, render_sidebar_footer_link
-    from src.utils.labels import FINN_SCORE_LABEL
+def _sidebar_branding() -> None:
+    try:
+        from app.components.branding import render_sidebar_branding
 
-    render_sidebar_branding()
+        render_sidebar_branding()
+    except Exception:
+        st.sidebar.markdown(
+            '<span style="font-weight:700;font-size:1.2rem">FINN<span style="color:#22C55E">.</span></span>',
+            unsafe_allow_html=True,
+        )
+        st.sidebar.caption("FinHealth Card")
+
+
+def _sidebar_footer_link() -> None:
+    try:
+        from app.components.branding import render_sidebar_footer_link
+
+        render_sidebar_footer_link()
+    except Exception:
+        st.sidebar.markdown("---")
+        st.sidebar.caption("[Try Finndot AI app](https://play.google.com/store/apps/details?id=com.anomapro.finndot.prd)")
+
+
+def sidebar():
+    _sidebar_branding()
 
     if st.session_state.fetched and st.session_state.profile:
         p = st.session_state.profile
@@ -73,7 +98,7 @@ def sidebar():
     else:
         st.sidebar.caption("Pick a case to begin")
 
-    render_sidebar_footer_link()
+    _sidebar_footer_link()
 
 
 def top_nav():
@@ -96,8 +121,6 @@ def top_nav():
 
 
 def app_header():
-    from src.utils.labels import APP_TAGLINE, APP_TITLE
-
     st.markdown(
         f"""
         <div class="finn-app-header">
@@ -109,8 +132,20 @@ def app_header():
     )
 
 
+def _footer_branding() -> None:
+    try:
+        from app.components.branding import render_footer_branding
+
+        render_footer_branding()
+    except Exception:
+        st.markdown(
+            '<div style="margin-top:2rem;padding-top:1rem;border-top:1px solid #E2E8F0;'
+            'text-align:center;font-size:0.78rem;color:#94A3B8;">Powered by FINN.</div>',
+            unsafe_allow_html=True,
+        )
+
+
 def run_app():
-    from app.components.branding import render_footer_branding
     from app.components.styles import inject_styles
 
     st.set_page_config(
@@ -127,7 +162,7 @@ def run_app():
     app_header()
     top_nav()
     _run_page(st.session_state.page)
-    render_footer_branding()
+    _footer_branding()
 
 
 run_app()

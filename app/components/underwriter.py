@@ -9,7 +9,7 @@ from src.scoring.loan_simulator import simulate_loan
 from src.scoring.underwriter_insights import get_credit_decision, get_key_metrics, get_risk_flags
 from src.utils.chart_helpers import timeseries_df
 from src.utils.constants import SECTOR_GROWTH
-from src.utils.labels import FINN_SCORE_LABEL
+from src.utils.ui_text import FINN_SCORE_LABEL
 from src.utils.upi_insights import upi_insight_metrics, upi_momentum
 
 

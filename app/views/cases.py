@@ -7,7 +7,7 @@ from src.connectors.base import load_profile
 from src.features.feature_engineering import extract_features
 from src.utils.constants import DEMO_PERSONAS
 from src.utils.display_metrics import bill_pay_on_time_pct
-from src.utils.labels import FINN_SCORE_LABEL
+from src.utils.ui_text import FINN_SCORE_LABEL
 
 
 def _decision_color(action: str) -> str:

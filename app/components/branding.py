@@ -28,7 +28,11 @@ def render_sidebar_branding() -> None:
 
 def render_app_header() -> None:
     """Main content hero — product title above page navigation."""
-    from src.utils.labels import APP_TAGLINE, APP_TITLE
+    try:
+        from src.utils.ui_text import APP_TAGLINE, APP_TITLE
+    except ImportError:
+        APP_TITLE = "FINN. Alternative Score System"
+        APP_TAGLINE = "NTC MSME underwriting · powered by Finndot alternative data"
 
     st.markdown(
         f"""
