@@ -95,31 +95,40 @@ def _google_sentiment_counts(reviews: list[dict]) -> dict[str, int]:
     return counts
 
 
-def _render_upi_panel(profile: dict, features: dict) -> None:
+def _render_upi_chart(profile: dict) -> None:
     upi = profile["upi"]
-    chart_col, info_col = st.columns([1.45, 1], gap="medium")
-    with chart_col:
-        df = timeseries_df(upi["monthly_volume_lakhs"], y_name="Volume (₹L)")
-        fig = px.line(
-            df,
-            x="Month",
-            y="Volume (₹L)",
-            markers=True,
-            title="UPI collection trend",
-        )
-        fig.update_layout(**_chart_layout())
-        _plot_chart(fig)
+    df = timeseries_df(upi["monthly_volume_lakhs"], y_name="Volume (₹L)")
+    fig = px.line(
+        df,
+        x="Month",
+        y="Volume (₹L)",
+        markers=True,
+        title="UPI collection trend",
+    )
+    fig.update_layout(**_chart_layout())
+    _plot_chart(fig)
 
-    with info_col:
-        with st.container(border=True):
-            st.markdown("**UPI merchant signal**")
-            st.caption(f"{upi.get('vpa', '—')} · {upi_momentum(upi['monthly_volume_lakhs'])}")
-            cells = "".join(
-                f"<div class='finn-upi-metric'><span class='k'>{m['label']}</span>"
-                f"<span class='v'>{m['value']}</span></div>"
-                for m in upi_insight_metrics(profile, features)
-            )
-            st.markdown(f"<div class='finn-upi-metrics'>{cells}</div>", unsafe_allow_html=True)
+
+def _render_upi_signal(profile: dict, features: dict) -> None:
+    upi = profile["upi"]
+    metrics = upi_insight_metrics(profile, features)
+    cells = "".join(
+        f"<div class='finn-upi-metric'><span class='k'>{m['label']}</span>"
+        f"<span class='v'>{m['value']}</span></div>"
+        for m in metrics
+    )
+    st.markdown(
+        f"""
+        <div class="finn-upi-panel">
+            <div>
+                <div class="finn-upi-title">UPI merchant signal</div>
+                <div class="finn-upi-subtitle">{upi.get('vpa', '—')} · {upi_momentum(upi['monthly_volume_lakhs'])}</div>
+            </div>
+            <div class="finn-upi-metrics">{cells}</div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
 
 def _render_news_section(profile: dict) -> None:
@@ -127,40 +136,22 @@ def _render_news_section(profile: dict) -> None:
 
     news = profile.get("news", {})
     articles = news.get("articles", [])
-    pos = news.get("positive_count_30d", 0)
-    neg = news.get("negative_count_30d", 0)
 
-    chart_col, list_col = st.columns([1, 1.35], gap="medium")
-    with chart_col:
-        df = pd.DataFrame({"Sentiment": ["Positive", "Negative"], "Articles": [pos, neg]})
-        fig = px.bar(
-            df,
-            x="Sentiment",
-            y="Articles",
-            title="Last 30 days · demo data",
-            color="Sentiment",
-            color_discrete_map={"Positive": "#22C55E", "Negative": "#EF4444"},
-        )
-        fig.update_layout(**_chart_layout())
-        _plot_chart(fig)
-
-    with list_col:
-        with st.container(border=True):
-            st.markdown("**Recent headlines**")
-            if not articles:
-                st.caption("No articles available.")
-                return
-            items = []
-            for article in articles[:5]:
-                sentiment = article.get("sentiment", "neutral")
-                marker = "🟢" if sentiment == "positive" else "🔴" if sentiment == "negative" else "🟡"
-                days = article.get("published_days_ago", "—")
-                src = article.get("source", "")
-                items.append(
-                    f"<div class='finn-news-item'>{marker} {article['title']}"
-                    f"<br><span class='finn-muted'>{src} · {days}d ago</span></div>"
-                )
-            st.markdown(f"<div class='finn-news-list'>{''.join(items)}</div>", unsafe_allow_html=True)
+    with st.container(border=True):
+        if not articles:
+            st.caption("No recent headlines available.")
+            return
+        items = []
+        for article in articles[:5]:
+            sentiment = article.get("sentiment", "neutral")
+            marker = "🟢" if sentiment == "positive" else "🔴" if sentiment == "negative" else "🟡"
+            days = article.get("published_days_ago", "—")
+            src = article.get("source", "")
+            items.append(
+                f"<div class='finn-news-item'>{marker} {article['title']}"
+                f"<br><span class='finn-muted'>{src} · {days}d ago</span></div>"
+            )
+        st.markdown(f"<div class='finn-news-list'>{''.join(items)}</div>", unsafe_allow_html=True)
 
 
 def render_charts(profile: dict, features: dict) -> None:
@@ -179,7 +170,9 @@ def render_charts(profile: dict, features: dict) -> None:
         fig.update_layout(**_chart_layout())
         _plot_chart(fig)
     with c2:
-        _render_upi_panel(profile, features)
+        _render_upi_chart(profile)
+
+    _render_upi_signal(profile, features)
 
     _section("Operations & payroll")
     c3, c4 = st.columns(2, gap="medium")

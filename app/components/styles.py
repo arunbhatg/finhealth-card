@@ -140,29 +140,64 @@ def inject_styles() -> None:
             margin-bottom: 0.25rem;
             min-height: 300px;
         }}
+        .finn-upi-panel {{
+            display: grid;
+            grid-template-columns: 1.2fr 3fr;
+            gap: 0.85rem;
+            align-items: center;
+            background: #fff;
+            border: 1px solid #E8ECF0;
+            border-radius: 12px;
+            padding: 0.75rem 0.85rem;
+            margin: 0.75rem 0 0.25rem 0;
+        }}
+        .finn-upi-title {{
+            font-size: 0.92rem;
+            font-weight: 600;
+            color: #0F172A;
+            margin-bottom: 0.15rem;
+        }}
+        .finn-upi-subtitle {{
+            font-size: 0.76rem;
+            color: #64748B;
+            line-height: 1.35;
+        }}
         .finn-upi-metrics {{
             display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 0.45rem;
-            margin-top: 0.5rem;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 0.5rem;
+            margin-top: 0;
         }}
         .finn-upi-metric {{
             background: #F8FAFC;
             border: 1px solid #E8ECF0;
             border-radius: 8px;
-            padding: 0.45rem 0.55rem;
+            padding: 0.5rem 0.6rem;
+            min-width: 0;
         }}
         .finn-upi-metric .k {{
             display: block;
             font-size: 0.68rem;
             color: #64748B;
             margin-bottom: 0.1rem;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }}
         .finn-upi-metric .v {{
             display: block;
-            font-size: 0.92rem;
+            font-size: 0.95rem;
             font-weight: 600;
             color: #0F172A;
+            white-space: nowrap;
+        }}
+        @media (max-width: 900px) {{
+            .finn-upi-panel {{
+                grid-template-columns: 1fr;
+            }}
+            .finn-upi-metrics {{
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }}
         }}
         .finn-news-list {{
             margin-top: 0.75rem;

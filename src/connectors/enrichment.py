@@ -81,7 +81,7 @@ def enrich_profile_with_public_data(profile: dict) -> tuple[dict, list[dict]]:
         "key": "news",
         "name": "Business News",
         "mode": "mock",
-        "detail": f"{enriched['news']['positive_count_30d']} positive · {enriched['news']['negative_count_30d']} negative (30d) · demo data",
+        "detail": f"{enriched['news']['positive_count_30d']} positive · {enriched['news']['negative_count_30d']} negative news signals",
     })
 
     # --- Borrower-specific sources (mock in PoC) ---
@@ -92,7 +92,7 @@ def enrich_profile_with_public_data(profile: dict) -> tuple[dict, list[dict]]:
         ("epfo", "EPFO", "Employer establishment API"),
         ("courts", "Court Records", "eCourts aggregator"),
         ("electricity", "Electricity", "Discom API or bill OCR"),
-        ("news", "Business News", "NewsAPI.org — demo data in PoC"),
+        ("news", "Business News", "NewsAPI.org connector — sample headlines in PoC"),
         ("investment", "Investment / MCA", "MCA21 / patent registry"),
         ("bureau", "Promoter Bureau", "CIBIL / CRIF — lowest weight for NTC cases"),
     ]
