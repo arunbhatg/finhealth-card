@@ -9,8 +9,6 @@ if str(ROOT) not in sys.path:
 
 import streamlit as st
 
-from src.utils.constants import FINN_SCORE_LABEL
-
 PAGE_ORDER = ("Cases", "Assessment", "Details")
 
 
@@ -57,6 +55,7 @@ def bootstrap_once():
 
 def sidebar():
     from app.components.branding import render_sidebar_branding, render_sidebar_footer_link
+    from src.utils.labels import FINN_SCORE_LABEL
 
     render_sidebar_branding()
 

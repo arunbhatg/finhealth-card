@@ -6,7 +6,7 @@ import streamlit as st
 from src.utils.helpers import score_to_grade
 
 
-from src.utils.constants import FINN_SCORE_LABEL
+from src.utils.labels import FINN_SCORE_LABEL
 
 
 def render_score_gauge(score: float, grade: str = "") -> None:

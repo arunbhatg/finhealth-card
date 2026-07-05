@@ -4,9 +4,10 @@ from __future__ import annotations
 
 import pandas as pd
 
-from src.utils.constants import FINN_SCORE_LABEL, MACRO_INDICATORS, SECTOR_GROWTH
+from src.utils.constants import MACRO_INDICATORS, SECTOR_GROWTH
 from src.utils.display_metrics import active_litigation_label
 from src.utils.helpers import avg_recent, compliance_rate, yoy_growth
+from src.utils.labels import FINN_SCORE_LABEL
 
 
 def _kv_table(rows: list[tuple], columns: tuple[str, str] = ("Field", "Value")) -> pd.DataFrame:
