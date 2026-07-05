@@ -112,7 +112,6 @@ def _render_news_panel(profile: dict) -> None:
     articles = news.get("articles", [])
     pos = news.get("positive_count_30d", 0)
     neg = news.get("negative_count_30d", 0)
-    source = "live" if news.get("live") else "synthetic"
 
     df = pd.DataFrame(
         {"Sentiment": ["Positive", "Negative"], "Articles": [pos, neg]}
@@ -122,7 +121,7 @@ def _render_news_panel(profile: dict) -> None:
         df,
         x="Sentiment",
         y="Articles",
-        title=f"Recent news (30d) · {source}",
+        title="Recent news (30d) · demo data",
         color="Sentiment",
         color_discrete_map=colors,
     )

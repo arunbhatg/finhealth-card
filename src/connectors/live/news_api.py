@@ -1,4 +1,4 @@
-"""Optional NewsAPI.org integration — requires NEWS_API_KEY."""
+"""Business news connector — dummy data for PoC; NewsAPI.org live path kept for later."""
 
 from __future__ import annotations
 
@@ -11,6 +11,9 @@ import requests
 logger = logging.getLogger(__name__)
 
 NEWS_API_URL = "https://newsapi.org/v2/everything"
+
+# Flip to True (and set NEWS_API_KEY) when ready for live news.
+USE_LIVE_NEWS = False
 
 _POSITIVE = re.compile(
     r"\b(growth|expansion|profit|award|partnership|launch|record|boost|wins?|success)\b",
@@ -31,6 +34,10 @@ def _sentiment_from_text(text: str) -> str:
 
 
 def fetch_business_news(business_name: str, sector: str) -> dict | None:
+    """Live NewsAPI fetch — not used until USE_LIVE_NEWS is enabled."""
+    if not USE_LIVE_NEWS:
+        return None
+
     api_key = os.getenv("NEWS_API_KEY") or os.getenv("STREAMLIT_NEWS_API_KEY")
     if not api_key:
         return None
@@ -83,6 +90,17 @@ def fetch_business_news(business_name: str, sector: str) -> dict | None:
     except Exception as exc:
         logger.warning("News API fetch failed: %s", exc)
         return None
+
+
+def get_business_news(profile: dict) -> dict:
+    """News for enrichment — dummy by default; live when USE_LIVE_NEWS is on."""
+    existing = profile.get("news")
+    if existing and not USE_LIVE_NEWS:
+        return existing
+    live = fetch_business_news(profile["business_name"], profile["sector"])
+    if live:
+        return live
+    return mock_business_news(profile)
 
 
 def mock_business_news(profile: dict) -> dict:
