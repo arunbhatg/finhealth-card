@@ -85,4 +85,4 @@ All borrower data is **synthetic**. Architecture supports production connectors 
 
 ## License
 
-Hackathon / PoC — IDBI internal use.
+Hackathon / PoC — IDBI/FINNDOT internal use.
