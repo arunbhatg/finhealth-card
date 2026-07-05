@@ -1,0 +1,355 @@
+{
+  "msme_id": "MSME055",
+  "business_name": "Lanka Group",
+  "pan": "RAYSZ5453U",
+  "gstin": "27USHFRRCV1E1ZY",
+  "sector": "Textiles",
+  "city": "Anantapuram",
+  "state": "Maharashtra",
+  "years_in_business": 2,
+  "udyam_number": "UDYAM-27-1548103",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2023-02-10",
+    "business_type": "Textiles",
+    "monthly_turnover_lakhs": [
+      32.63,
+      32.19,
+      34.05,
+      35.08,
+      36.48,
+      37.45,
+      37.07,
+      36.51,
+      35.71,
+      35.12,
+      34.36,
+      35.92,
+      37.29,
+      37.82,
+      38.04,
+      40.1,
+      40.9,
+      41.4,
+      43.3,
+      43.9,
+      45.21,
+      44.41,
+      44.85,
+      45.72
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed"
+    ],
+    "b2b_sales_ratio": 0.63,
+    "payment_delays_count": 1,
+    "primary_customer_sectors": {
+      "Textiles": 0.54,
+      "Pharma": 0.41,
+      "Food Processing": 0.05
+    }
+  },
+  "upi": {
+    "vpa": "lanka@ybl",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      17.22,
+      17.44,
+      17.14,
+      17.67,
+      18.23,
+      17.99,
+      18.63,
+      18.53,
+      18.4,
+      19.05,
+      19.55,
+      20.26
+    ],
+    "avg_ticket_size": [
+      17.22,
+      17.44,
+      17.14,
+      17.67,
+      18.23,
+      17.99,
+      18.63,
+      18.53,
+      18.4,
+      19.05,
+      19.55,
+      20.26
+    ],
+    "p2m_ratio": 0.66,
+    "failed_txn_rate": 0.012
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME055",
+    "accounts": [
+      {
+        "bank": "ICICI",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      3.39,
+      3.07,
+      2.76,
+      2.69,
+      2.42,
+      2.24,
+      2.74,
+      3.12,
+      3.26,
+      3.7,
+      3.85,
+      3.93
+    ],
+    "monthly_credits_lakhs": [
+      19.15,
+      19.19,
+      20.49,
+      20.6,
+      20.76,
+      20.6,
+      20.5,
+      20.25,
+      21.52,
+      22.87,
+      23.81,
+      23.71
+    ],
+    "monthly_debits_lakhs": [
+      15.35,
+      14.67,
+      19.04,
+      17.97,
+      17.21,
+      19.27,
+      17.79,
+      18.24,
+      17.18,
+      20.38,
+      21.94,
+      19.09
+    ],
+    "abb_lakhs": 3.83,
+    "emi_on_time_rate": 0.99,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.19
+  },
+  "epfo": {
+    "establishment_id": "MA/ANA/982347",
+    "employee_count": [
+      32,
+      33,
+      33,
+      33,
+      32,
+      33,
+      33,
+      34,
+      33,
+      33,
+      34,
+      34
+    ],
+    "monthly_wage_bill_lakhs": [
+      617057.19,
+      832573.51,
+      832770.19,
+      666113.67,
+      760198.24,
+      863798.9,
+      806039.93,
+      911994.53,
+      786270.18,
+      902139.99,
+      645918.05,
+      665615.73
+    ],
+    "contribution_status": [
+      "missed",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "missed",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 5,
+    "attrition_rate": 0.05
+  },
+  "google": {
+    "place_id": "ChIJMSME055",
+    "rating": 3.6,
+    "review_count": 13,
+    "reviews": [
+      {
+        "rating": 3,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 110
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 342
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 402
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 3
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 224
+      },
+      {
+        "rating": 3,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 306
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 398
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 380
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 196
+      },
+      {
+        "rating": 4,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 139
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 469
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 111
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 426
+      }
+    ],
+    "response_rate": 0.84,
+    "review_velocity_6m": 4
+  },
+  "bureau": {
+    "promoter_name": "Girish Dutta",
+    "cibil_score": 798,
+    "active_loans": 2,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.44
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC954659",
+    "monthly_kwh": [
+      2628.32,
+      2684.56,
+      2593.77,
+      2527.27,
+      2420.86,
+      2362.13,
+      2334.69,
+      2281.71,
+      2353.96,
+      2269.67,
+      2278.4,
+      2278.2
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.97
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 87.8,
+    "region_tier": "Tier-2"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.76,
+    "capex_lakhs_12m": 3.05,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

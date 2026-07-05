@@ -1,0 +1,415 @@
+{
+  "msme_id": "MSME056",
+  "business_name": "Ravel, Kota and Kohli",
+  "pan": "DDKZF8222O",
+  "gstin": "07MQM57FHSF21ZA",
+  "sector": "Textiles",
+  "city": "Nashik",
+  "state": "Delhi",
+  "years_in_business": 11,
+  "udyam_number": "UDYAM-07-3240852",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2024-10-09",
+    "business_type": "Textiles",
+    "monthly_turnover_lakhs": [
+      22.6,
+      23.04,
+      22.7,
+      23.75,
+      23.12,
+      23.98,
+      23.12,
+      23.66,
+      22.91,
+      21.76,
+      23.08,
+      24.43,
+      25.26,
+      25.55,
+      24.95,
+      25.04,
+      24.37,
+      23.65,
+      24.41,
+      25.89,
+      24.91,
+      23.92,
+      23.43,
+      22.25
+    ],
+    "filing_status": [
+      "delayed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.8,
+    "payment_delays_count": 5,
+    "primary_customer_sectors": {
+      "Retail": 0.75,
+      "Logistics": 0.16,
+      "Services": 0.09
+    }
+  },
+  "upi": {
+    "vpa": "ravel,@ybl",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      16.38,
+      17.07,
+      17.08,
+      17.65,
+      17.7,
+      17.25,
+      17.36,
+      18.16,
+      17.75,
+      17.57,
+      16.94,
+      17.77
+    ],
+    "avg_ticket_size": [
+      16.38,
+      17.07,
+      17.08,
+      17.65,
+      17.7,
+      17.25,
+      17.36,
+      18.16,
+      17.75,
+      17.57,
+      16.94,
+      17.77
+    ],
+    "p2m_ratio": 0.81,
+    "failed_txn_rate": 0.009
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME056",
+    "accounts": [
+      {
+        "bank": "Axis",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      11.82,
+      11.74,
+      11.81,
+      12.05,
+      12.49,
+      12.75,
+      12.43,
+      12.21,
+      11.99,
+      11.71,
+      11.81,
+      12.28
+    ],
+    "monthly_credits_lakhs": [
+      24.02,
+      23.15,
+      24.41,
+      23.62,
+      23.64,
+      23.79,
+      23.28,
+      23.03,
+      23.59,
+      23.51,
+      24.63,
+      25.03
+    ],
+    "monthly_debits_lakhs": [
+      21.23,
+      21.49,
+      22.7,
+      19.86,
+      17.96,
+      21.76,
+      18.82,
+      17.44,
+      20.66,
+      18.69,
+      19.22,
+      19.29
+    ],
+    "abb_lakhs": 11.93,
+    "emi_on_time_rate": 0.92,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.33
+  },
+  "epfo": {
+    "establishment_id": "DE/NAS/224520",
+    "employee_count": [
+      21,
+      20,
+      20,
+      21,
+      21,
+      21,
+      21,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "monthly_wage_bill_lakhs": [
+      473424.74,
+      392709.95,
+      432143.31,
+      438744.89,
+      408311.81,
+      456892.9,
+      457145.68,
+      424100.54,
+      522181.77,
+      478220.52,
+      489209.8,
+      529999.48
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "delayed",
+      "paid",
+      "paid",
+      "paid",
+      "delayed",
+      "paid",
+      "missed",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 6,
+    "attrition_rate": 0.1
+  },
+  "google": {
+    "place_id": "ChIJMSME056",
+    "rating": 3.5,
+    "review_count": 23,
+    "reviews": [
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 164
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 425
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 486
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 158
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 358
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 138
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 155
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 421
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 324
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 239
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 419
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 185
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 266
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 348
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 229
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 45
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 161
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 156
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 382
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 382
+      },
+      {
+        "rating": 2,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 428
+      },
+      {
+        "rating": 1,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 9
+      },
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 335
+      }
+    ],
+    "response_rate": 0.76,
+    "review_velocity_6m": 8
+  },
+  "bureau": {
+    "promoter_name": "Warjas Parekh",
+    "cibil_score": 798,
+    "active_loans": 0,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.35
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC557303",
+    "monthly_kwh": [
+      1638.38,
+      1585.82,
+      1671.59,
+      1708.84,
+      1699.15,
+      1715.36,
+      1700.09,
+      1737.24,
+      1827.28,
+      1781.0,
+      1832.8,
+      1848.04
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.9
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 98.1,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.39,
+    "capex_lakhs_12m": 0.9,
+    "patents_count": 0,
+    "govt_scheme_beneficiary": false
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "msme_id": "MSME024",
+  "business_name": "Basak-Garg",
+  "pan": "XARJU1932Z",
+  "gstin": "279HKHJG4IHG1ZQ",
+  "sector": "Agri-Input",
+  "city": "Ulhasnagar",
+  "state": "Maharashtra",
+  "years_in_business": 7,
+  "udyam_number": "UDYAM-27-8249042",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2021-01-29",
+    "business_type": "Agri-Input",
+    "monthly_turnover_lakhs": [
+      35.27,
+      34.47,
+      34.69,
+      35.39,
+      34.98,
+      34.89,
+      35.42,
+      36.81,
+      37.73,
+      38.13,
+      39.33,
+      38.86,
+      37.94,
+      37.32,
+      37.84,
+      37.32,
+      36.33,
+      36.49,
+      36.87,
+      36.97,
+      37.78,
+      38.77,
+      39.79,
+      40.27
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "missed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.57,
+    "payment_delays_count": 6,
+    "primary_customer_sectors": {
+      "Services": 0.72,
+      "Logistics": 0.25,
+      "Manufacturing": 0.04
+    }
+  },
+  "upi": {
+    "vpa": "basak-garg@ybl",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      12.04,
+      12.23,
+      12.22,
+      12.47,
+      12.4,
+      12.41,
+      12.31,
+      12.85,
+      12.62,
+      12.48,
+      12.02,
+      11.65
+    ],
+    "avg_ticket_size": [
+      12.04,
+      12.23,
+      12.22,
+      12.47,
+      12.4,
+      12.41,
+      12.31,
+      12.85,
+      12.62,
+      12.48,
+      12.02,
+      11.65
+    ],
+    "p2m_ratio": 0.64,
+    "failed_txn_rate": 0.012
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME024",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      9.91,
+      9.51,
+      9.87,
+      9.9,
+      10.06,
+      10.37,
+      10.81,
+      10.43,
+      10.02,
+      9.58,
+      9.29,
+      9.01
+    ],
+    "monthly_credits_lakhs": [
+      12.81,
+      13.61,
+      14.1,
+      13.61,
+      14.15,
+      15.4,
+      16.65,
+      17.31,
+      17.95,
+      19.0,
+      17.89,
+      17.48
+    ],
+    "monthly_debits_lakhs": [
+      11.71,
+      12.34,
+      11.71,
+      11.31,
+      12.25,
+      13.57,
+      14.06,
+      14.76,
+      16.2,
+      14.82,
+      14.84,
+      13.9
+    ],
+    "abb_lakhs": 9.29,
+    "emi_on_time_rate": 0.99,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.12
+  },
+  "epfo": {
+    "establishment_id": "MA/ULH/210335",
+    "employee_count": [
+      17,
+      18,
+      18,
+      18,
+      18,
+      18,
+      19,
+      18,
+      18,
+      18,
+      19,
+      18
+    ],
+    "monthly_wage_bill_lakhs": [
+      382495.23,
+      424520.43,
+      391446.03,
+      427951.52,
+      347102.22,
+      493803.72,
+      343839.42,
+      469872.25,
+      474173.8,
+      385168.0,
+      421637.99,
+      447437.31
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "delayed",
+      "missed",
+      "paid",
+      "paid",
+      "missed",
+      "delayed"
+    ],
+    "new_joiners_12m": 8,
+    "attrition_rate": 0.1
+  },
+  "google": {
+    "place_id": "ChIJMSME024",
+    "rating": 3.7,
+    "review_count": 13,
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 291
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 72
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 176
+      },
+      {
+        "rating": 2,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 161
+      },
+      {
+        "rating": 4,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 490
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 134
+      },
+      {
+        "rating": 3,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 487
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 208
+      },
+      {
+        "rating": 3,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 207
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 409
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 503
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 295
+      },
+      {
+        "rating": 1,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 305
+      }
+    ],
+    "response_rate": 0.65,
+    "review_velocity_6m": 4
+  },
+  "bureau": {
+    "promoter_name": "Triya Kade",
+    "cibil_score": 775,
+    "active_loans": 2,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.25
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC128015",
+    "monthly_kwh": [
+      4712.75,
+      4720.57,
+      4746.1,
+      4742.62,
+      4865.73,
+      4925.05,
+      4917.88,
+      4884.02,
+      4950.64,
+      4918.24,
+      5015.39,
+      5068.55
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.71
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 88.6,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.59,
+    "capex_lakhs_12m": 3.19,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

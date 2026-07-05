@@ -1,0 +1,361 @@
+{
+  "msme_id": "MSME063",
+  "business_name": "Choudhry and Sons",
+  "pan": "GVQRS5119A",
+  "gstin": "077QFQ9N04FD1Z8",
+  "sector": "Pharma",
+  "city": "Eluru",
+  "state": "Delhi",
+  "years_in_business": 9,
+  "udyam_number": "UDYAM-07-9403033",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2023-12-09",
+    "business_type": "Pharma",
+    "monthly_turnover_lakhs": [
+      14.55,
+      14.85,
+      15.05,
+      14.65,
+      14.25,
+      14.64,
+      13.34,
+      12.89,
+      13.56,
+      14.09,
+      15.5,
+      14.86,
+      16.04,
+      15.58,
+      15.62,
+      16.51,
+      17.25,
+      17.37,
+      18.4,
+      18.56,
+      20.02,
+      19.53,
+      19.38,
+      20.3
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.82,
+    "payment_delays_count": 2,
+    "primary_customer_sectors": {
+      "Retail": 0.52,
+      "Food Processing": 0.25,
+      "Services": 0.23
+    }
+  },
+  "upi": {
+    "vpa": "choudhry@ybl",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      22.04,
+      21.58,
+      21.49,
+      21.69,
+      21.35,
+      20.89,
+      20.16,
+      20.78,
+      20.3,
+      19.81,
+      20.54,
+      19.93
+    ],
+    "avg_ticket_size": [
+      22.04,
+      21.58,
+      21.49,
+      21.69,
+      21.35,
+      20.89,
+      20.16,
+      20.78,
+      20.3,
+      19.81,
+      20.54,
+      19.93
+    ],
+    "p2m_ratio": 0.76,
+    "failed_txn_rate": 0.009
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME063",
+    "accounts": [
+      {
+        "bank": "Axis",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      8.66,
+      8.18,
+      7.7,
+      7.91,
+      7.84,
+      7.52,
+      7.72,
+      7.27,
+      7.19,
+      6.69,
+      7.12,
+      7.52
+    ],
+    "monthly_credits_lakhs": [
+      24.68,
+      24.93,
+      24.81,
+      24.11,
+      24.11,
+      23.64,
+      22.59,
+      23.16,
+      23.48,
+      22.45,
+      23.13,
+      23.35
+    ],
+    "monthly_debits_lakhs": [
+      19.72,
+      22.5,
+      21.28,
+      18.94,
+      18.86,
+      21.68,
+      17.37,
+      21.77,
+      18.65,
+      20.66,
+      20.56,
+      19.47
+    ],
+    "abb_lakhs": 7.11,
+    "emi_on_time_rate": 0.71,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.25
+  },
+  "epfo": {
+    "establishment_id": "DE/ELU/778998",
+    "employee_count": [
+      6,
+      6,
+      6,
+      5,
+      5,
+      5,
+      5,
+      6,
+      6,
+      5,
+      6,
+      6
+    ],
+    "monthly_wage_bill_lakhs": [
+      131455.34,
+      121103.32,
+      139543.29,
+      136969.65,
+      90516.17,
+      118622.15,
+      101413.46,
+      118407.85,
+      124282.61,
+      94506.59,
+      157569.74,
+      147542.09
+    ],
+    "contribution_status": [
+      "delayed",
+      "paid",
+      "delayed",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "missed",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 6,
+    "attrition_rate": 0.1
+  },
+  "google": {
+    "place_id": "ChIJMSME063",
+    "rating": 3.4,
+    "review_count": 14,
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 300
+      },
+      {
+        "rating": 1,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 439
+      },
+      {
+        "rating": 2,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 103
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 507
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 307
+      },
+      {
+        "rating": 5,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 294
+      },
+      {
+        "rating": 2,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 274
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 276
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 514
+      },
+      {
+        "rating": 2,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 12
+      },
+      {
+        "rating": 2,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 379
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 429
+      },
+      {
+        "rating": 5,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 479
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 65
+      }
+    ],
+    "response_rate": 0.65,
+    "review_velocity_6m": 3
+  },
+  "bureau": {
+    "promoter_name": "Omaja Mahajan",
+    "cibil_score": 694,
+    "active_loans": 2,
+    "dpd_12m": 2,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.25
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC863092",
+    "monthly_kwh": [
+      911.95,
+      988.11,
+      941.5,
+      1020.62,
+      955.65,
+      887.37,
+      877.62,
+      952.88,
+      953.55,
+      944.86,
+      924.94,
+      1004.77
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.83
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 91.3,
+    "region_tier": "Tier-1"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.98,
+    "capex_lakhs_12m": 0.41,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "msme_id": "MSME041",
+  "business_name": "Zachariah Ltd",
+  "pan": "WQWYY3351B",
+  "gstin": "079VFRUK94IW1ZA",
+  "sector": "Agri-Input",
+  "city": "Tiruppur",
+  "state": "Delhi",
+  "years_in_business": 14,
+  "udyam_number": "UDYAM-07-2189815",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2022-04-02",
+    "business_type": "Agri-Input",
+    "monthly_turnover_lakhs": [
+      8.01,
+      6.97,
+      6.86,
+      8.18,
+      9.66,
+      10.94,
+      9.84,
+      10.28,
+      11.67,
+      12.59,
+      13.78,
+      15.12,
+      14.2,
+      13.09,
+      13.81,
+      13.72,
+      14.93,
+      15.57,
+      14.94,
+      13.56,
+      13.8,
+      12.54,
+      13.15,
+      12.35
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.39,
+    "payment_delays_count": 4,
+    "primary_customer_sectors": {
+      "Logistics": 0.38,
+      "Retail": 0.53,
+      "Manufacturing": 0.09
+    }
+  },
+  "upi": {
+    "vpa": "zachariah@okaxis",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      18.82,
+      18.24,
+      18.1,
+      18.69,
+      18.84,
+      18.72,
+      19.44,
+      19.88,
+      20.03,
+      19.83,
+      20.13,
+      20.07
+    ],
+    "avg_ticket_size": [
+      18.82,
+      18.24,
+      18.1,
+      18.69,
+      18.84,
+      18.72,
+      19.44,
+      19.88,
+      20.03,
+      19.83,
+      20.13,
+      20.07
+    ],
+    "p2m_ratio": 0.71,
+    "failed_txn_rate": 0.016
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME041",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      9.01,
+      9.51,
+      9.79,
+      9.46,
+      9.65,
+      10.05,
+      10.25,
+      10.17,
+      10.65,
+      10.26,
+      10.03,
+      9.68
+    ],
+    "monthly_credits_lakhs": [
+      28.57,
+      28.55,
+      28.74,
+      29.27,
+      30.31,
+      30.04,
+      31.15,
+      32.42,
+      31.68,
+      31.41,
+      31.84,
+      32.54
+    ],
+    "monthly_debits_lakhs": [
+      26.29,
+      24.69,
+      27.17,
+      26.59,
+      27.73,
+      24.91,
+      28.49,
+      30.03,
+      30.04,
+      26.97,
+      27.19,
+      28.15
+    ],
+    "abb_lakhs": 9.99,
+    "emi_on_time_rate": 0.95,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.33
+  },
+  "epfo": {
+    "establishment_id": "DE/TIR/129009",
+    "employee_count": [
+      21,
+      21,
+      21,
+      21,
+      21,
+      21,
+      20,
+      21,
+      21,
+      21,
+      21,
+      21
+    ],
+    "monthly_wage_bill_lakhs": [
+      460487.94,
+      499174.08,
+      535463.53,
+      522438.2,
+      585469.62,
+      425421.11,
+      488780.45,
+      410697.25,
+      523728.0,
+      536196.98,
+      528402.4,
+      565568.54
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 3,
+    "attrition_rate": 0.1
+  },
+  "google": {
+    "place_id": "ChIJMSME041",
+    "rating": 4.7,
+    "review_count": 35,
+    "reviews": [
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 490
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 33
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 485
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 101
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 503
+      },
+      {
+        "rating": 2,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 89
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 252
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 466
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 481
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 222
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 29
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 186
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 50
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 503
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 41
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 159
+      },
+      {
+        "rating": 5,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 498
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 386
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 506
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 104
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 25
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 22
+      },
+      {
+        "rating": 2,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 109
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 433
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 487
+      },
+      {
+        "rating": 1,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 124
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 202
+      },
+      {
+        "rating": 1,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 270
+      },
+      {
+        "rating": 1,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 424
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 151
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 12
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 116
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 10
+      },
+      {
+        "rating": 3,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 250
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 487
+      }
+    ],
+    "response_rate": 0.61,
+    "review_velocity_6m": 16
+  },
+  "bureau": {
+    "promoter_name": "Megha Dada",
+    "cibil_score": 763,
+    "active_loans": 1,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.39
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC744764",
+    "monthly_kwh": [
+      535.17,
+      479.42,
+      547.48,
+      586.47,
+      502.98,
+      496.15,
+      422.57,
+      513.77,
+      548.81,
+      453.82,
+      475.73,
+      446.88
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.87
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 93.9,
+    "region_tier": "Tier-2"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.72,
+    "capex_lakhs_12m": 4.44,
+    "patents_count": 0,
+    "govt_scheme_beneficiary": false
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "msme_id": "MSME072",
+  "business_name": "Tella, Batta and Ghose",
+  "pan": "UECSI5407B",
+  "gstin": "08QR8ZMMXX1C1ZB",
+  "sector": "Manufacturing",
+  "city": "Chapra",
+  "state": "Rajasthan",
+  "years_in_business": 4,
+  "udyam_number": "UDYAM-08-2027623",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2023-09-02",
+    "business_type": "Manufacturing",
+    "monthly_turnover_lakhs": [
+      34.8,
+      33.88,
+      33.08,
+      32.01,
+      32.53,
+      31.37,
+      30.91,
+      29.84,
+      30.92,
+      30.53,
+      30.91,
+      31.54,
+      31.96,
+      31.53,
+      30.66,
+      30.63,
+      29.35,
+      30.36,
+      30.65,
+      29.7,
+      28.29,
+      29.58,
+      28.79,
+      29.76
+    ],
+    "filing_status": [
+      "delayed",
+      "filed",
+      "filed",
+      "delayed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "delayed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.47,
+    "payment_delays_count": 6,
+    "primary_customer_sectors": {
+      "Retail": 0.14,
+      "Services": 0.7,
+      "Textiles": 0.15
+    }
+  },
+  "upi": {
+    "vpa": "tella,@paytm",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      3.9,
+      4.49,
+      4.98,
+      5.47,
+      4.92,
+      4.8,
+      4.46,
+      4.35,
+      4.93,
+      5.53,
+      6.11,
+      5.9
+    ],
+    "avg_ticket_size": [
+      3.9,
+      4.49,
+      4.98,
+      5.47,
+      4.92,
+      4.8,
+      4.46,
+      4.35,
+      4.93,
+      5.53,
+      6.11,
+      5.9
+    ],
+    "p2m_ratio": 0.73,
+    "failed_txn_rate": 0.01
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME072",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      12.26,
+      12.75,
+      12.56,
+      12.4,
+      12.85,
+      13.26,
+      13.24,
+      13.57,
+      13.73,
+      13.54,
+      13.79,
+      13.89
+    ],
+    "monthly_credits_lakhs": [
+      28.83,
+      28.67,
+      28.14,
+      27.94,
+      27.11,
+      27.84,
+      28.0,
+      28.47,
+      29.24,
+      28.07,
+      27.82,
+      26.92
+    ],
+    "monthly_debits_lakhs": [
+      21.66,
+      23.87,
+      21.83,
+      24.13,
+      22.11,
+      23.85,
+      22.87,
+      21.98,
+      26.72,
+      21.36,
+      23.21,
+      20.87
+    ],
+    "abb_lakhs": 13.74,
+    "emi_on_time_rate": 0.76,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.29
+  },
+  "epfo": {
+    "establishment_id": "RA/CHA/112606",
+    "employee_count": [
+      33,
+      33,
+      33,
+      33,
+      33,
+      34,
+      34,
+      34,
+      33,
+      34,
+      33,
+      33
+    ],
+    "monthly_wage_bill_lakhs": [
+      637226.84,
+      630381.52,
+      738238.46,
+      852251.59,
+      716511.85,
+      613485.92,
+      662097.05,
+      678600.42,
+      888683.26,
+      768899.49,
+      918708.78,
+      821559.2
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 1,
+    "attrition_rate": 0.11
+  },
+  "google": {
+    "place_id": "ChIJMSME072",
+    "rating": 3.5,
+    "review_count": 21,
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 277
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 500
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 405
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 533
+      },
+      {
+        "rating": 5,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 142
+      },
+      {
+        "rating": 1,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 51
+      },
+      {
+        "rating": 1,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 300
+      },
+      {
+        "rating": 3,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 260
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 210
+      },
+      {
+        "rating": 3,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 391
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 416
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 212
+      },
+      {
+        "rating": 2,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 293
+      },
+      {
+        "rating": 1,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 137
+      },
+      {
+        "rating": 1,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 287
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 193
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 221
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 80
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 113
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 62
+      },
+      {
+        "rating": 5,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 522
+      }
+    ],
+    "response_rate": 0.57,
+    "review_velocity_6m": 6
+  },
+  "bureau": {
+    "promoter_name": "Dalaja Tak",
+    "cibil_score": 685,
+    "active_loans": 2,
+    "dpd_12m": 2,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.23
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC572701",
+    "monthly_kwh": [
+      639.21,
+      585.8,
+      608.51,
+      535.83,
+      494.82,
+      506.35,
+      574.96,
+      664.21,
+      754.29,
+      809.78,
+      749.1,
+      778.77
+    ],
+    "tariff_category": "Industrial",
+    "payment_regularity": 0.73
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 96.6,
+    "region_tier": "Tier-2"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.87,
+    "capex_lakhs_12m": 1.31,
+    "patents_count": 0,
+    "govt_scheme_beneficiary": false
+  }
+}

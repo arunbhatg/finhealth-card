@@ -1,0 +1,373 @@
+{
+  "msme_id": "MSME057",
+  "business_name": "Chawla, Tak and Nigam",
+  "pan": "CWLVK6926D",
+  "gstin": "27LCKWT2E0771ZH",
+  "sector": "Services",
+  "city": "Bidar",
+  "state": "Maharashtra",
+  "years_in_business": 2,
+  "udyam_number": "UDYAM-27-3506135",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2024-10-13",
+    "business_type": "Services",
+    "monthly_turnover_lakhs": [
+      32.63,
+      33.56,
+      32.56,
+      32.41,
+      31.81,
+      31.09,
+      30.89,
+      31.31,
+      30.68,
+      29.75,
+      29.5,
+      28.42,
+      29.61,
+      29.2,
+      30.63,
+      32.12,
+      32.57,
+      31.38,
+      31.24,
+      32.11,
+      33.68,
+      35.03,
+      35.7,
+      36.52
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "missed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.86,
+    "payment_delays_count": 5,
+    "primary_customer_sectors": {
+      "Textiles": 0.02,
+      "Pharma": 0.43,
+      "Manufacturing": 0.55
+    }
+  },
+  "upi": {
+    "vpa": "chawla,@paytm",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      23.85,
+      24.87,
+      24.66,
+      25.2,
+      25.95,
+      25.76,
+      25.61,
+      26.08,
+      25.73,
+      26.09,
+      26.39,
+      27.44
+    ],
+    "avg_ticket_size": [
+      23.85,
+      24.87,
+      24.66,
+      25.2,
+      25.95,
+      25.76,
+      25.61,
+      26.08,
+      25.73,
+      26.09,
+      26.39,
+      27.44
+    ],
+    "p2m_ratio": 0.56,
+    "failed_txn_rate": 0.02
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME057",
+    "accounts": [
+      {
+        "bank": "SBI",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      5.61,
+      5.87,
+      6.12,
+      5.72,
+      5.72,
+      5.96,
+      6.25,
+      6.72,
+      6.27,
+      6.75,
+      6.77,
+      6.68
+    ],
+    "monthly_credits_lakhs": [
+      21.28,
+      21.79,
+      21.68,
+      22.08,
+      21.11,
+      22.26,
+      22.56,
+      21.82,
+      22.39,
+      22.04,
+      22.9,
+      23.41
+    ],
+    "monthly_debits_lakhs": [
+      17.95,
+      18.28,
+      18.04,
+      18.59,
+      17.96,
+      17.19,
+      21.3,
+      18.19,
+      20.61,
+      19.37,
+      19.65,
+      18.96
+    ],
+    "abb_lakhs": 6.73,
+    "emi_on_time_rate": 0.81,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.13
+  },
+  "epfo": {
+    "establishment_id": "MA/BID/373740",
+    "employee_count": [
+      35,
+      36,
+      36,
+      37,
+      36,
+      36,
+      36,
+      37,
+      37,
+      37,
+      37,
+      37
+    ],
+    "monthly_wage_bill_lakhs": [
+      831161.15,
+      681912.28,
+      764522.2,
+      741531.81,
+      870027.36,
+      861543.58,
+      968799.29,
+      726127.83,
+      786675.61,
+      888867.27,
+      914330.12,
+      898461.59
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "delayed",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "missed",
+      "paid"
+    ],
+    "new_joiners_12m": 3,
+    "attrition_rate": 0.11
+  },
+  "google": {
+    "place_id": "ChIJMSME057",
+    "rating": 4.8,
+    "review_count": 16,
+    "reviews": [
+      {
+        "rating": 3,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 517
+      },
+      {
+        "rating": 4,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 249
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 212
+      },
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 110
+      },
+      {
+        "rating": 3,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 29
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 171
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 11
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 168
+      },
+      {
+        "rating": 1,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 407
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 19
+      },
+      {
+        "rating": 3,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 259
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 1
+      },
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 195
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 495
+      },
+      {
+        "rating": 3,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 243
+      },
+      {
+        "rating": 3,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 109
+      }
+    ],
+    "response_rate": 0.77,
+    "review_velocity_6m": 8
+  },
+  "bureau": {
+    "promoter_name": "Upasna Kale",
+    "cibil_score": 761,
+    "active_loans": 2,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.31
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC627070",
+    "monthly_kwh": [
+      2495.82,
+      2494.37,
+      2508.52,
+      2520.84,
+      2541.58,
+      2504.67,
+      2542.28,
+      2494.96,
+      2467.01,
+      2492.22,
+      2508.07,
+      2490.87
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.82
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 97.3,
+    "region_tier": "Tier-1"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.83,
+    "capex_lakhs_12m": 4.57,
+    "patents_count": 0,
+    "govt_scheme_beneficiary": false
+  }
+}

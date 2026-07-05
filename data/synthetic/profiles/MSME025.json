@@ -1,0 +1,379 @@
+{
+  "msme_id": "MSME025",
+  "business_name": "Bajwa, Saran and Bhalla",
+  "pan": "RSLMH1861D",
+  "gstin": "2904OAE7L0RC1Z9",
+  "sector": "Textiles",
+  "city": "Raebareli",
+  "state": "Karnataka",
+  "years_in_business": 15,
+  "udyam_number": "UDYAM-29-3782058",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2022-05-22",
+    "business_type": "Textiles",
+    "monthly_turnover_lakhs": [
+      9.69,
+      8.91,
+      9.56,
+      10.64,
+      11.64,
+      12.15,
+      12.88,
+      14.16,
+      13.93,
+      13.46,
+      12.21,
+      10.81,
+      11.7,
+      12.58,
+      13.96,
+      13.68,
+      12.99,
+      11.85,
+      11.7,
+      13.25,
+      12.85,
+      12.02,
+      12.61,
+      11.86
+    ],
+    "filing_status": [
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.8,
+    "payment_delays_count": 4,
+    "primary_customer_sectors": {
+      "Manufacturing": 0.0,
+      "Food Processing": 0.58,
+      "Pharma": 0.42
+    }
+  },
+  "upi": {
+    "vpa": "bajwa,@paytm",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      16.68,
+      16.18,
+      16.37,
+      17.3,
+      18.0,
+      17.63,
+      18.51,
+      18.82,
+      19.75,
+      20.23,
+      20.68,
+      21.61
+    ],
+    "avg_ticket_size": [
+      16.68,
+      16.18,
+      16.37,
+      17.3,
+      18.0,
+      17.63,
+      18.51,
+      18.82,
+      19.75,
+      20.23,
+      20.68,
+      21.61
+    ],
+    "p2m_ratio": 0.88,
+    "failed_txn_rate": 0.009
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME025",
+    "accounts": [
+      {
+        "bank": "ICICI",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      10.58,
+      10.75,
+      11.18,
+      11.03,
+      11.42,
+      11.44,
+      11.32,
+      11.47,
+      11.59,
+      11.51,
+      11.7,
+      11.47
+    ],
+    "monthly_credits_lakhs": [
+      21.0,
+      20.5,
+      20.92,
+      22.02,
+      21.72,
+      22.44,
+      23.21,
+      23.66,
+      22.77,
+      22.63,
+      22.3,
+      21.62
+    ],
+    "monthly_debits_lakhs": [
+      16.61,
+      15.53,
+      19.55,
+      19.15,
+      20.4,
+      20.15,
+      18.93,
+      19.06,
+      20.01,
+      20.41,
+      19.05,
+      20.44
+    ],
+    "abb_lakhs": 11.56,
+    "emi_on_time_rate": 0.97,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.22
+  },
+  "epfo": {
+    "establishment_id": "KA/RAE/423066",
+    "employee_count": [
+      23,
+      23,
+      23,
+      23,
+      23,
+      22,
+      23,
+      23,
+      23,
+      24,
+      23,
+      24
+    ],
+    "monthly_wage_bill_lakhs": [
+      533938.54,
+      456215.46,
+      558849.98,
+      428861.88,
+      527077.73,
+      605805.46,
+      425984.58,
+      642162.89,
+      629803.14,
+      462134.64,
+      453945.44,
+      563723.3
+    ],
+    "contribution_status": [
+      "delayed",
+      "paid",
+      "paid",
+      "missed",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "delayed",
+      "paid"
+    ],
+    "new_joiners_12m": 0,
+    "attrition_rate": 0.12
+  },
+  "google": {
+    "place_id": "ChIJMSME025",
+    "rating": 4.5,
+    "review_count": 17,
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 157
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 475
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 493
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 201
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 513
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 426
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 394
+      },
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 73
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 395
+      },
+      {
+        "rating": 4,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 262
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 522
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 60
+      },
+      {
+        "rating": 1,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 249
+      },
+      {
+        "rating": 1,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 29
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 467
+      },
+      {
+        "rating": 4,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 166
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 408
+      }
+    ],
+    "response_rate": 0.4,
+    "review_velocity_6m": 5
+  },
+  "bureau": {
+    "promoter_name": "Max Dube",
+    "cibil_score": 767,
+    "active_loans": 0,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.39
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC537090",
+    "monthly_kwh": [
+      3928.3,
+      4019.38,
+      3995.52,
+      3925.58,
+      3910.43,
+      3908.07,
+      3951.65,
+      4000.26,
+      4060.69,
+      4115.85,
+      4016.22,
+      3989.0
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.78
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 91.5,
+    "region_tier": "Tier-2"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 1.06,
+    "capex_lakhs_12m": 1.44,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

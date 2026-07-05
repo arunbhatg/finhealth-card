@@ -1,0 +1,361 @@
+{
+  "msme_id": "MSME017",
+  "business_name": "Sarraf, Tandon and Ramaswamy",
+  "pan": "KPFRI5939N",
+  "gstin": "07XCHFU131XQ1ZS",
+  "sector": "Agri-Input",
+  "city": "Shimoga",
+  "state": "Delhi",
+  "years_in_business": 14,
+  "udyam_number": "UDYAM-07-7519465",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2020-11-22",
+    "business_type": "Agri-Input",
+    "monthly_turnover_lakhs": [
+      11.31,
+      12.83,
+      11.47,
+      11.78,
+      13.34,
+      12.31,
+      11.79,
+      10.52,
+      10.42,
+      10.81,
+      11.3,
+      12.06,
+      11.9,
+      11.84,
+      11.1,
+      10.24,
+      9.27,
+      9.53,
+      10.67,
+      10.36,
+      10.23,
+      9.7,
+      10.92,
+      9.92
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.5,
+    "payment_delays_count": 1,
+    "primary_customer_sectors": {
+      "Manufacturing": 0.18,
+      "Services": 0.05,
+      "Retail": 0.78
+    }
+  },
+  "upi": {
+    "vpa": "sarraf,@okaxis",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      11.67,
+      11.61,
+      12.53,
+      12.8,
+      13.29,
+      12.84,
+      12.98,
+      13.45,
+      13.05,
+      13.59,
+      14.54,
+      15.5
+    ],
+    "avg_ticket_size": [
+      11.67,
+      11.61,
+      12.53,
+      12.8,
+      13.29,
+      12.84,
+      12.98,
+      13.45,
+      13.05,
+      13.59,
+      14.54,
+      15.5
+    ],
+    "p2m_ratio": 0.59,
+    "failed_txn_rate": 0.012
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME017",
+    "accounts": [
+      {
+        "bank": "SBI",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      11.93,
+      11.58,
+      12.03,
+      11.68,
+      11.72,
+      12.02,
+      12.55,
+      12.19,
+      12.39,
+      12.76,
+      12.64,
+      12.26
+    ],
+    "monthly_credits_lakhs": [
+      14.4,
+      14.48,
+      14.67,
+      14.76,
+      15.48,
+      15.45,
+      16.73,
+      17.62,
+      17.31,
+      16.38,
+      17.57,
+      18.36
+    ],
+    "monthly_debits_lakhs": [
+      12.89,
+      12.49,
+      11.18,
+      12.47,
+      12.13,
+      11.75,
+      15.86,
+      16.07,
+      15.14,
+      13.22,
+      13.47,
+      15.63
+    ],
+    "abb_lakhs": 12.55,
+    "emi_on_time_rate": 0.73,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.12
+  },
+  "epfo": {
+    "establishment_id": "DE/SHI/699098",
+    "employee_count": [
+      21,
+      22,
+      21,
+      21,
+      22,
+      22,
+      22,
+      22,
+      23,
+      23,
+      22,
+      23
+    ],
+    "monthly_wage_bill_lakhs": [
+      427601.13,
+      435778.02,
+      488751.66,
+      384949.01,
+      612495.76,
+      608816.04,
+      527019.7,
+      576779.23,
+      606651.27,
+      587135.1,
+      486848.53,
+      502128.41
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 4,
+    "attrition_rate": 0.1
+  },
+  "google": {
+    "place_id": "ChIJMSME017",
+    "rating": 3.2,
+    "review_count": 14,
+    "reviews": [
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 443
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 344
+      },
+      {
+        "rating": 3,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 401
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 200
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 321
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 13
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 360
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 35
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 223
+      },
+      {
+        "rating": 1,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 89
+      },
+      {
+        "rating": 4,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 190
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 302
+      },
+      {
+        "rating": 1,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 284
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 332
+      }
+    ],
+    "response_rate": 0.67,
+    "review_velocity_6m": 3
+  },
+  "bureau": {
+    "promoter_name": "Wahab Vala",
+    "cibil_score": 728,
+    "active_loans": 0,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.43
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC379378",
+    "monthly_kwh": [
+      4896.08,
+      4888.47,
+      4970.76,
+      4995.14,
+      4994.24,
+      5046.91,
+      5080.92,
+      5086.06,
+      5192.96,
+      5217.78,
+      5229.58,
+      5284.4
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.96
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 110.6,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.39,
+    "capex_lakhs_12m": 3.5,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "msme_id": "MSME010",
+  "business_name": "Walia-Menon",
+  "pan": "HLDPQ6484C",
+  "gstin": "27BQGU3OBYGH1ZL",
+  "sector": "Agri-Input",
+  "city": "Dehradun",
+  "state": "Maharashtra",
+  "years_in_business": 10,
+  "udyam_number": "UDYAM-27-6364506",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2022-05-11",
+    "business_type": "Agri-Input",
+    "monthly_turnover_lakhs": [
+      40.57,
+      40.22,
+      40.42,
+      40.44,
+      41.74,
+      41.82,
+      41.56,
+      40.66,
+      40.19,
+      39.41,
+      40.66,
+      41.57,
+      40.31,
+      41.85,
+      42.01,
+      42.88,
+      44.45,
+      45.95,
+      44.83,
+      45.37,
+      44.75,
+      45.77,
+      47.1,
+      45.84
+    ],
+    "filing_status": [
+      "delayed",
+      "filed",
+      "missed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "missed",
+      "delayed",
+      "missed",
+      "delayed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed"
+    ],
+    "b2b_sales_ratio": 0.85,
+    "payment_delays_count": 9,
+    "primary_customer_sectors": {
+      "Services": 0.43,
+      "Textiles": 0.54,
+      "Food Processing": 0.03
+    }
+  },
+  "upi": {
+    "vpa": "walia-menon@okaxis",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      19.2,
+      19.79,
+      19.54,
+      18.82,
+      18.99,
+      19.7,
+      20.18,
+      20.77,
+      21.39,
+      22.17,
+      22.01,
+      22.76
+    ],
+    "avg_ticket_size": [
+      19.2,
+      19.79,
+      19.54,
+      18.82,
+      18.99,
+      19.7,
+      20.18,
+      20.77,
+      21.39,
+      22.17,
+      22.01,
+      22.76
+    ],
+    "p2m_ratio": 0.78,
+    "failed_txn_rate": 0.014
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME010",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      6.14,
+      5.95,
+      5.59,
+      5.26,
+      5.71,
+      6.0,
+      6.47,
+      6.63,
+      6.3,
+      6.78,
+      6.98,
+      7.41
+    ],
+    "monthly_credits_lakhs": [
+      24.05,
+      24.31,
+      23.57,
+      23.14,
+      23.63,
+      22.78,
+      23.36,
+      24.48,
+      25.6,
+      25.38,
+      26.61,
+      27.77
+    ],
+    "monthly_debits_lakhs": [
+      18.19,
+      21.16,
+      22.02,
+      21.83,
+      18.77,
+      19.66,
+      21.9,
+      19.05,
+      23.02,
+      20.24,
+      25.19,
+      21.76
+    ],
+    "abb_lakhs": 7.06,
+    "emi_on_time_rate": 0.97,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.27
+  },
+  "epfo": {
+    "establishment_id": "MA/DEH/205896",
+    "employee_count": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      9,
+      10,
+      9,
+      10,
+      10,
+      9,
+      9
+    ],
+    "monthly_wage_bill_lakhs": [
+      221965.32,
+      196633.84,
+      221401.92,
+      268177.07,
+      215123.12,
+      195781.28,
+      262880.7,
+      232985.7,
+      237805.55,
+      255824.35,
+      182302.45,
+      202615.87
+    ],
+    "contribution_status": [
+      "delayed",
+      "paid",
+      "paid",
+      "delayed",
+      "paid",
+      "delayed",
+      "paid",
+      "paid",
+      "delayed",
+      "paid",
+      "missed",
+      "paid"
+    ],
+    "new_joiners_12m": 4,
+    "attrition_rate": 0.11
+  },
+  "google": {
+    "place_id": "ChIJMSME010",
+    "rating": 3.7,
+    "review_count": 18,
+    "reviews": [
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 158
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 302
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 205
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 84
+      },
+      {
+        "rating": 4,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 483
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 397
+      },
+      {
+        "rating": 2,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 192
+      },
+      {
+        "rating": 3,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 270
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 155
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 353
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 233
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 429
+      },
+      {
+        "rating": 1,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 242
+      },
+      {
+        "rating": 5,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 36
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 151
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 172
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 44
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 207
+      }
+    ],
+    "response_rate": 0.88,
+    "review_velocity_6m": 7
+  },
+  "bureau": {
+    "promoter_name": "Xavier Mangat",
+    "cibil_score": 794,
+    "active_loans": 2,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.3
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC738543",
+    "monthly_kwh": [
+      2492.13,
+      2534.48,
+      2542.55,
+      2474.57,
+      2461.52,
+      2577.02,
+      2580.47,
+      2612.91,
+      2719.92,
+      2750.73,
+      2805.9,
+      2788.89
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.7
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 108.8,
+    "region_tier": "Tier-1"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 1.5,
+    "capex_lakhs_12m": 0.19,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

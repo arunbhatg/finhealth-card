@@ -1,0 +1,451 @@
+{
+  "msme_id": "MSME067",
+  "business_name": "Ratti, Dhaliwal and Tank",
+  "pan": "DKWHD7923E",
+  "gstin": "332J6SB053AK1ZN",
+  "sector": "Food Processing",
+  "city": "Hyderabad",
+  "state": "Tamil Nadu",
+  "years_in_business": 11,
+  "udyam_number": "UDYAM-33-7951127",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2022-12-27",
+    "business_type": "Food Processing",
+    "monthly_turnover_lakhs": [
+      17.87,
+      19.13,
+      18.28,
+      16.79,
+      17.35,
+      16.37,
+      16.18,
+      16.87,
+      18.3,
+      19.39,
+      18.26,
+      17.3,
+      17.54,
+      17.6,
+      18.81,
+      20.09,
+      19.45,
+      20.39,
+      21.63,
+      20.57,
+      20.22,
+      20.07,
+      20.04,
+      19.97
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.67,
+    "payment_delays_count": 2,
+    "primary_customer_sectors": {
+      "Agri-Input": 0.46,
+      "Textiles": 0.32,
+      "Services": 0.22
+    }
+  },
+  "upi": {
+    "vpa": "ratti,@ybl",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      9.33,
+      9.21,
+      8.82,
+      9.24,
+      9.04,
+      9.63,
+      9.67,
+      10.4,
+      10.94,
+      11.49,
+      11.37,
+      10.87
+    ],
+    "avg_ticket_size": [
+      9.33,
+      9.21,
+      8.82,
+      9.24,
+      9.04,
+      9.63,
+      9.67,
+      10.4,
+      10.94,
+      11.49,
+      11.37,
+      10.87
+    ],
+    "p2m_ratio": 0.62,
+    "failed_txn_rate": 0.012
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME067",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      11.79,
+      11.82,
+      11.89,
+      11.51,
+      11.09,
+      10.98,
+      10.47,
+      10.38,
+      10.23,
+      10.03,
+      9.97,
+      9.97
+    ],
+    "monthly_credits_lakhs": [
+      28.31,
+      28.65,
+      28.65,
+      28.34,
+      27.87,
+      28.43,
+      29.31,
+      28.89,
+      30.01,
+      29.16,
+      29.03,
+      28.43
+    ],
+    "monthly_debits_lakhs": [
+      21.27,
+      23.7,
+      24.05,
+      24.21,
+      25.41,
+      25.92,
+      27.0,
+      23.35,
+      22.85,
+      22.29,
+      23.99,
+      22.77
+    ],
+    "abb_lakhs": 9.99,
+    "emi_on_time_rate": 0.71,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.34
+  },
+  "epfo": {
+    "establishment_id": "TA/HYD/899969",
+    "employee_count": [
+      10,
+      11,
+      11,
+      11,
+      11,
+      11,
+      11,
+      11,
+      10,
+      11,
+      10,
+      10
+    ],
+    "monthly_wage_bill_lakhs": [
+      271214.93,
+      307792.27,
+      199868.74,
+      283308.47,
+      290014.71,
+      288264.05,
+      293398.93,
+      278320.87,
+      225263.53,
+      303416.46,
+      220820.93,
+      184558.19
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "missed",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "missed"
+    ],
+    "new_joiners_12m": 6,
+    "attrition_rate": 0.07
+  },
+  "google": {
+    "place_id": "ChIJMSME067",
+    "rating": 3.4,
+    "review_count": 29,
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 113
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 540
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 476
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 504
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 330
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 258
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 47
+      },
+      {
+        "rating": 1,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 173
+      },
+      {
+        "rating": 3,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 46
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 144
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 480
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 233
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 483
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 375
+      },
+      {
+        "rating": 4,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 69
+      },
+      {
+        "rating": 2,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 536
+      },
+      {
+        "rating": 3,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 535
+      },
+      {
+        "rating": 4,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 328
+      },
+      {
+        "rating": 2,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 527
+      },
+      {
+        "rating": 3,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 431
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 173
+      },
+      {
+        "rating": 2,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 386
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 471
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 215
+      },
+      {
+        "rating": 1,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 3
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 219
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 89
+      },
+      {
+        "rating": 1,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 93
+      },
+      {
+        "rating": 2,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 151
+      }
+    ],
+    "response_rate": 0.84,
+    "review_velocity_6m": 11
+  },
+  "bureau": {
+    "promoter_name": "Leena Gill",
+    "cibil_score": 805,
+    "active_loans": 3,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.21
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC394196",
+    "monthly_kwh": [
+      3823.65,
+      3878.0,
+      3801.48,
+      3876.14,
+      3924.77,
+      4010.81,
+      4027.71,
+      4046.53,
+      4137.42,
+      4224.13,
+      4262.23,
+      4282.76
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.89
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 112.3,
+    "region_tier": "Tier-1"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 1.33,
+    "capex_lakhs_12m": 4.92,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

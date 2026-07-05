@@ -1,0 +1,415 @@
+{
+  "msme_id": "MSME004",
+  "business_name": "Krishi Mitra Agro Supplies",
+  "pan": "QMSQD0091H",
+  "gstin": "27V37DIA5U6H1ZE",
+  "sector": "Agri-Input",
+  "city": "Nagpur",
+  "state": "Maharashtra",
+  "years_in_business": 6,
+  "udyam_number": "UDYAM-27-4963933",
+  "persona": "agri_favorable",
+  "gst": {
+    "registration_date": "2022-06-27",
+    "business_type": "Agri-Input",
+    "monthly_turnover_lakhs": [
+      20.22,
+      21.74,
+      22.51,
+      22.82,
+      23.27,
+      24.14,
+      25.5,
+      26.18,
+      27.4,
+      27.97,
+      29.52,
+      29.11,
+      29.92,
+      29.32,
+      29.4,
+      28.85,
+      28.68,
+      30.36,
+      30.22,
+      31.67,
+      32.37,
+      31.32,
+      30.91,
+      32.58
+    ],
+    "filing_status": [
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.36,
+    "payment_delays_count": 2,
+    "primary_customer_sectors": {
+      "Agri-Input": 0.26,
+      "Services": 0.0,
+      "Pharma": 0.74
+    }
+  },
+  "upi": {
+    "vpa": "krishi@paytm",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      1.84,
+      2.33,
+      1.93,
+      1.67,
+      1.16,
+      0.46,
+      0.85,
+      0.9,
+      1.3,
+      1.28,
+      1.73,
+      1.77
+    ],
+    "avg_ticket_size": [
+      1.84,
+      2.33,
+      1.93,
+      1.67,
+      1.16,
+      0.46,
+      0.85,
+      0.9,
+      1.3,
+      1.28,
+      1.73,
+      1.77
+    ],
+    "p2m_ratio": 0.8,
+    "failed_txn_rate": 0.014
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME004",
+    "accounts": [
+      {
+        "bank": "SBI",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      2.54,
+      3.0,
+      2.55,
+      2.85,
+      3.23,
+      3.26,
+      3.23,
+      3.71,
+      3.29,
+      3.28,
+      3.19,
+      3.39
+    ],
+    "monthly_credits_lakhs": [
+      18.38,
+      17.51,
+      16.65,
+      17.05,
+      16.15,
+      15.75,
+      16.2,
+      16.45,
+      16.17,
+      17.49,
+      17.71,
+      17.74
+    ],
+    "monthly_debits_lakhs": [
+      16.01,
+      13.48,
+      14.82,
+      15.7,
+      14.21,
+      14.23,
+      14.49,
+      13.04,
+      13.59,
+      13.92,
+      14.48,
+      14.91
+    ],
+    "abb_lakhs": 3.29,
+    "emi_on_time_rate": 0.74,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.12
+  },
+  "epfo": {
+    "establishment_id": "MA/NAG/563688",
+    "employee_count": [
+      31,
+      31,
+      31,
+      30,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31
+    ],
+    "monthly_wage_bill_lakhs": [
+      598335.79,
+      576594.1,
+      854553.63,
+      708505.01,
+      765704.11,
+      685350.68,
+      828818.29,
+      849750.26,
+      689110.43,
+      841911.54,
+      573948.28,
+      647165.12
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 4,
+    "attrition_rate": 0.11
+  },
+  "google": {
+    "place_id": "ChIJMSME004",
+    "rating": 4.1,
+    "review_count": 23,
+    "reviews": [
+      {
+        "rating": 2,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 72
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 94
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 465
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 87
+      },
+      {
+        "rating": 4,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 51
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 498
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 525
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 499
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 405
+      },
+      {
+        "rating": 5,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 309
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 297
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 180
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 513
+      },
+      {
+        "rating": 3,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 74
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 20
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 440
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 297
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 176
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 371
+      },
+      {
+        "rating": 2,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 447
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 318
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 79
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 199
+      }
+    ],
+    "response_rate": 0.59,
+    "review_velocity_6m": 9
+  },
+  "bureau": {
+    "promoter_name": "Vedhika Jayaraman",
+    "cibil_score": 776,
+    "active_loans": 0,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.28
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC159653",
+    "monthly_kwh": [
+      3092.95,
+      3132.76,
+      3183.42,
+      3210.69,
+      3248.54,
+      3296.35,
+      3351.52,
+      3274.07,
+      3245.1,
+      3313.81,
+      3414.68,
+      3401.96
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.94
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 113.4,
+    "region_tier": "Tier-1"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 1.36,
+    "capex_lakhs_12m": 4.16,
+    "patents_count": 0,
+    "govt_scheme_beneficiary": true
+  }
+}

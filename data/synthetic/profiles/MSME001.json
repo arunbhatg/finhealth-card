@@ -1,0 +1,439 @@
+{
+  "msme_id": "MSME001",
+  "business_name": "Sharma Precision Works",
+  "pan": "GPOSS4428Y",
+  "gstin": "27XAJI0Y6DPB1ZN",
+  "sector": "Manufacturing",
+  "city": "Pune",
+  "state": "Maharashtra",
+  "years_in_business": 6,
+  "udyam_number": "UDYAM-27-5437001",
+  "persona": "healthy_manufacturer",
+  "gst": {
+    "registration_date": "2024-09-20",
+    "business_type": "Manufacturing",
+    "monthly_turnover_lakhs": [
+      21.13,
+      20.54,
+      21.58,
+      20.66,
+      20.56,
+      20.39,
+      20.18,
+      19.72,
+      18.6,
+      18.71,
+      17.82,
+      19.31,
+      18.29,
+      17.9,
+      18.51,
+      19.89,
+      19.73,
+      19.05,
+      18.0,
+      18.71,
+      19.76,
+      21.46,
+      22.8,
+      24.18
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.37,
+    "payment_delays_count": 0,
+    "primary_customer_sectors": {
+      "Food Processing": 0.1,
+      "Agri-Input": 0.63,
+      "Retail": 0.27
+    }
+  },
+  "upi": {
+    "vpa": "sharma@okaxis",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      23.45,
+      24.16,
+      24.06,
+      24.42,
+      25.4,
+      26.01,
+      25.83,
+      25.64,
+      26.41,
+      26.87,
+      27.67,
+      27.97
+    ],
+    "avg_ticket_size": [
+      23.45,
+      24.16,
+      24.06,
+      24.42,
+      25.4,
+      26.01,
+      25.83,
+      25.64,
+      26.41,
+      26.87,
+      27.67,
+      27.97
+    ],
+    "p2m_ratio": 0.88,
+    "failed_txn_rate": 0.006
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME001",
+    "accounts": [
+      {
+        "bank": "SBI",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      9.09,
+      9.64,
+      9.34,
+      9.39,
+      9.71,
+      10.13,
+      9.85,
+      9.57,
+      9.81,
+      9.97,
+      9.91,
+      10.07
+    ],
+    "monthly_credits_lakhs": [
+      16.31,
+      16.65,
+      17.91,
+      18.57,
+      17.88,
+      19.03,
+      19.87,
+      20.76,
+      20.63,
+      20.4,
+      19.83,
+      18.89
+    ],
+    "monthly_debits_lakhs": [
+      14.59,
+      14.88,
+      16.91,
+      16.76,
+      15.23,
+      14.68,
+      17.39,
+      19.06,
+      17.57,
+      16.11,
+      16.36,
+      14.78
+    ],
+    "abb_lakhs": 9.98,
+    "emi_on_time_rate": 0.92,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.29
+  },
+  "epfo": {
+    "establishment_id": "MA/PUN/374680",
+    "employee_count": [
+      38,
+      38,
+      38,
+      38,
+      38,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39
+    ],
+    "monthly_wage_bill_lakhs": [
+      994088.84,
+      1055634.11,
+      886428.34,
+      731788.99,
+      934705.31,
+      1071270.99,
+      766399.51,
+      907792.78,
+      938571.63,
+      1078101.53,
+      1064276.26,
+      996553.43
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 2,
+    "attrition_rate": 0.1
+  },
+  "google": {
+    "place_id": "ChIJMSME001",
+    "rating": 4.1,
+    "review_count": 27,
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 97
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 421
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 63
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 255
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 433
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 454
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 52
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 96
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 417
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 61
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 272
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 434
+      },
+      {
+        "rating": 3,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 499
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 63
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 489
+      },
+      {
+        "rating": 2,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 59
+      },
+      {
+        "rating": 5,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 71
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 414
+      },
+      {
+        "rating": 2,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 41
+      },
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 536
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 245
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 469
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 10
+      },
+      {
+        "rating": 1,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 76
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 358
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 292
+      },
+      {
+        "rating": 2,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 9
+      }
+    ],
+    "response_rate": 0.64,
+    "review_velocity_6m": 12
+  },
+  "bureau": {
+    "promoter_name": "David Bhardwaj",
+    "cibil_score": 811,
+    "active_loans": 0,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.23
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC824586",
+    "monthly_kwh": [
+      579.25,
+      496.82,
+      415.27,
+      325.7,
+      295.04,
+      300.83,
+      259.53,
+      259.21,
+      269.65,
+      317.01,
+      396.66,
+      415.87
+    ],
+    "tariff_category": "Industrial",
+    "payment_regularity": 0.98
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 99.9,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 3.34,
+    "capex_lakhs_12m": 10.91,
+    "patents_count": 2,
+    "govt_scheme_beneficiary": true
+  }
+}

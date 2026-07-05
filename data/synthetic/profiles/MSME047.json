@@ -1,0 +1,415 @@
+{
+  "msme_id": "MSME047",
+  "business_name": "Nori, Desai and Samra",
+  "pan": "FGYYI7139D",
+  "gstin": "279U7C1A7YJ81ZM",
+  "sector": "Textiles",
+  "city": "Dhanbad",
+  "state": "Maharashtra",
+  "years_in_business": 13,
+  "udyam_number": "UDYAM-27-2714979",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2021-09-17",
+    "business_type": "Textiles",
+    "monthly_turnover_lakhs": [
+      12.94,
+      12.17,
+      12.0,
+      13.05,
+      14.56,
+      14.09,
+      14.07,
+      14.29,
+      15.8,
+      15.51,
+      14.67,
+      14.6,
+      15.85,
+      16.08,
+      15.59,
+      15.95,
+      16.72,
+      15.82,
+      16.14,
+      14.87,
+      16.05,
+      15.52,
+      14.24,
+      15.27
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.43,
+    "payment_delays_count": 0,
+    "primary_customer_sectors": {
+      "Logistics": 0.06,
+      "Services": 0.49,
+      "Food Processing": 0.45
+    }
+  },
+  "upi": {
+    "vpa": "nori,@ybl",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      24.03,
+      24.27,
+      24.8,
+      24.96,
+      25.49,
+      25.83,
+      25.58,
+      25.63,
+      26.33,
+      27.1,
+      27.34,
+      28.13
+    ],
+    "avg_ticket_size": [
+      24.03,
+      24.27,
+      24.8,
+      24.96,
+      25.49,
+      25.83,
+      25.58,
+      25.63,
+      26.33,
+      27.1,
+      27.34,
+      28.13
+    ],
+    "p2m_ratio": 0.82,
+    "failed_txn_rate": 0.017
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME047",
+    "accounts": [
+      {
+        "bank": "ICICI",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      12.59,
+      12.8,
+      12.66,
+      12.22,
+      11.98,
+      12.27,
+      12.76,
+      12.32,
+      12.64,
+      12.76,
+      13.02,
+      12.98
+    ],
+    "monthly_credits_lakhs": [
+      23.33,
+      23.35,
+      23.96,
+      23.86,
+      25.04,
+      24.55,
+      24.46,
+      25.26,
+      24.56,
+      25.39,
+      25.21,
+      24.16
+    ],
+    "monthly_debits_lakhs": [
+      20.02,
+      17.91,
+      22.0,
+      18.76,
+      21.93,
+      20.02,
+      19.12,
+      23.96,
+      21.75,
+      22.39,
+      18.98,
+      19.74
+    ],
+    "abb_lakhs": 12.92,
+    "emi_on_time_rate": 0.7,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.19
+  },
+  "epfo": {
+    "establishment_id": "MA/DHA/753451",
+    "employee_count": [
+      33,
+      33,
+      33,
+      33,
+      33,
+      33,
+      33,
+      33,
+      33,
+      33,
+      33,
+      33
+    ],
+    "monthly_wage_bill_lakhs": [
+      790076.48,
+      607013.49,
+      788908.79,
+      848948.39,
+      682610.77,
+      735887.15,
+      794957.22,
+      689305.35,
+      774419.62,
+      599334.87,
+      646251.2,
+      888418.26
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "missed",
+      "paid",
+      "paid",
+      "paid",
+      "missed"
+    ],
+    "new_joiners_12m": 1,
+    "attrition_rate": 0.11
+  },
+  "google": {
+    "place_id": "ChIJMSME047",
+    "rating": 3.7,
+    "review_count": 23,
+    "reviews": [
+      {
+        "rating": 2,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 400
+      },
+      {
+        "rating": 2,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 27
+      },
+      {
+        "rating": 2,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 80
+      },
+      {
+        "rating": 5,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 507
+      },
+      {
+        "rating": 2,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 154
+      },
+      {
+        "rating": 2,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 518
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 328
+      },
+      {
+        "rating": 3,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 326
+      },
+      {
+        "rating": 5,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 244
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 370
+      },
+      {
+        "rating": 2,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 340
+      },
+      {
+        "rating": 2,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 128
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 351
+      },
+      {
+        "rating": 3,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 537
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 144
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 191
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 276
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 200
+      },
+      {
+        "rating": 1,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 106
+      },
+      {
+        "rating": 4,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 336
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 495
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 172
+      },
+      {
+        "rating": 3,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 227
+      }
+    ],
+    "response_rate": 0.85,
+    "review_velocity_6m": 7
+  },
+  "bureau": {
+    "promoter_name": "Laban Bhardwaj",
+    "cibil_score": 645,
+    "active_loans": 0,
+    "dpd_12m": 1,
+    "write_offs_36m": 1,
+    "credit_utilization": 0.43
+  },
+  "courts": {
+    "civil_cases": 2,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 19.57
+  },
+  "electricity": {
+    "consumer_number": "ELC272820",
+    "monthly_kwh": [
+      4354.51,
+      4390.44,
+      4329.07,
+      4270.95,
+      4265.05,
+      4314.96,
+      4341.46,
+      4459.1,
+      4535.16,
+      4468.59,
+      4525.44,
+      4469.99
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.97
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 87.4,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 1.3,
+    "capex_lakhs_12m": 1.0,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

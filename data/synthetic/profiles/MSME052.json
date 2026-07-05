@@ -1,0 +1,517 @@
+{
+  "msme_id": "MSME052",
+  "business_name": "Sheth Ltd",
+  "pan": "PVEAZ5098L",
+  "gstin": "27U6AVE7E51M1Z7",
+  "sector": "Pharma",
+  "city": "Ghaziabad",
+  "state": "Maharashtra",
+  "years_in_business": 13,
+  "udyam_number": "UDYAM-27-7508257",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2024-10-13",
+    "business_type": "Pharma",
+    "monthly_turnover_lakhs": [
+      16.34,
+      17.33,
+      17.56,
+      17.49,
+      16.81,
+      15.79,
+      16.16,
+      17.3,
+      18.0,
+      17.21,
+      16.25,
+      17.13,
+      17.1,
+      16.28,
+      15.83,
+      15.06,
+      15.6,
+      15.77,
+      16.05,
+      15.02,
+      13.91,
+      14.74,
+      16.45,
+      17.86
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.34,
+    "payment_delays_count": 0,
+    "primary_customer_sectors": {
+      "Agri-Input": 0.13,
+      "Manufacturing": 0.82,
+      "Retail": 0.05
+    }
+  },
+  "upi": {
+    "vpa": "sheth@okaxis",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      7.76,
+      7.38,
+      8.04,
+      7.83,
+      8.56,
+      9.51,
+      9.69,
+      10.53,
+      10.91,
+      11.73,
+      12.56,
+      12.44
+    ],
+    "avg_ticket_size": [
+      7.76,
+      7.38,
+      8.04,
+      7.83,
+      8.56,
+      9.51,
+      9.69,
+      10.53,
+      10.91,
+      11.73,
+      12.56,
+      12.44
+    ],
+    "p2m_ratio": 0.66,
+    "failed_txn_rate": 0.017
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME052",
+    "accounts": [
+      {
+        "bank": "ICICI",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      1.82,
+      1.98,
+      2.41,
+      2.45,
+      2.13,
+      1.9,
+      1.87,
+      1.48,
+      1.98,
+      1.57,
+      2.02,
+      2.08
+    ],
+    "monthly_credits_lakhs": [
+      29.37,
+      28.63,
+      28.03,
+      29.14,
+      30.65,
+      31.46,
+      32.55,
+      31.99,
+      31.56,
+      31.73,
+      31.02,
+      30.72
+    ],
+    "monthly_debits_lakhs": [
+      24.75,
+      26.09,
+      26.52,
+      25.68,
+      24.92,
+      26.28,
+      29.28,
+      24.27,
+      25.96,
+      29.81,
+      28.61,
+      25.75
+    ],
+    "abb_lakhs": 1.89,
+    "emi_on_time_rate": 0.99,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.25
+  },
+  "epfo": {
+    "establishment_id": "MA/GHA/828118",
+    "employee_count": [
+      12,
+      12,
+      11,
+      11,
+      11,
+      11,
+      11,
+      11,
+      11,
+      12,
+      12,
+      12
+    ],
+    "monthly_wage_bill_lakhs": [
+      310224.91,
+      283412.93,
+      233995.17,
+      230233.91,
+      287180.1,
+      213493.42,
+      260423.57,
+      249515.77,
+      263240.79,
+      284770.12,
+      319824.54,
+      265455.0
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "delayed",
+      "paid",
+      "paid",
+      "delayed",
+      "delayed",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 2,
+    "attrition_rate": 0.1
+  },
+  "google": {
+    "place_id": "ChIJMSME052",
+    "rating": 3.8,
+    "review_count": 40,
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 346
+      },
+      {
+        "rating": 4,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 62
+      },
+      {
+        "rating": 3,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 446
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 225
+      },
+      {
+        "rating": 1,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 516
+      },
+      {
+        "rating": 3,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 326
+      },
+      {
+        "rating": 2,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 416
+      },
+      {
+        "rating": 2,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 343
+      },
+      {
+        "rating": 3,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 52
+      },
+      {
+        "rating": 2,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 361
+      },
+      {
+        "rating": 1,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 211
+      },
+      {
+        "rating": 1,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 35
+      },
+      {
+        "rating": 3,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 110
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 29
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 103
+      },
+      {
+        "rating": 1,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 520
+      },
+      {
+        "rating": 4,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 146
+      },
+      {
+        "rating": 3,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 399
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 25
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 323
+      },
+      {
+        "rating": 1,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 182
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 187
+      },
+      {
+        "rating": 3,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 366
+      },
+      {
+        "rating": 5,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 428
+      },
+      {
+        "rating": 1,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 81
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 188
+      },
+      {
+        "rating": 2,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 266
+      },
+      {
+        "rating": 1,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 33
+      },
+      {
+        "rating": 5,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 103
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 475
+      },
+      {
+        "rating": 5,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 375
+      },
+      {
+        "rating": 1,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 50
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 222
+      },
+      {
+        "rating": 1,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 209
+      },
+      {
+        "rating": 2,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 285
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 439
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 66
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 97
+      },
+      {
+        "rating": 1,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 179
+      },
+      {
+        "rating": 2,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 383
+      }
+    ],
+    "response_rate": 0.76,
+    "review_velocity_6m": 15
+  },
+  "bureau": {
+    "promoter_name": "Udant Din",
+    "cibil_score": 679,
+    "active_loans": 2,
+    "dpd_12m": 2,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.35
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC493183",
+    "monthly_kwh": [
+      765.01,
+      669.59,
+      636.01,
+      644.57,
+      662.93,
+      603.39,
+      536.48,
+      526.98,
+      483.23,
+      574.56,
+      627.91,
+      669.9
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.97
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 99.6,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 1.03,
+    "capex_lakhs_12m": 0.1,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

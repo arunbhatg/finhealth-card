@@ -1,0 +1,391 @@
+{
+  "msme_id": "MSME039",
+  "business_name": "Sarin, Soman and Sharaf",
+  "pan": "DNGSO9773O",
+  "gstin": "07EWHO5QQ8QM1ZZ",
+  "sector": "Logistics",
+  "city": "Miryalaguda",
+  "state": "Delhi",
+  "years_in_business": 4,
+  "udyam_number": "UDYAM-07-2033804",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2021-06-21",
+    "business_type": "Logistics",
+    "monthly_turnover_lakhs": [
+      18.74,
+      19.7,
+      20.21,
+      19.01,
+      18.3,
+      18.59,
+      17.69,
+      17.47,
+      17.65,
+      16.82,
+      16.77,
+      17.48,
+      17.26,
+      17.89,
+      17.34,
+      18.2,
+      18.52,
+      17.62,
+      17.46,
+      18.43,
+      17.66,
+      17.52,
+      17.55,
+      18.78
+    ],
+    "filing_status": [
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.34,
+    "payment_delays_count": 3,
+    "primary_customer_sectors": {
+      "Food Processing": 0.21,
+      "Services": 0.44,
+      "Manufacturing": 0.35
+    }
+  },
+  "upi": {
+    "vpa": "sarin,@paytm",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      8.1,
+      8.27,
+      8.98,
+      8.51,
+      8.44,
+      8.57,
+      8.83,
+      8.36,
+      8.52,
+      8.55,
+      9.39,
+      9.78
+    ],
+    "avg_ticket_size": [
+      8.1,
+      8.27,
+      8.98,
+      8.51,
+      8.44,
+      8.57,
+      8.83,
+      8.36,
+      8.52,
+      8.55,
+      9.39,
+      9.78
+    ],
+    "p2m_ratio": 0.83,
+    "failed_txn_rate": 0.014
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME039",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      14.18,
+      14.39,
+      14.09,
+      14.09,
+      14.39,
+      14.08,
+      14.01,
+      13.94,
+      13.66,
+      13.23,
+      13.47,
+      13.84
+    ],
+    "monthly_credits_lakhs": [
+      28.68,
+      28.13,
+      29.28,
+      30.62,
+      31.91,
+      32.3,
+      33.46,
+      34.88,
+      36.06,
+      35.28,
+      34.66,
+      34.44
+    ],
+    "monthly_debits_lakhs": [
+      23.77,
+      21.94,
+      27.77,
+      27.81,
+      28.2,
+      30.44,
+      27.24,
+      31.12,
+      33.89,
+      27.05,
+      30.17,
+      31.34
+    ],
+    "abb_lakhs": 13.51,
+    "emi_on_time_rate": 0.87,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.32
+  },
+  "epfo": {
+    "establishment_id": "DE/MIR/434562",
+    "employee_count": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      7,
+      6,
+      6,
+      6,
+      6
+    ],
+    "monthly_wage_bill_lakhs": [
+      150030.89,
+      123786.8,
+      167769.24,
+      128251.07,
+      124370.19,
+      167705.8,
+      147401.6,
+      172158.74,
+      127975.13,
+      109882.43,
+      160322.4,
+      163592.71
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "missed"
+    ],
+    "new_joiners_12m": 7,
+    "attrition_rate": 0.08
+  },
+  "google": {
+    "place_id": "ChIJMSME039",
+    "rating": 4.5,
+    "review_count": 19,
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 249
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 243
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 14
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 73
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 339
+      },
+      {
+        "rating": 4,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 58
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 191
+      },
+      {
+        "rating": 1,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 444
+      },
+      {
+        "rating": 3,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 82
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 488
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 191
+      },
+      {
+        "rating": 3,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 63
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 181
+      },
+      {
+        "rating": 3,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 194
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 193
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 167
+      },
+      {
+        "rating": 2,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 423
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 257
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 8
+      }
+    ],
+    "response_rate": 0.6,
+    "review_velocity_6m": 7
+  },
+  "bureau": {
+    "promoter_name": "Vasudha Lata",
+    "cibil_score": 741,
+    "active_loans": 2,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.39
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC881156",
+    "monthly_kwh": [
+      2286.65,
+      2361.35,
+      2390.84,
+      2386.8,
+      2370.08,
+      2309.03,
+      2377.69,
+      2447.01,
+      2349.12,
+      2368.1,
+      2317.45,
+      2305.14
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.91
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 104.6,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.98,
+    "capex_lakhs_12m": 1.14,
+    "patents_count": 0,
+    "govt_scheme_beneficiary": false
+  }
+}

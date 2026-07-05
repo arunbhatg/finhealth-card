@@ -1,0 +1,535 @@
+{
+  "msme_id": "MSME065",
+  "business_name": "Bumb, Bhandari and Raval",
+  "pan": "ZWRET9151N",
+  "gstin": "24PN3VWTKCNL1Z5",
+  "sector": "Services",
+  "city": "Fatehpur",
+  "state": "Gujarat",
+  "years_in_business": 7,
+  "udyam_number": "UDYAM-24-5164057",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2017-11-27",
+    "business_type": "Services",
+    "monthly_turnover_lakhs": [
+      13.69,
+      14.13,
+      14.5,
+      15.78,
+      16.21,
+      17.29,
+      17.69,
+      18.53,
+      19.55,
+      20.4,
+      19.8,
+      19.41,
+      19.71,
+      19.79,
+      21.36,
+      21.69,
+      21.75,
+      21.9,
+      22.4,
+      22.18,
+      23.19,
+      21.91,
+      20.94,
+      20.36
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "missed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "missed",
+      "delayed",
+      "missed",
+      "delayed"
+    ],
+    "b2b_sales_ratio": 0.5,
+    "payment_delays_count": 8,
+    "primary_customer_sectors": {
+      "Textiles": 0.62,
+      "Manufacturing": 0.27,
+      "Logistics": 0.11
+    }
+  },
+  "upi": {
+    "vpa": "bumb,@ybl",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      6.46,
+      6.05,
+      6.6,
+      6.65,
+      6.16,
+      6.43,
+      6.56,
+      6.03,
+      6.23,
+      6.35,
+      6.64,
+      7.23
+    ],
+    "avg_ticket_size": [
+      6.46,
+      6.05,
+      6.6,
+      6.65,
+      6.16,
+      6.43,
+      6.56,
+      6.03,
+      6.23,
+      6.35,
+      6.64,
+      7.23
+    ],
+    "p2m_ratio": 0.91,
+    "failed_txn_rate": 0.013
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME065",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      6.06,
+      6.37,
+      6.83,
+      6.49,
+      6.92,
+      6.78,
+      7.27,
+      7.45,
+      7.03,
+      6.74,
+      6.61,
+      6.36
+    ],
+    "monthly_credits_lakhs": [
+      19.36,
+      19.33,
+      19.74,
+      20.61,
+      21.06,
+      20.65,
+      21.78,
+      21.71,
+      22.87,
+      23.2,
+      24.52,
+      25.37
+    ],
+    "monthly_debits_lakhs": [
+      18.09,
+      18.28,
+      14.94,
+      19.53,
+      17.35,
+      17.69,
+      20.17,
+      16.65,
+      20.17,
+      18.54,
+      22.98,
+      21.3
+    ],
+    "abb_lakhs": 6.57,
+    "emi_on_time_rate": 0.8,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.34
+  },
+  "epfo": {
+    "establishment_id": "GU/FAT/512479",
+    "employee_count": [
+      30,
+      31,
+      31,
+      31,
+      31,
+      31,
+      32,
+      32,
+      32,
+      32,
+      33,
+      33
+    ],
+    "monthly_wage_bill_lakhs": [
+      778620.81,
+      653279.62,
+      637864.52,
+      778354.59,
+      656576.18,
+      856953.2,
+      786127.51,
+      730291.8,
+      773975.3,
+      848134.47,
+      625987.93,
+      611103.84
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "delayed",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "delayed",
+      "paid",
+      "delayed"
+    ],
+    "new_joiners_12m": 3,
+    "attrition_rate": 0.05
+  },
+  "google": {
+    "place_id": "ChIJMSME065",
+    "rating": 3.4,
+    "review_count": 43,
+    "reviews": [
+      {
+        "rating": 2,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 426
+      },
+      {
+        "rating": 1,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 68
+      },
+      {
+        "rating": 1,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 424
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 74
+      },
+      {
+        "rating": 1,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 366
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 356
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 262
+      },
+      {
+        "rating": 3,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 363
+      },
+      {
+        "rating": 2,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 81
+      },
+      {
+        "rating": 1,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 463
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 402
+      },
+      {
+        "rating": 3,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 408
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 3
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 13
+      },
+      {
+        "rating": 3,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 121
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 154
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 215
+      },
+      {
+        "rating": 2,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 41
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 409
+      },
+      {
+        "rating": 3,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 456
+      },
+      {
+        "rating": 5,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 330
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 392
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 212
+      },
+      {
+        "rating": 1,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 428
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 480
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 520
+      },
+      {
+        "rating": 1,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 500
+      },
+      {
+        "rating": 3,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 495
+      },
+      {
+        "rating": 5,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 43
+      },
+      {
+        "rating": 1,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 95
+      },
+      {
+        "rating": 1,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 228
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 400
+      },
+      {
+        "rating": 4,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 283
+      },
+      {
+        "rating": 2,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 167
+      },
+      {
+        "rating": 3,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 115
+      },
+      {
+        "rating": 2,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 466
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 151
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 8
+      },
+      {
+        "rating": 1,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 286
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 141
+      },
+      {
+        "rating": 1,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 455
+      },
+      {
+        "rating": 3,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 348
+      },
+      {
+        "rating": 2,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 498
+      }
+    ],
+    "response_rate": 0.64,
+    "review_velocity_6m": 15
+  },
+  "bureau": {
+    "promoter_name": "Ayush Pradhan",
+    "cibil_score": 687,
+    "active_loans": 0,
+    "dpd_12m": 2,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.21
+  },
+  "courts": {
+    "civil_cases": 2,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 23.0
+  },
+  "electricity": {
+    "consumer_number": "ELC772211",
+    "monthly_kwh": [
+      3172.8,
+      3122.66,
+      3125.59,
+      3074.58,
+      3131.77,
+      3204.89,
+      3286.54,
+      3260.23,
+      3341.04,
+      3310.14,
+      3343.6,
+      3411.33
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.69
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 97.2,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 1.21,
+    "capex_lakhs_12m": 3.23,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

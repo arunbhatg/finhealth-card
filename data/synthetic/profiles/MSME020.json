@@ -1,0 +1,409 @@
+{
+  "msme_id": "MSME020",
+  "business_name": "Devi-Chaudhuri",
+  "pan": "CBBRZ3616D",
+  "gstin": "07Y89SFQERI71ZB",
+  "sector": "Agri-Input",
+  "city": "Giridih",
+  "state": "Delhi",
+  "years_in_business": 10,
+  "udyam_number": "UDYAM-07-2343763",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2024-05-15",
+    "business_type": "Agri-Input",
+    "monthly_turnover_lakhs": [
+      26.58,
+      27.01,
+      25.88,
+      26.98,
+      28.76,
+      30.24,
+      29.45,
+      29.64,
+      31.05,
+      31.24,
+      30.21,
+      29.59,
+      30.42,
+      31.61,
+      33.13,
+      32.51,
+      32.68,
+      32.5,
+      32.55,
+      33.72,
+      34.32,
+      34.69,
+      35.26,
+      35.79
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.79,
+    "payment_delays_count": 1,
+    "primary_customer_sectors": {
+      "Textiles": 0.33,
+      "Pharma": 0.07,
+      "Retail": 0.6
+    }
+  },
+  "upi": {
+    "vpa": "devi-chaudhuri@paytm",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      17.29,
+      18.19,
+      17.75,
+      17.69,
+      17.67,
+      17.15,
+      17.11,
+      17.29,
+      18.11,
+      18.48,
+      19.38,
+      19.28
+    ],
+    "avg_ticket_size": [
+      17.29,
+      18.19,
+      17.75,
+      17.69,
+      17.67,
+      17.15,
+      17.11,
+      17.29,
+      18.11,
+      18.48,
+      19.38,
+      19.28
+    ],
+    "p2m_ratio": 0.85,
+    "failed_txn_rate": 0.012
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME020",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      10.89,
+      11.44,
+      11.39,
+      11.34,
+      11.48,
+      11.86,
+      11.53,
+      11.77,
+      11.68,
+      11.75,
+      12.08,
+      11.99
+    ],
+    "monthly_credits_lakhs": [
+      20.28,
+      20.36,
+      20.59,
+      21.67,
+      22.61,
+      23.69,
+      24.05,
+      23.82,
+      23.02,
+      24.48,
+      24.53,
+      24.15
+    ],
+    "monthly_debits_lakhs": [
+      18.22,
+      15.64,
+      18.92,
+      16.66,
+      18.48,
+      18.09,
+      21.89,
+      20.13,
+      18.23,
+      22.26,
+      21.59,
+      19.57
+    ],
+    "abb_lakhs": 11.94,
+    "emi_on_time_rate": 0.92,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.29
+  },
+  "epfo": {
+    "establishment_id": "DE/GIR/292664",
+    "employee_count": [
+      24,
+      24,
+      23,
+      23,
+      24,
+      24,
+      24,
+      24,
+      23,
+      24,
+      24,
+      24
+    ],
+    "monthly_wage_bill_lakhs": [
+      483108.67,
+      662908.1,
+      584707.84,
+      521477.92,
+      656919.1,
+      559852.64,
+      579461.35,
+      616588.6,
+      513756.63,
+      567867.95,
+      582422.03,
+      557344.7
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 7,
+    "attrition_rate": 0.11
+  },
+  "google": {
+    "place_id": "ChIJMSME020",
+    "rating": 3.4,
+    "review_count": 22,
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 181
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 21
+      },
+      {
+        "rating": 2,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 306
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 373
+      },
+      {
+        "rating": 2,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 144
+      },
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 124
+      },
+      {
+        "rating": 3,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 258
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 126
+      },
+      {
+        "rating": 3,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 400
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 224
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 451
+      },
+      {
+        "rating": 2,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 503
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 325
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 285
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 487
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 36
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 246
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 125
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 398
+      },
+      {
+        "rating": 1,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 309
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 305
+      },
+      {
+        "rating": 2,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 325
+      }
+    ],
+    "response_rate": 0.62,
+    "review_velocity_6m": 6
+  },
+  "bureau": {
+    "promoter_name": "Tanish Salvi",
+    "cibil_score": 708,
+    "active_loans": 2,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.28
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC265488",
+    "monthly_kwh": [
+      3365.43,
+      3392.54,
+      3380.63,
+      3310.24,
+      3255.37,
+      3211.13,
+      3283.13,
+      3282.65,
+      3301.31,
+      3295.27,
+      3331.38,
+      3245.58
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.87
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 100.1,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 1.32,
+    "capex_lakhs_12m": 2.58,
+    "patents_count": 0,
+    "govt_scheme_beneficiary": false
+  }
+}

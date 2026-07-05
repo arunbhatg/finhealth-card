@@ -1,0 +1,385 @@
+{
+  "msme_id": "MSME060",
+  "business_name": "Joshi Group",
+  "pan": "VJOCA1519R",
+  "gstin": "29D7QCQ3ZA8E1ZW",
+  "sector": "Agri-Input",
+  "city": "Bongaigaon",
+  "state": "Karnataka",
+  "years_in_business": 15,
+  "udyam_number": "UDYAM-29-2151651",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2023-01-15",
+    "business_type": "Agri-Input",
+    "monthly_turnover_lakhs": [
+      35.1,
+      34.64,
+      35.09,
+      36.24,
+      37.75,
+      38.09,
+      38.16,
+      37.6,
+      37.54,
+      36.51,
+      35.33,
+      35.69,
+      35.41,
+      34.97,
+      35.28,
+      34.75,
+      35.99,
+      36.45,
+      35.5,
+      35.98,
+      36.48,
+      36.74,
+      37.4,
+      37.89
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.51,
+    "payment_delays_count": 2,
+    "primary_customer_sectors": {
+      "Services": 0.14,
+      "Food Processing": 0.81,
+      "Agri-Input": 0.04
+    }
+  },
+  "upi": {
+    "vpa": "joshi@okaxis",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      11.48,
+      12.16,
+      11.74,
+      12.65,
+      12.29,
+      12.77,
+      13.19,
+      13.71,
+      14.42,
+      14.33,
+      14.2,
+      14.94
+    ],
+    "avg_ticket_size": [
+      11.48,
+      12.16,
+      11.74,
+      12.65,
+      12.29,
+      12.77,
+      13.19,
+      13.71,
+      14.42,
+      14.33,
+      14.2,
+      14.94
+    ],
+    "p2m_ratio": 0.65,
+    "failed_txn_rate": 0.011
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME060",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      11.21,
+      10.77,
+      10.86,
+      10.78,
+      11.12,
+      11.41,
+      11.95,
+      11.95,
+      12.09,
+      12.25,
+      11.8,
+      11.87
+    ],
+    "monthly_credits_lakhs": [
+      24.56,
+      23.77,
+      23.36,
+      23.32,
+      22.32,
+      22.68,
+      23.72,
+      22.93,
+      23.27,
+      24.04,
+      23.39,
+      22.94
+    ],
+    "monthly_debits_lakhs": [
+      21.79,
+      18.79,
+      19.65,
+      21.37,
+      19.75,
+      21.3,
+      20.53,
+      19.31,
+      20.79,
+      18.25,
+      17.58,
+      20.85
+    ],
+    "abb_lakhs": 11.97,
+    "emi_on_time_rate": 0.98,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.19
+  },
+  "epfo": {
+    "establishment_id": "KA/BON/286336",
+    "employee_count": [
+      25,
+      26,
+      26,
+      27,
+      27,
+      27,
+      28,
+      27,
+      27,
+      27,
+      27,
+      28
+    ],
+    "monthly_wage_bill_lakhs": [
+      693110.21,
+      601913.0,
+      645917.2,
+      553241.12,
+      518059.99,
+      512130.89,
+      737809.14,
+      743334.91,
+      508270.12,
+      511952.75,
+      724242.73,
+      593135.41
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "missed",
+      "paid",
+      "paid",
+      "paid",
+      "delayed",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 2,
+    "attrition_rate": 0.12
+  },
+  "google": {
+    "place_id": "ChIJMSME060",
+    "rating": 3.5,
+    "review_count": 18,
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 143
+      },
+      {
+        "rating": 2,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 520
+      },
+      {
+        "rating": 4,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 526
+      },
+      {
+        "rating": 1,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 2
+      },
+      {
+        "rating": 2,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 35
+      },
+      {
+        "rating": 2,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 509
+      },
+      {
+        "rating": 3,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 479
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 198
+      },
+      {
+        "rating": 4,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 353
+      },
+      {
+        "rating": 5,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 90
+      },
+      {
+        "rating": 4,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 143
+      },
+      {
+        "rating": 3,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 119
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 336
+      },
+      {
+        "rating": 5,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 408
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 178
+      },
+      {
+        "rating": 3,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 25
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 535
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 180
+      }
+    ],
+    "response_rate": 0.52,
+    "review_velocity_6m": 9
+  },
+  "bureau": {
+    "promoter_name": "Amrita Mittal",
+    "cibil_score": 694,
+    "active_loans": 2,
+    "dpd_12m": 2,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.41
+  },
+  "courts": {
+    "civil_cases": 1,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 2.33
+  },
+  "electricity": {
+    "consumer_number": "ELC752255",
+    "monthly_kwh": [
+      3912.25,
+      3919.18,
+      3933.23,
+      3933.08,
+      3972.87,
+      4017.4,
+      3999.45,
+      4102.82,
+      4083.39,
+      4090.06,
+      4104.22,
+      4173.36
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.94
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 107.0,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.3,
+    "capex_lakhs_12m": 1.66,
+    "patents_count": 0,
+    "govt_scheme_beneficiary": false
+  }
+}

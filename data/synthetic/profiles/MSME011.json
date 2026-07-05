@@ -1,0 +1,409 @@
+{
+  "msme_id": "MSME011",
+  "business_name": "Manda-Dhaliwal",
+  "pan": "VHHMS0819O",
+  "gstin": "24WYOO5YBRJN1ZV",
+  "sector": "Textiles",
+  "city": "Deoghar",
+  "state": "Gujarat",
+  "years_in_business": 8,
+  "udyam_number": "UDYAM-24-7004931",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2020-01-03",
+    "business_type": "Textiles",
+    "monthly_turnover_lakhs": [
+      23.83,
+      23.74,
+      22.69,
+      23.84,
+      22.82,
+      23.72,
+      23.72,
+      24.84,
+      25.21,
+      25.72,
+      25.05,
+      26.47,
+      25.89,
+      24.87,
+      23.77,
+      22.71,
+      22.56,
+      21.93,
+      21.79,
+      21.95,
+      21.9,
+      23.43,
+      24.25,
+      23.77
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "missed"
+    ],
+    "b2b_sales_ratio": 0.72,
+    "payment_delays_count": 6,
+    "primary_customer_sectors": {
+      "Food Processing": 0.79,
+      "Textiles": 0.16,
+      "Pharma": 0.06
+    }
+  },
+  "upi": {
+    "vpa": "manda-dhaliwal@paytm",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      18.99,
+      18.91,
+      19.81,
+      20.66,
+      20.89,
+      20.74,
+      20.72,
+      21.05,
+      21.55,
+      21.99,
+      21.52,
+      22.63
+    ],
+    "avg_ticket_size": [
+      18.99,
+      18.91,
+      19.81,
+      20.66,
+      20.89,
+      20.74,
+      20.72,
+      21.05,
+      21.55,
+      21.99,
+      21.52,
+      22.63
+    ],
+    "p2m_ratio": 0.86,
+    "failed_txn_rate": 0.006
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME011",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      14.96,
+      15.11,
+      15.29,
+      15.17,
+      15.44,
+      15.52,
+      15.44,
+      15.31,
+      15.23,
+      15.1,
+      15.34,
+      15.89
+    ],
+    "monthly_credits_lakhs": [
+      20.79,
+      21.08,
+      20.71,
+      19.9,
+      20.99,
+      21.99,
+      22.02,
+      21.85,
+      21.25,
+      20.36,
+      20.6,
+      20.36
+    ],
+    "monthly_debits_lakhs": [
+      19.36,
+      17.52,
+      18.58,
+      17.25,
+      19.92,
+      20.08,
+      18.03,
+      19.5,
+      18.85,
+      17.87,
+      17.41,
+      19.1
+    ],
+    "abb_lakhs": 15.44,
+    "emi_on_time_rate": 0.96,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.29
+  },
+  "epfo": {
+    "establishment_id": "GU/DEO/578938",
+    "employee_count": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      27,
+      27,
+      27,
+      27,
+      28,
+      28,
+      28
+    ],
+    "monthly_wage_bill_lakhs": [
+      576620.77,
+      510110.95,
+      581926.52,
+      712378.78,
+      589983.88,
+      698784.42,
+      575455.63,
+      556350.99,
+      565393.8,
+      742339.89,
+      635750.24,
+      746590.14
+    ],
+    "contribution_status": [
+      "paid",
+      "delayed",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "missed",
+      "paid"
+    ],
+    "new_joiners_12m": 4,
+    "attrition_rate": 0.07
+  },
+  "google": {
+    "place_id": "ChIJMSME011",
+    "rating": 3.3,
+    "review_count": 22,
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 133
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 440
+      },
+      {
+        "rating": 2,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 205
+      },
+      {
+        "rating": 1,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 196
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 232
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 106
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 67
+      },
+      {
+        "rating": 3,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 467
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 445
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 502
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 20
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 217
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 127
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 385
+      },
+      {
+        "rating": 3,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 50
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 21
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 390
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 211
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 431
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 141
+      },
+      {
+        "rating": 2,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 121
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 204
+      }
+    ],
+    "response_rate": 0.85,
+    "review_velocity_6m": 9
+  },
+  "bureau": {
+    "promoter_name": "Vaishnavi Thakkar",
+    "cibil_score": 733,
+    "active_loans": 0,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.41
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC809641",
+    "monthly_kwh": [
+      3176.4,
+      3201.89,
+      3199.41,
+      3276.77,
+      3367.61,
+      3401.15,
+      3463.73,
+      3436.15,
+      3499.8,
+      3438.18,
+      3429.66,
+      3518.59
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.76
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 97.2,
+    "region_tier": "Tier-1"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.91,
+    "capex_lakhs_12m": 2.13,
+    "patents_count": 0,
+    "govt_scheme_beneficiary": false
+  }
+}

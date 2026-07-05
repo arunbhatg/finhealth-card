@@ -1,0 +1,379 @@
+{
+  "msme_id": "MSME040",
+  "business_name": "Mitra PLC",
+  "pan": "KADIZ6307V",
+  "gstin": "08MQQ749Q6QF1ZY",
+  "sector": "Retail",
+  "city": "Panipat",
+  "state": "Rajasthan",
+  "years_in_business": 11,
+  "udyam_number": "UDYAM-08-8577425",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2020-03-25",
+    "business_type": "Retail",
+    "monthly_turnover_lakhs": [
+      23.24,
+      24.57,
+      25.99,
+      25.71,
+      25.16,
+      25.85,
+      26.22,
+      26.41,
+      27.86,
+      28.23,
+      29.14,
+      29.13,
+      28.38,
+      30.15,
+      31.21,
+      31.99,
+      31.39,
+      31.91,
+      32.36,
+      31.98,
+      32.42,
+      34.27,
+      35.17,
+      35.2
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "missed",
+      "filed",
+      "missed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.32,
+    "payment_delays_count": 4,
+    "primary_customer_sectors": {
+      "Food Processing": 0.06,
+      "Logistics": 0.69,
+      "Retail": 0.24
+    }
+  },
+  "upi": {
+    "vpa": "mitra@ybl",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      17.6,
+      17.47,
+      17.93,
+      17.83,
+      18.65,
+      18.96,
+      19.25,
+      18.82,
+      19.17,
+      18.86,
+      19.59,
+      20.14
+    ],
+    "avg_ticket_size": [
+      17.6,
+      17.47,
+      17.93,
+      17.83,
+      18.65,
+      18.96,
+      19.25,
+      18.82,
+      19.17,
+      18.86,
+      19.59,
+      20.14
+    ],
+    "p2m_ratio": 0.83,
+    "failed_txn_rate": 0.008
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME040",
+    "accounts": [
+      {
+        "bank": "SBI",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      2.14,
+      2.26,
+      2.67,
+      3.15,
+      2.94,
+      2.91,
+      3.21,
+      3.52,
+      3.32,
+      2.99,
+      3.36,
+      2.95
+    ],
+    "monthly_credits_lakhs": [
+      11.65,
+      11.4,
+      12.35,
+      12.49,
+      11.83,
+      11.45,
+      11.19,
+      12.52,
+      12.95,
+      13.23,
+      14.2,
+      14.76
+    ],
+    "monthly_debits_lakhs": [
+      10.97,
+      9.91,
+      9.56,
+      11.2,
+      10.61,
+      9.03,
+      10.18,
+      10.1,
+      11.76,
+      11.04,
+      12.97,
+      11.1
+    ],
+    "abb_lakhs": 3.1,
+    "emi_on_time_rate": 0.8,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.12
+  },
+  "epfo": {
+    "establishment_id": "RA/PAN/756531",
+    "employee_count": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      21,
+      21,
+      21,
+      21,
+      21
+    ],
+    "monthly_wage_bill_lakhs": [
+      422817.4,
+      547380.6,
+      451188.65,
+      399556.14,
+      481308.49,
+      416952.56,
+      477296.07,
+      445788.78,
+      381560.81,
+      389008.93,
+      446572.99,
+      478191.32
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 3,
+    "attrition_rate": 0.09
+  },
+  "google": {
+    "place_id": "ChIJMSME040",
+    "rating": 4.6,
+    "review_count": 17,
+    "reviews": [
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 411
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 159
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 460
+      },
+      {
+        "rating": 3,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 233
+      },
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 25
+      },
+      {
+        "rating": 2,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 491
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 157
+      },
+      {
+        "rating": 4,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 331
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 20
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 425
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 37
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 358
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 522
+      },
+      {
+        "rating": 4,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 156
+      },
+      {
+        "rating": 2,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 289
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 164
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 343
+      }
+    ],
+    "response_rate": 0.54,
+    "review_velocity_6m": 7
+  },
+  "bureau": {
+    "promoter_name": "Chatresh Agrawal",
+    "cibil_score": 647,
+    "active_loans": 0,
+    "dpd_12m": 2,
+    "write_offs_36m": 1,
+    "credit_utilization": 0.2
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC450153",
+    "monthly_kwh": [
+      677.74,
+      720.47,
+      761.26,
+      758.55,
+      841.9,
+      767.62,
+      686.0,
+      616.84,
+      657.95,
+      574.55,
+      545.07,
+      515.02
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.7
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 90.9,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.29,
+    "capex_lakhs_12m": 2.5,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

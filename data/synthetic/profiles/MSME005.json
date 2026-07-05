@@ -1,0 +1,361 @@
+{
+  "msme_id": "MSME005",
+  "business_name": "Datta, Gola and Nath",
+  "pan": "DBCXI7512O",
+  "gstin": "33VNU80B6UGV1Z6",
+  "sector": "Manufacturing",
+  "city": "Rajahmundry",
+  "state": "Tamil Nadu",
+  "years_in_business": 15,
+  "udyam_number": "UDYAM-33-5606274",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2018-02-08",
+    "business_type": "Manufacturing",
+    "monthly_turnover_lakhs": [
+      10.23,
+      9.9,
+      9.55,
+      9.88,
+      9.71,
+      9.12,
+      10.33,
+      11.89,
+      12.39,
+      11.55,
+      10.49,
+      11.15,
+      12.58,
+      12.22,
+      12.89,
+      13.59,
+      12.7,
+      13.54,
+      12.51,
+      12.9,
+      13.54,
+      13.25,
+      12.35,
+      13.16
+    ],
+    "filing_status": [
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "delayed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed"
+    ],
+    "b2b_sales_ratio": 0.68,
+    "payment_delays_count": 6,
+    "primary_customer_sectors": {
+      "Retail": 0.8,
+      "Agri-Input": 0.11,
+      "Services": 0.09
+    }
+  },
+  "upi": {
+    "vpa": "datta,@okaxis",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      2.85,
+      3.25,
+      4.07,
+      4.33,
+      4.82,
+      5.37,
+      5.05,
+      4.73,
+      5.57,
+      6.13,
+      6.9,
+      6.55
+    ],
+    "avg_ticket_size": [
+      2.85,
+      3.25,
+      4.07,
+      4.33,
+      4.82,
+      5.37,
+      5.05,
+      4.73,
+      5.57,
+      6.13,
+      6.9,
+      6.55
+    ],
+    "p2m_ratio": 0.7,
+    "failed_txn_rate": 0.011
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME005",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      10.65,
+      10.68,
+      11.04,
+      11.41,
+      11.51,
+      11.52,
+      11.28,
+      11.07,
+      11.26,
+      11.73,
+      11.38,
+      11.45
+    ],
+    "monthly_credits_lakhs": [
+      15.56,
+      16.32,
+      16.63,
+      16.0,
+      15.27,
+      14.7,
+      14.82,
+      15.1,
+      16.14,
+      15.43,
+      16.67,
+      17.7
+    ],
+    "monthly_debits_lakhs": [
+      14.42,
+      15.28,
+      13.85,
+      13.27,
+      12.59,
+      12.16,
+      11.36,
+      12.0,
+      13.13,
+      11.88,
+      14.89,
+      14.46
+    ],
+    "abb_lakhs": 11.52,
+    "emi_on_time_rate": 0.88,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.3
+  },
+  "epfo": {
+    "establishment_id": "TA/RAJ/488984",
+    "employee_count": [
+      13,
+      13,
+      13,
+      14,
+      13,
+      14,
+      14,
+      13,
+      13,
+      13,
+      13,
+      13
+    ],
+    "monthly_wage_bill_lakhs": [
+      328540.52,
+      302610.3,
+      248454.29,
+      292334.22,
+      273149.66,
+      258684.92,
+      310775.58,
+      337206.88,
+      293424.77,
+      248411.53,
+      351669.1,
+      311576.08
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "delayed",
+      "delayed"
+    ],
+    "new_joiners_12m": 5,
+    "attrition_rate": 0.08
+  },
+  "google": {
+    "place_id": "ChIJMSME005",
+    "rating": 3.3,
+    "review_count": 14,
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 476
+      },
+      {
+        "rating": 2,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 139
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 38
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 43
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 485
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 293
+      },
+      {
+        "rating": 3,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 280
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 451
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 509
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 274
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 441
+      },
+      {
+        "rating": 3,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 301
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 314
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 455
+      }
+    ],
+    "response_rate": 0.48,
+    "review_velocity_6m": 3
+  },
+  "bureau": {
+    "promoter_name": "Lila Nair",
+    "cibil_score": 680,
+    "active_loans": 2,
+    "dpd_12m": 2,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.28
+  },
+  "courts": {
+    "civil_cases": 1,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 5.62
+  },
+  "electricity": {
+    "consumer_number": "ELC218959",
+    "monthly_kwh": [
+      2268.68,
+      2313.51,
+      2427.77,
+      2397.44,
+      2319.39,
+      2395.19,
+      2382.83,
+      2448.01,
+      2492.76,
+      2566.51,
+      2633.57,
+      2620.61
+    ],
+    "tariff_category": "Industrial",
+    "payment_regularity": 0.83
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 105.4,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.53,
+    "capex_lakhs_12m": 3.68,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

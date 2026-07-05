@@ -1,0 +1,409 @@
+{
+  "msme_id": "MSME066",
+  "business_name": "Kanda Group",
+  "pan": "DPIRT4345H",
+  "gstin": "27WVAHBEF2IB1ZX",
+  "sector": "Food Processing",
+  "city": "Maheshtala",
+  "state": "Maharashtra",
+  "years_in_business": 15,
+  "udyam_number": "UDYAM-27-8939697",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2018-12-29",
+    "business_type": "Food Processing",
+    "monthly_turnover_lakhs": [
+      36.0,
+      37.74,
+      39.6,
+      41.45,
+      42.5,
+      42.35,
+      42.25,
+      43.22,
+      45.17,
+      44.42,
+      44.39,
+      45.17,
+      46.1,
+      47.31,
+      49.24,
+      49.09,
+      48.53,
+      49.37,
+      50.43,
+      49.99,
+      50.82,
+      51.18,
+      52.27,
+      53.07
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.77,
+    "payment_delays_count": 4,
+    "primary_customer_sectors": {
+      "Food Processing": 0.11,
+      "Retail": 0.32,
+      "Agri-Input": 0.57
+    }
+  },
+  "upi": {
+    "vpa": "kanda@paytm",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      7.11,
+      6.53,
+      6.64,
+      6.0,
+      5.89,
+      5.51,
+      4.81,
+      4.79,
+      5.16,
+      5.46,
+      4.89,
+      4.97
+    ],
+    "avg_ticket_size": [
+      7.11,
+      6.53,
+      6.64,
+      6.0,
+      5.89,
+      5.51,
+      4.81,
+      4.79,
+      5.16,
+      5.46,
+      4.89,
+      4.97
+    ],
+    "p2m_ratio": 0.81,
+    "failed_txn_rate": 0.01
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME066",
+    "accounts": [
+      {
+        "bank": "Axis",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      2.25,
+      2.12,
+      2.07,
+      1.65,
+      1.29,
+      1.05,
+      0.63,
+      0.38,
+      0.21,
+      0.16,
+      0,
+      0.21
+    ],
+    "monthly_credits_lakhs": [
+      30.17,
+      30.26,
+      29.71,
+      30.87,
+      31.75,
+      33.36,
+      33.74,
+      33.13,
+      34.12,
+      33.68,
+      35.18,
+      34.66
+    ],
+    "monthly_debits_lakhs": [
+      26.51,
+      25.87,
+      25.7,
+      25.61,
+      29.94,
+      31.27,
+      31.02,
+      27.53,
+      27.06,
+      27.48,
+      32.61,
+      29.83
+    ],
+    "abb_lakhs": 0.12,
+    "emi_on_time_rate": 0.96,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.34
+  },
+  "epfo": {
+    "establishment_id": "MA/MAH/531618",
+    "employee_count": [
+      17,
+      17,
+      17,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      19,
+      20
+    ],
+    "monthly_wage_bill_lakhs": [
+      423991.05,
+      450086.04,
+      442219.11,
+      339966.39,
+      371764.66,
+      477996.96,
+      469027.93,
+      342047.09,
+      357409.55,
+      328596.02,
+      410377.33,
+      457773.78
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "missed",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 1,
+    "attrition_rate": 0.07
+  },
+  "google": {
+    "place_id": "ChIJMSME066",
+    "rating": 3.5,
+    "review_count": 22,
+    "reviews": [
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 145
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 23
+      },
+      {
+        "rating": 3,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 67
+      },
+      {
+        "rating": 3,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 529
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 507
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 153
+      },
+      {
+        "rating": 5,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 340
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 276
+      },
+      {
+        "rating": 4,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 59
+      },
+      {
+        "rating": 2,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 72
+      },
+      {
+        "rating": 1,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 31
+      },
+      {
+        "rating": 3,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 252
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 155
+      },
+      {
+        "rating": 2,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 479
+      },
+      {
+        "rating": 1,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 519
+      },
+      {
+        "rating": 5,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 412
+      },
+      {
+        "rating": 1,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 454
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 244
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 321
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 139
+      },
+      {
+        "rating": 4,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 485
+      },
+      {
+        "rating": 3,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 136
+      }
+    ],
+    "response_rate": 0.57,
+    "review_velocity_6m": 10
+  },
+  "bureau": {
+    "promoter_name": "Alka Ahluwalia",
+    "cibil_score": 813,
+    "active_loans": 3,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.36
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC648110",
+    "monthly_kwh": [
+      4624.37,
+      4689.84,
+      4765.98,
+      4866.18,
+      4958.86,
+      4964.69,
+      5001.95,
+      5034.61,
+      4985.97,
+      4932.9,
+      4941.29,
+      4902.38
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.85
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 86.3,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 1.35,
+    "capex_lakhs_12m": 4.9,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

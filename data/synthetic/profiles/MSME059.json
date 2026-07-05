@@ -1,0 +1,451 @@
+{
+  "msme_id": "MSME059",
+  "business_name": "Singh PLC",
+  "pan": "TDLFJ7423Z",
+  "gstin": "29L5KZHCMZ2R1ZY",
+  "sector": "Retail",
+  "city": "Malda",
+  "state": "Karnataka",
+  "years_in_business": 16,
+  "udyam_number": "UDYAM-29-5308981",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2020-07-07",
+    "business_type": "Retail",
+    "monthly_turnover_lakhs": [
+      21.27,
+      21.31,
+      20.74,
+      21.37,
+      22.64,
+      23.8,
+      23.22,
+      23.39,
+      22.65,
+      22.39,
+      23.71,
+      22.72,
+      22.29,
+      22.16,
+      22.89,
+      21.72,
+      20.81,
+      21.02,
+      20.42,
+      20.56,
+      20.61,
+      21.86,
+      22.18,
+      22.14
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.48,
+    "payment_delays_count": 4,
+    "primary_customer_sectors": {
+      "Manufacturing": 0.43,
+      "Logistics": 0.08,
+      "Retail": 0.49
+    }
+  },
+  "upi": {
+    "vpa": "singh@paytm",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      2.03,
+      1.6,
+      1.24,
+      1.23,
+      0.77,
+      0.2,
+      0.77,
+      1.38,
+      1.01,
+      0.64,
+      0.28,
+      0
+    ],
+    "avg_ticket_size": [
+      2.03,
+      1.6,
+      1.24,
+      1.23,
+      0.77,
+      0.2,
+      0.77,
+      1.38,
+      1.01,
+      0.64,
+      0.28,
+      0.0
+    ],
+    "p2m_ratio": 0.64,
+    "failed_txn_rate": 0.014
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME059",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      11.35,
+      11.22,
+      10.98,
+      10.55,
+      10.5,
+      10.85,
+      10.81,
+      10.76,
+      11.0,
+      11.41,
+      11.62,
+      11.78
+    ],
+    "monthly_credits_lakhs": [
+      30.39,
+      30.82,
+      30.31,
+      30.66,
+      31.79,
+      33.12,
+      33.43,
+      34.36,
+      35.55,
+      36.47,
+      36.43,
+      37.6
+    ],
+    "monthly_debits_lakhs": [
+      24.23,
+      28.24,
+      24.72,
+      27.59,
+      26.73,
+      30.44,
+      25.9,
+      27.6,
+      28.06,
+      32.03,
+      30.42,
+      32.36
+    ],
+    "abb_lakhs": 11.6,
+    "emi_on_time_rate": 0.74,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.32
+  },
+  "epfo": {
+    "establishment_id": "KA/MAL/796588",
+    "employee_count": [
+      40,
+      40,
+      41,
+      41,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42,
+      42
+    ],
+    "monthly_wage_bill_lakhs": [
+      746002.31,
+      917367.07,
+      962834.45,
+      919706.86,
+      1069913.42,
+      1159956.24,
+      849426.77,
+      854295.3,
+      925975.25,
+      1075611.99,
+      944792.99,
+      1104348.04
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "delayed",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 0,
+    "attrition_rate": 0.09
+  },
+  "google": {
+    "place_id": "ChIJMSME059",
+    "rating": 3.4,
+    "review_count": 29,
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 507
+      },
+      {
+        "rating": 1,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 103
+      },
+      {
+        "rating": 4,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 246
+      },
+      {
+        "rating": 1,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 495
+      },
+      {
+        "rating": 3,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 148
+      },
+      {
+        "rating": 2,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 29
+      },
+      {
+        "rating": 1,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 155
+      },
+      {
+        "rating": 1,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 417
+      },
+      {
+        "rating": 3,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 508
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 297
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 177
+      },
+      {
+        "rating": 4,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 53
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 442
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 487
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 174
+      },
+      {
+        "rating": 1,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 33
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 401
+      },
+      {
+        "rating": 2,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 72
+      },
+      {
+        "rating": 3,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 32
+      },
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 321
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 140
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 27
+      },
+      {
+        "rating": 3,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 92
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 463
+      },
+      {
+        "rating": 4,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 390
+      },
+      {
+        "rating": 1,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 78
+      },
+      {
+        "rating": 2,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 123
+      },
+      {
+        "rating": 3,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 287
+      },
+      {
+        "rating": 1,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 114
+      }
+    ],
+    "response_rate": 0.85,
+    "review_velocity_6m": 16
+  },
+  "bureau": {
+    "promoter_name": "Om Pal",
+    "cibil_score": 719,
+    "active_loans": 3,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.42
+  },
+  "courts": {
+    "civil_cases": 2,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 13.77
+  },
+  "electricity": {
+    "consumer_number": "ELC123701",
+    "monthly_kwh": [
+      2145.6,
+      2259.32,
+      2364.87,
+      2300.19,
+      2390.82,
+      2485.29,
+      2454.68,
+      2394.26,
+      2323.25,
+      2375.1,
+      2386.99,
+      2335.74
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.89
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 97.9,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.85,
+    "capex_lakhs_12m": 3.37,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

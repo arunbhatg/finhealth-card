@@ -1,0 +1,547 @@
+{
+  "msme_id": "MSME031",
+  "business_name": "Divan-Dutta",
+  "pan": "YDRNH5140J",
+  "gstin": "24BSMWPQ82K81Z5",
+  "sector": "Food Processing",
+  "city": "Shimla",
+  "state": "Gujarat",
+  "years_in_business": 12,
+  "udyam_number": "UDYAM-24-8323671",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2018-11-24",
+    "business_type": "Food Processing",
+    "monthly_turnover_lakhs": [
+      7.24,
+      6.77,
+      6.09,
+      7.14,
+      7.61,
+      8.39,
+      7.32,
+      6.05,
+      5.34,
+      6.81,
+      5.87,
+      6.11,
+      4.82,
+      3.96,
+      3.87,
+      3.42,
+      4.34,
+      4.73,
+      4.48,
+      5.87,
+      4.64,
+      3.9,
+      3.29,
+      2.71
+    ],
+    "filing_status": [
+      "filed",
+      "missed",
+      "delayed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.85,
+    "payment_delays_count": 7,
+    "primary_customer_sectors": {
+      "Agri-Input": 0.05,
+      "Services": 0.45,
+      "Manufacturing": 0.51
+    }
+  },
+  "upi": {
+    "vpa": "divan-dutta@okaxis",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      5.86,
+      6.29,
+      6.39,
+      6.16,
+      6.32,
+      6.93,
+      7.51,
+      6.76,
+      7.28,
+      6.65,
+      6.89,
+      6.8
+    ],
+    "avg_ticket_size": [
+      5.86,
+      6.29,
+      6.39,
+      6.16,
+      6.32,
+      6.93,
+      7.51,
+      6.76,
+      7.28,
+      6.65,
+      6.89,
+      6.8
+    ],
+    "p2m_ratio": 0.6,
+    "failed_txn_rate": 0.008
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME031",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      11.68,
+      11.99,
+      11.56,
+      11.3,
+      11.77,
+      11.35,
+      11.43,
+      11.73,
+      11.77,
+      11.94,
+      12.28,
+      11.88
+    ],
+    "monthly_credits_lakhs": [
+      19.57,
+      20.01,
+      20.42,
+      20.38,
+      20.45,
+      21.49,
+      20.54,
+      21.41,
+      21.66,
+      20.75,
+      20.98,
+      21.42
+    ],
+    "monthly_debits_lakhs": [
+      18.34,
+      18.23,
+      17.86,
+      16.1,
+      15.61,
+      16.78,
+      19.02,
+      18.28,
+      17.32,
+      15.99,
+      15.84,
+      18.23
+    ],
+    "abb_lakhs": 12.03,
+    "emi_on_time_rate": 0.79,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.28
+  },
+  "epfo": {
+    "establishment_id": "GU/SHI/356108",
+    "employee_count": [
+      29,
+      29,
+      28,
+      29,
+      29,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "monthly_wage_bill_lakhs": [
+      706497.18,
+      575594.28,
+      733194.03,
+      712664.96,
+      571524.89,
+      762499.42,
+      704004.31,
+      682847.52,
+      627010.86,
+      740260.66,
+      827727.42,
+      687889.24
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 4,
+    "attrition_rate": 0.06
+  },
+  "google": {
+    "place_id": "ChIJMSME031",
+    "rating": 3.8,
+    "review_count": 45,
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 361
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 144
+      },
+      {
+        "rating": 3,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 404
+      },
+      {
+        "rating": 2,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 386
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 520
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 332
+      },
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 414
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 238
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 332
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 243
+      },
+      {
+        "rating": 2,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 431
+      },
+      {
+        "rating": 5,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 118
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 384
+      },
+      {
+        "rating": 2,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 329
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 205
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 231
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 197
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 209
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 369
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 349
+      },
+      {
+        "rating": 3,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 509
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 513
+      },
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 142
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 386
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 530
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 53
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 297
+      },
+      {
+        "rating": 3,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 367
+      },
+      {
+        "rating": 2,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 77
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 513
+      },
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 114
+      },
+      {
+        "rating": 1,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 31
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 343
+      },
+      {
+        "rating": 5,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 338
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 242
+      },
+      {
+        "rating": 3,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 37
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 83
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 278
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 520
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 311
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 22
+      },
+      {
+        "rating": 5,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 389
+      },
+      {
+        "rating": 3,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 494
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 441
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 449
+      }
+    ],
+    "response_rate": 0.76,
+    "review_velocity_6m": 10
+  },
+  "bureau": {
+    "promoter_name": "Kala Mitra",
+    "cibil_score": 730,
+    "active_loans": 0,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.22
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC315860",
+    "monthly_kwh": [
+      4546.32,
+      4457.72,
+      4541.95,
+      4637.38,
+      4633.89,
+      4681.43,
+      4639.77,
+      4739.05,
+      4713.59,
+      4787.74,
+      4791.41,
+      4764.2
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.66
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 104.8,
+    "region_tier": "Tier-1"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.18,
+    "capex_lakhs_12m": 3.53,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

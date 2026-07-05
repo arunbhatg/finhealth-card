@@ -1,0 +1,403 @@
+{
+  "msme_id": "MSME008",
+  "business_name": "Padmanabhan-Hora",
+  "pan": "AFDVV9255M",
+  "gstin": "246YUJ7YKTXG1ZU",
+  "sector": "Logistics",
+  "city": "Ambarnath",
+  "state": "Gujarat",
+  "years_in_business": 14,
+  "udyam_number": "UDYAM-24-9479842",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2023-01-28",
+    "business_type": "Logistics",
+    "monthly_turnover_lakhs": [
+      18.05,
+      17.43,
+      16.33,
+      16.8,
+      17.31,
+      17.77,
+      19.36,
+      19.03,
+      19.62,
+      20.66,
+      20.72,
+      20.11,
+      20.47,
+      20.3,
+      19.56,
+      20.01,
+      19.85,
+      20.86,
+      20.46,
+      19.9,
+      18.82,
+      18.31,
+      18.13,
+      19.16
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.69,
+    "payment_delays_count": 2,
+    "primary_customer_sectors": {
+      "Pharma": 0.16,
+      "Manufacturing": 0.36,
+      "Textiles": 0.48
+    }
+  },
+  "upi": {
+    "vpa": "padmanabhan-hora@paytm",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      10.31,
+      10.11,
+      10.22,
+      9.64,
+      9.66,
+      9.64,
+      9.73,
+      9.17,
+      8.89,
+      8.59,
+      8.89,
+      9.14
+    ],
+    "avg_ticket_size": [
+      10.31,
+      10.11,
+      10.22,
+      9.64,
+      9.66,
+      9.64,
+      9.73,
+      9.17,
+      8.89,
+      8.59,
+      8.89,
+      9.14
+    ],
+    "p2m_ratio": 0.85,
+    "failed_txn_rate": 0.016
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME008",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      3.36,
+      3.18,
+      3.65,
+      3.5,
+      3.64,
+      3.96,
+      3.81,
+      3.66,
+      4.0,
+      4.38,
+      4.87,
+      4.53
+    ],
+    "monthly_credits_lakhs": [
+      14.22,
+      13.64,
+      13.33,
+      14.58,
+      15.85,
+      15.51,
+      16.13,
+      16.27,
+      16.61,
+      16.16,
+      16.02,
+      16.94
+    ],
+    "monthly_debits_lakhs": [
+      11.78,
+      10.54,
+      11.5,
+      12.66,
+      13.62,
+      13.75,
+      13.87,
+      15.3,
+      13.99,
+      14.41,
+      13.42,
+      13.69
+    ],
+    "abb_lakhs": 4.59,
+    "emi_on_time_rate": 0.87,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.18
+  },
+  "epfo": {
+    "establishment_id": "GU/AMB/669488",
+    "employee_count": [
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      10,
+      10,
+      9,
+      10,
+      10
+    ],
+    "monthly_wage_bill_lakhs": [
+      198072.46,
+      207595.14,
+      244835.3,
+      224253.8,
+      210928.07,
+      233164.88,
+      194357.65,
+      269550.15,
+      233690.6,
+      219436.23,
+      188498.19,
+      256895.4
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "missed",
+      "missed",
+      "missed",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 5,
+    "attrition_rate": 0.09
+  },
+  "google": {
+    "place_id": "ChIJMSME008",
+    "rating": 3.7,
+    "review_count": 21,
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 534
+      },
+      {
+        "rating": 2,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 464
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 24
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 169
+      },
+      {
+        "rating": 1,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 179
+      },
+      {
+        "rating": 3,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 474
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 191
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 203
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 220
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 105
+      },
+      {
+        "rating": 2,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 334
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 321
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 117
+      },
+      {
+        "rating": 2,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 177
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 87
+      },
+      {
+        "rating": 3,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 313
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 524
+      },
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 393
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 178
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 192
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 368
+      }
+    ],
+    "response_rate": 0.82,
+    "review_velocity_6m": 8
+  },
+  "bureau": {
+    "promoter_name": "Dev Mannan",
+    "cibil_score": 762,
+    "active_loans": 3,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.34
+  },
+  "courts": {
+    "civil_cases": 1,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 14.87
+  },
+  "electricity": {
+    "consumer_number": "ELC207391",
+    "monthly_kwh": [
+      3514.62,
+      3465.89,
+      3435.29,
+      3448.18,
+      3463.17,
+      3370.12,
+      3447.08,
+      3420.54,
+      3356.71,
+      3418.33,
+      3312.6,
+      3356.67
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.83
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 107.4,
+    "region_tier": "Tier-2"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 1.43,
+    "capex_lakhs_12m": 4.15,
+    "patents_count": 0,
+    "govt_scheme_beneficiary": false
+  }
+}

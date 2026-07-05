@@ -1,0 +1,349 @@
+{
+  "msme_id": "MSME030",
+  "business_name": "Tiwari, Mangal and Sankaran",
+  "pan": "RLVFB4021O",
+  "gstin": "33CKHHUZ83YU1Z0",
+  "sector": "Logistics",
+  "city": "Raiganj",
+  "state": "Tamil Nadu",
+  "years_in_business": 18,
+  "udyam_number": "UDYAM-33-9126125",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2025-02-01",
+    "business_type": "Logistics",
+    "monthly_turnover_lakhs": [
+      36.5,
+      37.51,
+      37.19,
+      38.36,
+      39.59,
+      38.18,
+      38.59,
+      37.28,
+      36.04,
+      36.93,
+      37.57,
+      36.88,
+      37.62,
+      37.29,
+      37.44,
+      36.86,
+      37.17,
+      36.83,
+      37.4,
+      37.24,
+      38.26,
+      39.64,
+      38.48,
+      38.08
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "delayed",
+      "delayed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.37,
+    "payment_delays_count": 5,
+    "primary_customer_sectors": {
+      "Food Processing": 0.26,
+      "Agri-Input": 0.57,
+      "Services": 0.17
+    }
+  },
+  "upi": {
+    "vpa": "tiwari,@ybl",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      5.48,
+      5.88,
+      6.5,
+      7.24,
+      7.09,
+      7.0,
+      6.39,
+      6.43,
+      6.55,
+      6.81,
+      7.56,
+      7.27
+    ],
+    "avg_ticket_size": [
+      5.48,
+      5.88,
+      6.5,
+      7.24,
+      7.09,
+      7.0,
+      6.39,
+      6.43,
+      6.55,
+      6.81,
+      7.56,
+      7.27
+    ],
+    "p2m_ratio": 0.59,
+    "failed_txn_rate": 0.019
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME030",
+    "accounts": [
+      {
+        "bank": "Axis",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      10.95,
+      10.72,
+      10.51,
+      10.09,
+      10.14,
+      10.51,
+      10.67,
+      10.9,
+      10.6,
+      10.18,
+      10.65,
+      10.2
+    ],
+    "monthly_credits_lakhs": [
+      4.64,
+      5.41,
+      4.65,
+      3.7,
+      3.0,
+      3.22,
+      3.28,
+      4.14,
+      4.76,
+      4.31,
+      4.19,
+      3.36
+    ],
+    "monthly_debits_lakhs": [
+      3.95,
+      5.05,
+      3.69,
+      3.04,
+      2.84,
+      2.97,
+      2.8,
+      3.75,
+      3.75,
+      3.47,
+      3.28,
+      2.73
+    ],
+    "abb_lakhs": 10.34,
+    "emi_on_time_rate": 0.89,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.39
+  },
+  "epfo": {
+    "establishment_id": "TA/RAI/757343",
+    "employee_count": [
+      10,
+      11,
+      11,
+      11,
+      11,
+      11,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "monthly_wage_bill_lakhs": [
+      223147.36,
+      214568.21,
+      253240.94,
+      253871.95,
+      203847.28,
+      227984.78,
+      189781.27,
+      244862.17,
+      253200.16,
+      222258.84,
+      209400.59,
+      220269.21
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "delayed",
+      "paid",
+      "missed",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 8,
+    "attrition_rate": 0.11
+  },
+  "google": {
+    "place_id": "ChIJMSME030",
+    "rating": 3.5,
+    "review_count": 12,
+    "reviews": [
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 489
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 245
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 192
+      },
+      {
+        "rating": 4,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 486
+      },
+      {
+        "rating": 5,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 79
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 361
+      },
+      {
+        "rating": 2,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 254
+      },
+      {
+        "rating": 5,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 298
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 151
+      },
+      {
+        "rating": 4,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 344
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 264
+      },
+      {
+        "rating": 3,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 14
+      }
+    ],
+    "response_rate": 0.93,
+    "review_velocity_6m": 3
+  },
+  "bureau": {
+    "promoter_name": "Meghana Kalita",
+    "cibil_score": 726,
+    "active_loans": 1,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.27
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC447283",
+    "monthly_kwh": [
+      4554.09,
+      4578.28,
+      4600.36,
+      4588.05,
+      4696.46,
+      4779.42,
+      4823.87,
+      4803.92,
+      4790.28,
+      4863.18,
+      4950.56,
+      4955.2
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.76
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 114.6,
+    "region_tier": "Tier-1"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 1.24,
+    "capex_lakhs_12m": 2.95,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

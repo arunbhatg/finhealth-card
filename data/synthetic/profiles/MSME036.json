@@ -1,0 +1,427 @@
+{
+  "msme_id": "MSME036",
+  "business_name": "Bhakta-Narayanan",
+  "pan": "WPEYZ6772I",
+  "gstin": "29SLTDKVUFF11ZK",
+  "sector": "Logistics",
+  "city": "Davanagere",
+  "state": "Karnataka",
+  "years_in_business": 16,
+  "udyam_number": "UDYAM-29-7963833",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2018-07-16",
+    "business_type": "Logistics",
+    "monthly_turnover_lakhs": [
+      21.41,
+      21.29,
+      22.19,
+      22.03,
+      23.56,
+      23.26,
+      24.3,
+      25.87,
+      26.81,
+      25.52,
+      26.28,
+      25.56,
+      26.35,
+      25.89,
+      25.65,
+      25.26,
+      26.28,
+      25.91,
+      26.23,
+      25.48,
+      24.77,
+      24.92,
+      26.13,
+      25.1
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.81,
+    "payment_delays_count": 4,
+    "primary_customer_sectors": {
+      "Manufacturing": 0.13,
+      "Retail": 0.24,
+      "Logistics": 0.63
+    }
+  },
+  "upi": {
+    "vpa": "bhakta-narayanan@ybl",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      15.41,
+      15.41,
+      15.24,
+      15.42,
+      15.78,
+      15.98,
+      16.6,
+      17.01,
+      16.55,
+      17.1,
+      17.81,
+      18.25
+    ],
+    "avg_ticket_size": [
+      15.41,
+      15.41,
+      15.24,
+      15.42,
+      15.78,
+      15.98,
+      16.6,
+      17.01,
+      16.55,
+      17.1,
+      17.81,
+      18.25
+    ],
+    "p2m_ratio": 0.75,
+    "failed_txn_rate": 0.017
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME036",
+    "accounts": [
+      {
+        "bank": "ICICI",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      11.84,
+      11.73,
+      12.04,
+      12.32,
+      12.07,
+      11.92,
+      11.68,
+      11.58,
+      11.31,
+      11.82,
+      11.61,
+      11.74
+    ],
+    "monthly_credits_lakhs": [
+      27.61,
+      28.11,
+      28.1,
+      28.99,
+      29.87,
+      30.84,
+      29.96,
+      31.3,
+      31.17,
+      31.51,
+      32.88,
+      34.17
+    ],
+    "monthly_debits_lakhs": [
+      25.53,
+      22.92,
+      24.1,
+      23.38,
+      24.4,
+      23.54,
+      22.92,
+      24.05,
+      26.86,
+      24.34,
+      25.7,
+      29.14
+    ],
+    "abb_lakhs": 11.72,
+    "emi_on_time_rate": 0.74,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.25
+  },
+  "epfo": {
+    "establishment_id": "KA/DAV/944572",
+    "employee_count": [
+      10,
+      10,
+      10,
+      9,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "monthly_wage_bill_lakhs": [
+      198167.38,
+      237522.38,
+      225404.71,
+      232300.16,
+      228551.28,
+      247365.33,
+      268939.7,
+      220146.61,
+      209381.38,
+      242368.97,
+      218994.75,
+      180853.79
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "missed",
+      "paid",
+      "paid",
+      "paid",
+      "missed",
+      "delayed",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 2,
+    "attrition_rate": 0.07
+  },
+  "google": {
+    "place_id": "ChIJMSME036",
+    "rating": 3.3,
+    "review_count": 25,
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 127
+      },
+      {
+        "rating": 2,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 214
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 204
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 96
+      },
+      {
+        "rating": 2,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 529
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 501
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 426
+      },
+      {
+        "rating": 1,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 369
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 17
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 103
+      },
+      {
+        "rating": 1,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 445
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 87
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 17
+      },
+      {
+        "rating": 3,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 47
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 10
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 40
+      },
+      {
+        "rating": 3,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 381
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 177
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 186
+      },
+      {
+        "rating": 1,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 31
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 272
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 340
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 418
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 538
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 229
+      }
+    ],
+    "response_rate": 0.45,
+    "review_velocity_6m": 11
+  },
+  "bureau": {
+    "promoter_name": "Jyoti Purohit",
+    "cibil_score": 631,
+    "active_loans": 3,
+    "dpd_12m": 2,
+    "write_offs_36m": 1,
+    "credit_utilization": 0.42
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC337212",
+    "monthly_kwh": [
+      3010.16,
+      2939.7,
+      2886.3,
+      2876.77,
+      2811.31,
+      2905.64,
+      3012.23,
+      3065.53,
+      3027.91,
+      2982.35,
+      3102.0,
+      3070.9
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.94
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 98.5,
+    "region_tier": "Tier-1"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.14,
+    "capex_lakhs_12m": 0.92,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

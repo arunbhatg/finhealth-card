@@ -1,0 +1,397 @@
+{
+  "msme_id": "MSME075",
+  "business_name": "Bhatia-Sandhu",
+  "pan": "TGCTA2196M",
+  "gstin": "07HPN9FDLR8Z1ZK",
+  "sector": "Textiles",
+  "city": "Purnia",
+  "state": "Delhi",
+  "years_in_business": 17,
+  "udyam_number": "UDYAM-07-2312772",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2025-05-22",
+    "business_type": "Textiles",
+    "monthly_turnover_lakhs": [
+      36.25,
+      36.51,
+      37.83,
+      37.61,
+      37.56,
+      36.2,
+      35.68,
+      36.29,
+      36.92,
+      37.85,
+      37.94,
+      39.16,
+      38.01,
+      38.51,
+      39.14,
+      38.93,
+      39.43,
+      38.2,
+      37.19,
+      37.94,
+      37.25,
+      36.4,
+      37.2,
+      38.43
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.44,
+    "payment_delays_count": 0,
+    "primary_customer_sectors": {
+      "Services": 0.11,
+      "Logistics": 0.53,
+      "Textiles": 0.36
+    }
+  },
+  "upi": {
+    "vpa": "bhatia-sandhu@paytm",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      9.75,
+      10.14,
+      10.34,
+      9.84,
+      9.16,
+      9.72,
+      9.23,
+      8.9,
+      8.79,
+      8.96,
+      8.51,
+      8.98
+    ],
+    "avg_ticket_size": [
+      9.75,
+      10.14,
+      10.34,
+      9.84,
+      9.16,
+      9.72,
+      9.23,
+      8.9,
+      8.79,
+      8.96,
+      8.51,
+      8.98
+    ],
+    "p2m_ratio": 0.7,
+    "failed_txn_rate": 0.017
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME075",
+    "accounts": [
+      {
+        "bank": "ICICI",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      13.59,
+      13.94,
+      14.1,
+      14.18,
+      14.16,
+      14.33,
+      13.93,
+      13.44,
+      13.08,
+      13.16,
+      13.61,
+      14.04
+    ],
+    "monthly_credits_lakhs": [
+      19.84,
+      20.5,
+      20.1,
+      19.04,
+      18.91,
+      19.75,
+      19.75,
+      20.56,
+      19.68,
+      19.94,
+      20.51,
+      21.04
+    ],
+    "monthly_debits_lakhs": [
+      16.82,
+      18.74,
+      15.7,
+      14.65,
+      16.26,
+      16.38,
+      18.37,
+      18.66,
+      16.5,
+      17.66,
+      17.17,
+      17.82
+    ],
+    "abb_lakhs": 13.6,
+    "emi_on_time_rate": 0.97,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.21
+  },
+  "epfo": {
+    "establishment_id": "DE/PUR/618435",
+    "employee_count": [
+      5,
+      5,
+      6,
+      6,
+      6,
+      5,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "monthly_wage_bill_lakhs": [
+      103708.2,
+      92555.92,
+      156531.87,
+      118654.9,
+      115855.93,
+      122310.1,
+      152544.08,
+      139244.58,
+      141627.68,
+      141297.09,
+      110052.91,
+      120782.82
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 3,
+    "attrition_rate": 0.08
+  },
+  "google": {
+    "place_id": "ChIJMSME075",
+    "rating": 3.3,
+    "review_count": 20,
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 103
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 103
+      },
+      {
+        "rating": 4,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 101
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 371
+      },
+      {
+        "rating": 3,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 202
+      },
+      {
+        "rating": 5,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 397
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 421
+      },
+      {
+        "rating": 2,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 89
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 390
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 314
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 48
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 264
+      },
+      {
+        "rating": 4,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 486
+      },
+      {
+        "rating": 2,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 248
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 329
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 381
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 83
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 371
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 484
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 399
+      }
+    ],
+    "response_rate": 0.87,
+    "review_velocity_6m": 6
+  },
+  "bureau": {
+    "promoter_name": "Abdul Kale",
+    "cibil_score": 693,
+    "active_loans": 3,
+    "dpd_12m": 3,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.27
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC273930",
+    "monthly_kwh": [
+      4006.34,
+      4045.94,
+      4040.44,
+      4012.69,
+      4040.41,
+      4050.35,
+      4097.73,
+      4048.43,
+      4035.88,
+      4039.53,
+      3951.11,
+      4031.43
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.85
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 85.6,
+    "region_tier": "Tier-2"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 1.23,
+    "capex_lakhs_12m": 0.7,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

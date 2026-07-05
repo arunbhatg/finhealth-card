@@ -1,0 +1,355 @@
+{
+  "msme_id": "MSME069",
+  "business_name": "Chaudhary Group",
+  "pan": "QHKHA1280J",
+  "gstin": "2408T6RWARQC1ZJ",
+  "sector": "Manufacturing",
+  "city": "Nagaon",
+  "state": "Gujarat",
+  "years_in_business": 17,
+  "udyam_number": "UDYAM-24-4893209",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2022-07-02",
+    "business_type": "Manufacturing",
+    "monthly_turnover_lakhs": [
+      16.85,
+      16.72,
+      15.65,
+      16.11,
+      17.08,
+      18.02,
+      18.69,
+      20.13,
+      20.8,
+      20.65,
+      21.71,
+      22.42,
+      22.68,
+      22.81,
+      24.17,
+      23.78,
+      22.88,
+      23.52,
+      22.42,
+      24.0,
+      25.73,
+      27.34,
+      27.86,
+      26.74
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.51,
+    "payment_delays_count": 1,
+    "primary_customer_sectors": {
+      "Agri-Input": 0.89,
+      "Manufacturing": 0.01,
+      "Food Processing": 0.1
+    }
+  },
+  "upi": {
+    "vpa": "chaudhary@okaxis",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      20.86,
+      20.55,
+      20.5,
+      21.28,
+      21.56,
+      21.94,
+      22.44,
+      22.51,
+      22.18,
+      23.14,
+      22.73,
+      22.33
+    ],
+    "avg_ticket_size": [
+      20.86,
+      20.55,
+      20.5,
+      21.28,
+      21.56,
+      21.94,
+      22.44,
+      22.51,
+      22.18,
+      23.14,
+      22.73,
+      22.33
+    ],
+    "p2m_ratio": 0.9,
+    "failed_txn_rate": 0.013
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME069",
+    "accounts": [
+      {
+        "bank": "Axis",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      5.29,
+      5.32,
+      5.3,
+      4.93,
+      4.65,
+      4.88,
+      5.22,
+      5.26,
+      4.85,
+      5.11,
+      5.18,
+      5.68
+    ],
+    "monthly_credits_lakhs": [
+      6.54,
+      5.63,
+      4.72,
+      3.74,
+      3.14,
+      3.14,
+      2.98,
+      3.33,
+      4.44,
+      3.34,
+      4.1,
+      3.14
+    ],
+    "monthly_debits_lakhs": [
+      5.5,
+      4.27,
+      4.17,
+      3.28,
+      2.56,
+      2.54,
+      2.43,
+      2.8,
+      3.38,
+      2.93,
+      3.61,
+      2.36
+    ],
+    "abb_lakhs": 5.32,
+    "emi_on_time_rate": 0.82,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.13
+  },
+  "epfo": {
+    "establishment_id": "GU/NAG/595695",
+    "employee_count": [
+      32,
+      32,
+      32,
+      33,
+      32,
+      33,
+      33,
+      33,
+      33,
+      32,
+      32,
+      32
+    ],
+    "monthly_wage_bill_lakhs": [
+      882860.04,
+      714155.91,
+      683277.0,
+      807520.53,
+      877561.89,
+      894284.69,
+      600226.07,
+      701725.51,
+      868210.99,
+      629823.9,
+      813088.14,
+      606668.04
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "missed",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 5,
+    "attrition_rate": 0.07
+  },
+  "google": {
+    "place_id": "ChIJMSME069",
+    "rating": 3.8,
+    "review_count": 13,
+    "reviews": [
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 48
+      },
+      {
+        "rating": 4,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 263
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 104
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 186
+      },
+      {
+        "rating": 1,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 220
+      },
+      {
+        "rating": 3,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 344
+      },
+      {
+        "rating": 2,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 342
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 410
+      },
+      {
+        "rating": 3,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 454
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 525
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 56
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 254
+      },
+      {
+        "rating": 4,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 249
+      }
+    ],
+    "response_rate": 0.72,
+    "review_velocity_6m": 3
+  },
+  "bureau": {
+    "promoter_name": "Zehaan Edwin",
+    "cibil_score": 667,
+    "active_loans": 2,
+    "dpd_12m": 1,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.27
+  },
+  "courts": {
+    "civil_cases": 1,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 7.74
+  },
+  "electricity": {
+    "consumer_number": "ELC383949",
+    "monthly_kwh": [
+      4292.21,
+      4186.89,
+      4227.16,
+      4152.13,
+      4028.38,
+      3963.12,
+      4008.25,
+      3996.66,
+      3904.56,
+      3811.52,
+      3758.42,
+      3659.18
+    ],
+    "tariff_category": "Industrial",
+    "payment_regularity": 0.96
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 101.5,
+    "region_tier": "Tier-1"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.42,
+    "capex_lakhs_12m": 2.17,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

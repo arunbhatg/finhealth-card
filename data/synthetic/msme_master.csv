@@ -1,0 +1,76 @@
+msme_id,business_name,pan,gstin,sector,city,state,years_in_business,persona
+MSME001,Sharma Precision Works,GPOSS4428Y,27XAJI0Y6DPB1ZN,Manufacturing,Pune,Maharashtra,6,healthy_manufacturer
+MSME002,Patel Kirana & General Store,JOWZT9217F,24UFEL6246HI1ZG,Retail,Ahmedabad,Gujarat,13,healthy_retail
+MSME003,Gupta Trading Company,VKBQB1539D,07W1DAKRM8J51ZH,Retail,Delhi,Delhi,3,distressed
+MSME004,Krishi Mitra Agro Supplies,QMSQD0091H,27V37DIA5U6H1ZE,Agri-Input,Nagpur,Maharashtra,6,agri_favorable
+MSME005,"Datta, Gola and Nath",DBCXI7512O,33VNU80B6UGV1Z6,Manufacturing,Rajahmundry,Tamil Nadu,15,random
+MSME006,Deep Ltd,XLCRV3305J,33E1ZHWY9HEC1ZL,Textiles,Amaravati,Tamil Nadu,5,random
+MSME007,"Ravel, Bumb and Boase",YXURQ9329P,298K0AXYCELO1Z6,Pharma,Karawal Nagar,Karnataka,5,random
+MSME008,Padmanabhan-Hora,AFDVV9255M,246YUJ7YKTXG1ZU,Logistics,Ambarnath,Gujarat,14,random
+MSME009,Dugar LLC,EDFFB3253W,27QM3P91I3VM1Z1,Food Processing,Salem,Maharashtra,9,random
+MSME010,Walia-Menon,HLDPQ6484C,27BQGU3OBYGH1ZL,Agri-Input,Dehradun,Maharashtra,10,random
+MSME011,Manda-Dhaliwal,VHHMS0819O,24WYOO5YBRJN1ZV,Textiles,Deoghar,Gujarat,8,random
+MSME012,Toor Group,KZHKW7671W,27AEXL68J0NM1ZH,Manufacturing,Mysore,Maharashtra,11,random
+MSME013,Behl Ltd,JNHRP2938A,07QOLOEAZC0B1ZE,Textiles,Haridwar,Delhi,18,random
+MSME014,Korpal-Hayre,TYLLP0106H,33K82853UY8U1ZP,Manufacturing,Serampore,Tamil Nadu,15,random
+MSME015,Kala-Bajaj,ENLVO4757A,296RPKZGGM0J1Z9,Services,Proddatur,Karnataka,17,random
+MSME016,Baria LLC,ELWUH1296E,33DQ55IT9BN11ZD,Retail,Hubli–Dharwad,Tamil Nadu,16,random
+MSME017,"Sarraf, Tandon and Ramaswamy",KPFRI5939N,07XCHFU131XQ1ZS,Agri-Input,Shimoga,Delhi,14,random
+MSME018,"Bhavsar, Purohit and Loke",DNZIH0963K,33Z1RO03CINY1Z4,Retail,Anantapur,Tamil Nadu,6,random
+MSME019,Batta-Virk,MHYZO1594W,277ORFQLA09L1ZS,Food Processing,Faridabad,Maharashtra,8,random
+MSME020,Devi-Chaudhuri,CBBRZ3616D,07Y89SFQERI71ZB,Agri-Input,Giridih,Delhi,10,random
+MSME021,Brar-Dua,YWFYY6699G,29Q5EGVLKDNO1ZY,Textiles,Cuttack,Karnataka,16,random
+MSME022,Tripathi-Atwal,XWSMW7349U,337MZAKGMIH61ZV,Pharma,Sangli-Miraj & Kupwad,Tamil Nadu,11,random
+MSME023,Oza-Shah,HCDXG9802T,27TKG1F8YC8G1ZD,Manufacturing,Gudivada,Maharashtra,17,random
+MSME024,Basak-Garg,XARJU1932Z,279HKHJG4IHG1ZQ,Agri-Input,Ulhasnagar,Maharashtra,7,random
+MSME025,"Bajwa, Saran and Bhalla",RSLMH1861D,2904OAE7L0RC1Z9,Textiles,Raebareli,Karnataka,15,random
+MSME026,Naidu PLC,GXKQQ8123I,24NZHG8Q3GCG1ZM,Services,Bardhaman,Gujarat,3,random
+MSME027,Dar Ltd,KDZLA6011R,08FHWJWXZUXS1ZK,Textiles,Sri Ganganagar,Rajasthan,5,random
+MSME028,Rastogi Group,HUQGV5036L,294KJEITKX7J1ZI,Food Processing,Guntur,Karnataka,12,random
+MSME029,Maharaj-Nair,JRNGW6667H,278RNKOWYPSW1ZU,Services,Ahmedabad,Maharashtra,15,random
+MSME030,"Tiwari, Mangal and Sankaran",RLVFB4021O,33CKHHUZ83YU1Z0,Logistics,Raiganj,Tamil Nadu,18,random
+MSME031,Divan-Dutta,YDRNH5140J,24BSMWPQ82K81Z5,Food Processing,Shimla,Gujarat,12,random
+MSME032,Chopra-Sahota,SQHFD9272L,07Z72KXSJZSB1Z0,Logistics,Thrissur,Delhi,18,random
+MSME033,"Nagarajan, Mitra and Ghose",YWTAB5214I,24EN7YJF30KH1ZF,Retail,Ambattur,Gujarat,8,random
+MSME034,Comar Inc,IRXXE9730V,27P4CWCDT9GW1ZB,Services,Raipur,Maharashtra,11,random
+MSME035,Devan Inc,LMEPQ5477J,29OXUCR9C0TK1ZU,Textiles,Hajipur,Karnataka,15,random
+MSME036,Bhakta-Narayanan,WPEYZ6772I,29SLTDKVUFF11ZK,Logistics,Davanagere,Karnataka,16,random
+MSME037,Acharya Ltd,TUQUZ0682M,089YSU51EPXU1ZC,Agri-Input,Moradabad,Rajasthan,16,random
+MSME038,Sem and Sons,AYSIC4768M,33E9WT00IV1G1ZL,Agri-Input,Shimoga,Tamil Nadu,4,random
+MSME039,"Sarin, Soman and Sharaf",DNGSO9773O,07EWHO5QQ8QM1ZZ,Logistics,Miryalaguda,Delhi,4,random
+MSME040,Mitra PLC,KADIZ6307V,08MQQ749Q6QF1ZY,Retail,Panipat,Rajasthan,11,random
+MSME041,Zachariah Ltd,WQWYY3351B,079VFRUK94IW1ZA,Agri-Input,Tiruppur,Delhi,14,random
+MSME042,"Trivedi, Rege and Dey",KMUXH5339Q,33SRCVPUZ11B1ZR,Logistics,Tirunelveli,Tamil Nadu,14,random
+MSME043,Lal-Samra,JUPWT4565X,08ZJAHSAO2QW1ZS,Services,Naihati,Rajasthan,3,random
+MSME044,"Nigam, Kala and Butala",NVNNM6730F,2454AI2278EQ1ZH,Manufacturing,Bhusawal,Gujarat,4,random
+MSME045,Ray Ltd,ACQAH1177G,075DSIUAZ71U1ZK,Logistics,Gorakhpur,Delhi,13,random
+MSME046,Raman-Sundaram,WDSUU0744Z,29YC4I6H1M3J1ZU,Retail,Lucknow,Karnataka,12,random
+MSME047,"Nori, Desai and Samra",FGYYI7139D,279U7C1A7YJ81ZM,Textiles,Dhanbad,Maharashtra,13,random
+MSME048,"Karan, Gera and Srinivas",JXVMV5248B,292DNODKD3HH1ZL,Logistics,Hyderabad,Karnataka,10,random
+MSME049,"Maharaj, Deshpande and Sandal",FPFAK4250D,24XG770XDHJ51Z6,Retail,Kirari Suleman Nagar,Gujarat,16,random
+MSME050,Pall Ltd,OLNLA1820P,27876KE1Q5MS1ZO,Retail,Thiruvananthapuram,Maharashtra,14,random
+MSME051,"Narula, Savant and Kuruvilla",PWJYX9217Z,2719ARSOZ9E51ZL,Retail,Kalyan-Dombivli,Maharashtra,17,random
+MSME052,Sheth Ltd,PVEAZ5098L,27U6AVE7E51M1Z7,Pharma,Ghaziabad,Maharashtra,13,random
+MSME053,"Nanda, Wadhwa and Dhaliwal",DKHLG5665Y,07N4FLHW3CHN1ZQ,Pharma,Jabalpur,Delhi,15,random
+MSME054,Chokshi PLC,JGGYY0607L,24HMIE8989GN1ZD,Food Processing,Raiganj,Gujarat,10,random
+MSME055,Lanka Group,RAYSZ5453U,27USHFRRCV1E1ZY,Textiles,Anantapuram,Maharashtra,2,random
+MSME056,"Ravel, Kota and Kohli",DDKZF8222O,07MQM57FHSF21ZA,Textiles,Nashik,Delhi,11,random
+MSME057,"Chawla, Tak and Nigam",CWLVK6926D,27LCKWT2E0771ZH,Services,Bidar,Maharashtra,2,random
+MSME058,Andra Inc,HZDPB4695M,33QOXBE1P5EI1ZS,Manufacturing,Surendranagar Dudhrej,Tamil Nadu,4,random
+MSME059,Singh PLC,TDLFJ7423Z,29L5KZHCMZ2R1ZY,Retail,Malda,Karnataka,16,random
+MSME060,Joshi Group,VJOCA1519R,29D7QCQ3ZA8E1ZW,Agri-Input,Bongaigaon,Karnataka,15,random
+MSME061,"Garde, Virk and Jain",NEICR8614A,07Z298L4JM8C1Z0,Agri-Input,Nashik,Delhi,14,random
+MSME062,Majumdar-Munshi,FOXMR3184Q,07OJAXNHRC4H1ZV,Retail,Raiganj,Delhi,14,random
+MSME063,Choudhry and Sons,GVQRS5119A,077QFQ9N04FD1Z8,Pharma,Eluru,Delhi,9,random
+MSME064,Dhar-Dave,WCJNP0049F,07JOQYNIT38C1ZT,Agri-Input,Pallavaram,Delhi,11,random
+MSME065,"Bumb, Bhandari and Raval",ZWRET9151N,24PN3VWTKCNL1Z5,Services,Fatehpur,Gujarat,7,random
+MSME066,Kanda Group,DPIRT4345H,27WVAHBEF2IB1ZX,Food Processing,Maheshtala,Maharashtra,15,random
+MSME067,"Ratti, Dhaliwal and Tank",DKWHD7923E,332J6SB053AK1ZN,Food Processing,Hyderabad,Tamil Nadu,11,random
+MSME068,Uppal-Biswas,TMBPI6535T,27WQRLVC35TY1Z2,Food Processing,Gorakhpur,Maharashtra,15,random
+MSME069,Chaudhary Group,QHKHA1280J,2408T6RWARQC1ZJ,Manufacturing,Nagaon,Gujarat,17,random
+MSME070,Baral-Jani,FXTKY1141O,29HUY7EW1TMI1ZS,Logistics,Pune,Karnataka,13,random
+MSME071,Vaidya Ltd,CWRHV0859N,080QOEXOANAA1ZC,Pharma,Panipat,Rajasthan,11,random
+MSME072,"Tella, Batta and Ghose",UECSI5407B,08QR8ZMMXX1C1ZB,Manufacturing,Chapra,Rajasthan,4,random
+MSME073,"Palla, Krishna and Khanna",JYLUZ1548O,2452XOVYXHZP1ZG,Retail,Sonipat,Gujarat,14,random
+MSME074,Lanka-Baria,TJASK4485P,24VWKFU90FPI1Z0,Pharma,Serampore,Gujarat,13,random
+MSME075,Bhatia-Sandhu,TGCTA2196M,07HPN9FDLR8Z1ZK,Textiles,Purnia,Delhi,17,random

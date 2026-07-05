@@ -1,0 +1,445 @@
+{
+  "msme_id": "MSME058",
+  "business_name": "Andra Inc",
+  "pan": "HZDPB4695M",
+  "gstin": "33QOXBE1P5EI1ZS",
+  "sector": "Manufacturing",
+  "city": "Surendranagar Dudhrej",
+  "state": "Tamil Nadu",
+  "years_in_business": 4,
+  "udyam_number": "UDYAM-33-6252627",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2021-10-21",
+    "business_type": "Manufacturing",
+    "monthly_turnover_lakhs": [
+      27.72,
+      28.02,
+      27.82,
+      27.96,
+      27.35,
+      29.02,
+      28.44,
+      29.13,
+      29.0,
+      28.52,
+      29.3,
+      30.15,
+      30.36,
+      29.34,
+      29.71,
+      30.04,
+      30.09,
+      30.6,
+      31.55,
+      31.43,
+      32.13,
+      32.85,
+      32.75,
+      31.96
+    ],
+    "filing_status": [
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.75,
+    "payment_delays_count": 4,
+    "primary_customer_sectors": {
+      "Logistics": 0.02,
+      "Textiles": 0.72,
+      "Services": 0.26
+    }
+  },
+  "upi": {
+    "vpa": "andra@ybl",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      14.37,
+      14.34,
+      14.28,
+      14.78,
+      15.1,
+      14.8,
+      15.17,
+      15.09,
+      15.61,
+      15.61,
+      16.19,
+      16.14
+    ],
+    "avg_ticket_size": [
+      14.37,
+      14.34,
+      14.28,
+      14.78,
+      15.1,
+      14.8,
+      15.17,
+      15.09,
+      15.61,
+      15.61,
+      16.19,
+      16.14
+    ],
+    "p2m_ratio": 0.78,
+    "failed_txn_rate": 0.005
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME058",
+    "accounts": [
+      {
+        "bank": "ICICI",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      7.21,
+      7.08,
+      6.99,
+      6.62,
+      6.23,
+      6.11,
+      5.7,
+      6.09,
+      5.67,
+      5.52,
+      5.15,
+      5.13
+    ],
+    "monthly_credits_lakhs": [
+      12.78,
+      13.58,
+      14.08,
+      13.92,
+      13.24,
+      13.26,
+      13.5,
+      14.26,
+      15.0,
+      14.26,
+      15.14,
+      15.24
+    ],
+    "monthly_debits_lakhs": [
+      10.5,
+      11.0,
+      12.83,
+      12.03,
+      10.46,
+      10.71,
+      12.56,
+      11.27,
+      12.25,
+      12.09,
+      12.97,
+      12.11
+    ],
+    "abb_lakhs": 5.27,
+    "emi_on_time_rate": 0.95,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.4
+  },
+  "epfo": {
+    "establishment_id": "TA/SUR/422304",
+    "employee_count": [
+      12,
+      12,
+      12,
+      12,
+      11,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12
+    ],
+    "monthly_wage_bill_lakhs": [
+      322754.93,
+      313450.21,
+      282817.97,
+      258315.16,
+      217149.71,
+      281196.61,
+      239555.91,
+      250228.92,
+      282582.23,
+      238074.54,
+      298112.55,
+      253615.31
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "delayed",
+      "delayed",
+      "paid",
+      "delayed",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid"
+    ],
+    "new_joiners_12m": 2,
+    "attrition_rate": 0.1
+  },
+  "google": {
+    "place_id": "ChIJMSME058",
+    "rating": 3.4,
+    "review_count": 28,
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 269
+      },
+      {
+        "rating": 2,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 30
+      },
+      {
+        "rating": 4,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 349
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 240
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 168
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 420
+      },
+      {
+        "rating": 3,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 175
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 527
+      },
+      {
+        "rating": 3,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 469
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 380
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 357
+      },
+      {
+        "rating": 4,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 114
+      },
+      {
+        "rating": 5,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 74
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 76
+      },
+      {
+        "rating": 3,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 193
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 84
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 307
+      },
+      {
+        "rating": 3,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 102
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 436
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 401
+      },
+      {
+        "rating": 4,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 223
+      },
+      {
+        "rating": 3,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 350
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 84
+      },
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 82
+      },
+      {
+        "rating": 2,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 12
+      },
+      {
+        "rating": 5,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 171
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 49
+      },
+      {
+        "rating": 5,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 434
+      }
+    ],
+    "response_rate": 0.47,
+    "review_velocity_6m": 13
+  },
+  "bureau": {
+    "promoter_name": "Hemani Pingle",
+    "cibil_score": 608,
+    "active_loans": 3,
+    "dpd_12m": 1,
+    "write_offs_36m": 1,
+    "credit_utilization": 0.34
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC444027",
+    "monthly_kwh": [
+      1879.57,
+      1867.8,
+      1903.82,
+      1881.13,
+      1845.81,
+      1767.44,
+      1818.83,
+      1825.87,
+      1728.16,
+      1680.04,
+      1612.11,
+      1581.81
+    ],
+    "tariff_category": "Industrial",
+    "payment_regularity": 0.78
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 112.3,
+    "region_tier": "Tier-2"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.88,
+    "capex_lakhs_12m": 3.99,
+    "patents_count": 0,
+    "govt_scheme_beneficiary": false
+  }
+}

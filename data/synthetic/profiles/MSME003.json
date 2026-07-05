@@ -1,0 +1,403 @@
+{
+  "msme_id": "MSME003",
+  "business_name": "Gupta Trading Company",
+  "pan": "VKBQB1539D",
+  "gstin": "07W1DAKRM8J51ZH",
+  "sector": "Retail",
+  "city": "Delhi",
+  "state": "Delhi",
+  "years_in_business": 3,
+  "udyam_number": "UDYAM-07-7121355",
+  "persona": "distressed",
+  "gst": {
+    "registration_date": "2022-03-29",
+    "business_type": "Retail",
+    "monthly_turnover_lakhs": [
+      32.26,
+      32.11,
+      31.75,
+      31.37,
+      32.24,
+      33.49,
+      32.68,
+      32.83,
+      32.94,
+      33.44,
+      34.56,
+      33.45,
+      32.36,
+      32.63,
+      31.38,
+      30.19,
+      28.72,
+      27.04,
+      26.71,
+      26.81,
+      26.01,
+      25.03,
+      25.48,
+      25.92
+    ],
+    "filing_status": [
+      "filed",
+      "missed",
+      "delayed",
+      "filed",
+      "filed",
+      "missed",
+      "delayed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "missed",
+      "filed",
+      "filed",
+      "delayed",
+      "missed",
+      "delayed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.74,
+    "payment_delays_count": 10,
+    "primary_customer_sectors": {
+      "Retail": 0.02,
+      "Services": 0.67,
+      "Logistics": 0.31
+    }
+  },
+  "upi": {
+    "vpa": "gupta@okaxis",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      17.51,
+      16.86,
+      16.87,
+      16.95,
+      16.8,
+      16.01,
+      15.64,
+      15.25,
+      15.4,
+      15.85,
+      15.45,
+      15.63
+    ],
+    "avg_ticket_size": [
+      17.51,
+      16.86,
+      16.87,
+      16.95,
+      16.8,
+      16.01,
+      15.64,
+      15.25,
+      15.4,
+      15.85,
+      15.45,
+      15.63
+    ],
+    "p2m_ratio": 0.94,
+    "failed_txn_rate": 0.018
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME003",
+    "accounts": [
+      {
+        "bank": "SBI",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      5.46,
+      5.76,
+      5.79,
+      5.73,
+      5.52,
+      5.33,
+      5.78,
+      5.66,
+      5.66,
+      6.13,
+      6.27,
+      6.29
+    ],
+    "monthly_credits_lakhs": [
+      14.48,
+      14.05,
+      14.57,
+      14.78,
+      15.3,
+      14.49,
+      14.51,
+      15.44,
+      15.19,
+      15.56,
+      14.55,
+      15.59
+    ],
+    "monthly_debits_lakhs": [
+      12.62,
+      11.21,
+      11.39,
+      12.71,
+      13.16,
+      11.14,
+      13.76,
+      14.4,
+      12.79,
+      12.04,
+      13.33,
+      13.25
+    ],
+    "abb_lakhs": 6.23,
+    "emi_on_time_rate": 0.74,
+    "bounce_count_12m": 4,
+    "od_utilization": 0.73
+  },
+  "epfo": {
+    "establishment_id": "DE/DEL/247594",
+    "employee_count": [
+      22,
+      22,
+      22,
+      23,
+      23,
+      23,
+      22,
+      23,
+      23,
+      23,
+      23,
+      23
+    ],
+    "monthly_wage_bill_lakhs": [
+      569801.36,
+      487287.33,
+      601534.65,
+      530779.67,
+      602726.38,
+      479052.97,
+      461682.29,
+      548995.68,
+      643747.54,
+      526617.28,
+      448176.95,
+      537873.53
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "missed",
+      "paid",
+      "delayed",
+      "paid",
+      "paid",
+      "missed"
+    ],
+    "new_joiners_12m": 3,
+    "attrition_rate": 0.22
+  },
+  "google": {
+    "place_id": "ChIJMSME003",
+    "rating": 3.6,
+    "review_count": 21,
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 77
+      },
+      {
+        "rating": 1,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 408
+      },
+      {
+        "rating": 1,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 390
+      },
+      {
+        "rating": 1,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 37
+      },
+      {
+        "rating": 3,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 233
+      },
+      {
+        "rating": 2,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 103
+      },
+      {
+        "rating": 1,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 48
+      },
+      {
+        "rating": 5,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 384
+      },
+      {
+        "rating": 3,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 185
+      },
+      {
+        "rating": 5,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 247
+      },
+      {
+        "rating": 2,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 473
+      },
+      {
+        "rating": 2,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 477
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 76
+      },
+      {
+        "rating": 2,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 307
+      },
+      {
+        "rating": 2,
+        "text": "Quality has declined recently.",
+        "sentiment": "negative",
+        "days_ago": 468
+      },
+      {
+        "rating": 3,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 495
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 303
+      },
+      {
+        "rating": 3,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 282
+      },
+      {
+        "rating": 2,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 509
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 361
+      },
+      {
+        "rating": 3,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 141
+      }
+    ],
+    "response_rate": 0.94,
+    "review_velocity_6m": 6
+  },
+  "bureau": {
+    "promoter_name": "Dipta Hegde",
+    "cibil_score": 651,
+    "active_loans": 2,
+    "dpd_12m": 1,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.71
+  },
+  "courts": {
+    "civil_cases": 2,
+    "criminal_cases": 0,
+    "insolvency_petitions": 1,
+    "total_outstanding_litigation_lakhs": 17.95
+  },
+  "electricity": {
+    "consumer_number": "ELC576877",
+    "monthly_kwh": [
+      2242.13,
+      2278.25,
+      2345.93,
+      2315.68,
+      2194.13,
+      2167.16,
+      2158.11,
+      2205.07,
+      2252.35,
+      2212.26,
+      2189.79,
+      2153.81
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.55
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 91.1,
+    "region_tier": "Tier-1"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.94,
+    "capex_lakhs_12m": 3.36,
+    "patents_count": 1,
+    "govt_scheme_beneficiary": false
+  }
+}

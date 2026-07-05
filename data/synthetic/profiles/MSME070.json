@@ -1,0 +1,421 @@
+{
+  "msme_id": "MSME070",
+  "business_name": "Baral-Jani",
+  "pan": "FXTKY1141O",
+  "gstin": "29HUY7EW1TMI1ZS",
+  "sector": "Logistics",
+  "city": "Pune",
+  "state": "Karnataka",
+  "years_in_business": 13,
+  "udyam_number": "UDYAM-29-5747880",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2017-10-31",
+    "business_type": "Logistics",
+    "monthly_turnover_lakhs": [
+      29.23,
+      29.12,
+      30.27,
+      29.93,
+      30.58,
+      30.74,
+      29.97,
+      31.07,
+      30.44,
+      31.06,
+      31.76,
+      31.41,
+      32.17,
+      33.78,
+      34.39,
+      35.34,
+      35.57,
+      35.63,
+      35.29,
+      37.12,
+      36.38,
+      36.56,
+      37.91,
+      38.91
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.59,
+    "payment_delays_count": 2,
+    "primary_customer_sectors": {
+      "Manufacturing": 0.86,
+      "Retail": 0.0,
+      "Pharma": 0.14
+    }
+  },
+  "upi": {
+    "vpa": "baral-jani@okaxis",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      20.45,
+      20.69,
+      20.53,
+      21.1,
+      21.99,
+      22.75,
+      23.92,
+      24.53,
+      24.76,
+      25.49,
+      25.66,
+      25.94
+    ],
+    "avg_ticket_size": [
+      20.45,
+      20.69,
+      20.53,
+      21.1,
+      21.99,
+      22.75,
+      23.92,
+      24.53,
+      24.76,
+      25.49,
+      25.66,
+      25.94
+    ],
+    "p2m_ratio": 0.94,
+    "failed_txn_rate": 0.005
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME070",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      13.63,
+      13.33,
+      13.06,
+      13.58,
+      14.04,
+      14.22,
+      14.72,
+      14.33,
+      14.33,
+      14.5,
+      14.6,
+      14.87
+    ],
+    "monthly_credits_lakhs": [
+      29.31,
+      30.06,
+      30.96,
+      31.11,
+      31.04,
+      31.37,
+      32.1,
+      32.42,
+      33.28,
+      33.53,
+      34.93,
+      34.75
+    ],
+    "monthly_debits_lakhs": [
+      23.91,
+      26.15,
+      23.42,
+      29.28,
+      23.95,
+      25.72,
+      29.04,
+      24.49,
+      27.63,
+      29.97,
+      30.16,
+      27.95
+    ],
+    "abb_lakhs": 14.66,
+    "emi_on_time_rate": 0.87,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.29
+  },
+  "epfo": {
+    "establishment_id": "KA/PUN/865952",
+    "employee_count": [
+      7,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      7
+    ],
+    "monthly_wage_bill_lakhs": [
+      133027.36,
+      110735.43,
+      141801.11,
+      155828.55,
+      123918.13,
+      151702.22,
+      165300.8,
+      159898.51,
+      137617.43,
+      120990.61,
+      112434.81,
+      143573.18
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "delayed",
+      "delayed"
+    ],
+    "new_joiners_12m": 5,
+    "attrition_rate": 0.08
+  },
+  "google": {
+    "place_id": "ChIJMSME070",
+    "rating": 3.4,
+    "review_count": 24,
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 310
+      },
+      {
+        "rating": 1,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 215
+      },
+      {
+        "rating": 5,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 490
+      },
+      {
+        "rating": 1,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 103
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 82
+      },
+      {
+        "rating": 2,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 89
+      },
+      {
+        "rating": 4,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 101
+      },
+      {
+        "rating": 3,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 139
+      },
+      {
+        "rating": 2,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 166
+      },
+      {
+        "rating": 2,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 297
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 471
+      },
+      {
+        "rating": 3,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 497
+      },
+      {
+        "rating": 5,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 219
+      },
+      {
+        "rating": 2,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 378
+      },
+      {
+        "rating": 3,
+        "text": "Refund process was very slow.",
+        "sentiment": "negative",
+        "days_ago": 193
+      },
+      {
+        "rating": 3,
+        "text": "Delayed delivery and poor communication.",
+        "sentiment": "negative",
+        "days_ago": 39
+      },
+      {
+        "rating": 2,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 114
+      },
+      {
+        "rating": 2,
+        "text": "Would not recommend due to service gaps.",
+        "sentiment": "negative",
+        "days_ago": 294
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 357
+      },
+      {
+        "rating": 5,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 244
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 53
+      },
+      {
+        "rating": 1,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 398
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 346
+      },
+      {
+        "rating": 3,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 509
+      }
+    ],
+    "response_rate": 0.76,
+    "review_velocity_6m": 9
+  },
+  "bureau": {
+    "promoter_name": "Kashish Loyal",
+    "cibil_score": 643,
+    "active_loans": 3,
+    "dpd_12m": 1,
+    "write_offs_36m": 1,
+    "credit_utilization": 0.29
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC410634",
+    "monthly_kwh": [
+      1187.85,
+      1262.31,
+      1330.95,
+      1414.01,
+      1392.61,
+      1399.26,
+      1303.64,
+      1394.54,
+      1467.57,
+      1485.69,
+      1432.62,
+      1359.23
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.89
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 91.4,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 1.11,
+    "capex_lakhs_12m": 4.26,
+    "patents_count": 0,
+    "govt_scheme_beneficiary": false
+  }
+}

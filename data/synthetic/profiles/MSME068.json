@@ -1,0 +1,397 @@
+{
+  "msme_id": "MSME068",
+  "business_name": "Uppal-Biswas",
+  "pan": "TMBPI6535T",
+  "gstin": "27WQRLVC35TY1Z2",
+  "sector": "Food Processing",
+  "city": "Gorakhpur",
+  "state": "Maharashtra",
+  "years_in_business": 15,
+  "udyam_number": "UDYAM-27-6836472",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2021-08-31",
+    "business_type": "Food Processing",
+    "monthly_turnover_lakhs": [
+      26.18,
+      27.86,
+      28.75,
+      28.78,
+      28.07,
+      28.68,
+      29.56,
+      28.94,
+      30.59,
+      31.81,
+      32.49,
+      33.26,
+      33.15,
+      32.31,
+      33.82,
+      34.36,
+      33.72,
+      34.32,
+      35.59,
+      36.08,
+      36.16,
+      37.05,
+      38.27,
+      38.75
+    ],
+    "filing_status": [
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "delayed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.88,
+    "payment_delays_count": 2,
+    "primary_customer_sectors": {
+      "Retail": 0.03,
+      "Textiles": 0.07,
+      "Manufacturing": 0.9
+    }
+  },
+  "upi": {
+    "vpa": "uppal-biswas@ybl",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      3.45,
+      2.77,
+      2.79,
+      2.77,
+      2.99,
+      3.61,
+      4.11,
+      4.76,
+      5.62,
+      5.2,
+      5.04,
+      5.03
+    ],
+    "avg_ticket_size": [
+      3.45,
+      2.77,
+      2.79,
+      2.77,
+      2.99,
+      3.61,
+      4.11,
+      4.76,
+      5.62,
+      5.2,
+      5.04,
+      5.03
+    ],
+    "p2m_ratio": 0.72,
+    "failed_txn_rate": 0.006
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME068",
+    "accounts": [
+      {
+        "bank": "ICICI",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      12.22,
+      12.53,
+      12.87,
+      13.28,
+      13.52,
+      13.98,
+      13.66,
+      13.57,
+      13.78,
+      14.04,
+      14.39,
+      14.42
+    ],
+    "monthly_credits_lakhs": [
+      27.61,
+      28.28,
+      28.67,
+      29.29,
+      30.05,
+      30.98,
+      31.38,
+      32.25,
+      32.1,
+      31.39,
+      31.43,
+      31.82
+    ],
+    "monthly_debits_lakhs": [
+      21.86,
+      26.71,
+      23.29,
+      23.78,
+      25.44,
+      23.55,
+      29.31,
+      24.85,
+      25.05,
+      24.97,
+      27.65,
+      25.92
+    ],
+    "abb_lakhs": 14.28,
+    "emi_on_time_rate": 0.99,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.32
+  },
+  "epfo": {
+    "establishment_id": "MA/GOR/352193",
+    "employee_count": [
+      7,
+      7,
+      7,
+      7,
+      7,
+      8,
+      8,
+      8,
+      8,
+      9,
+      9,
+      9
+    ],
+    "monthly_wage_bill_lakhs": [
+      169253.71,
+      163640.88,
+      187159.72,
+      135948.65,
+      170716.67,
+      168204.25,
+      206238.22,
+      165360.77,
+      178108.13,
+      188273.03,
+      199081.23,
+      204572.58
+    ],
+    "contribution_status": [
+      "delayed",
+      "delayed",
+      "missed",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "missed",
+      "paid",
+      "delayed",
+      "missed"
+    ],
+    "new_joiners_12m": 4,
+    "attrition_rate": 0.06
+  },
+  "google": {
+    "place_id": "ChIJMSME068",
+    "rating": 4.7,
+    "review_count": 20,
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 378
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 168
+      },
+      {
+        "rating": 3,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 308
+      },
+      {
+        "rating": 2,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 71
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 254
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 478
+      },
+      {
+        "rating": 3,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 483
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 354
+      },
+      {
+        "rating": 4,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 291
+      },
+      {
+        "rating": 1,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 275
+      },
+      {
+        "rating": 1,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 118
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 14
+      },
+      {
+        "rating": 1,
+        "text": "Average experience, nothing exceptional.",
+        "sentiment": "neutral",
+        "days_ago": 526
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 74
+      },
+      {
+        "rating": 1,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 234
+      },
+      {
+        "rating": 3,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 492
+      },
+      {
+        "rating": 2,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 262
+      },
+      {
+        "rating": 3,
+        "text": "Decent products at market rates.",
+        "sentiment": "neutral",
+        "days_ago": 461
+      },
+      {
+        "rating": 3,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 129
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 207
+      }
+    ],
+    "response_rate": 0.42,
+    "review_velocity_6m": 6
+  },
+  "bureau": {
+    "promoter_name": "Varenya Ramesh",
+    "cibil_score": 781,
+    "active_loans": 1,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.23
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC330875",
+    "monthly_kwh": [
+      3127.22,
+      3125.1,
+      3215.78,
+      3243.54,
+      3291.75,
+      3228.88,
+      3224.23,
+      3152.63,
+      3138.66,
+      3157.88,
+      3213.84,
+      3263.46
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.86
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 97.3,
+    "region_tier": "Tier-1"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 1.16,
+    "capex_lakhs_12m": 3.07,
+    "patents_count": 0,
+    "govt_scheme_beneficiary": false
+  }
+}

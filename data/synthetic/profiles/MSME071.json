@@ -1,0 +1,463 @@
+{
+  "msme_id": "MSME071",
+  "business_name": "Vaidya Ltd",
+  "pan": "CWRHV0859N",
+  "gstin": "080QOEXOANAA1ZC",
+  "sector": "Pharma",
+  "city": "Panipat",
+  "state": "Rajasthan",
+  "years_in_business": 11,
+  "udyam_number": "UDYAM-08-1041227",
+  "persona": "random",
+  "gst": {
+    "registration_date": "2025-01-16",
+    "business_type": "Pharma",
+    "monthly_turnover_lakhs": [
+      39.65,
+      40.32,
+      39.56,
+      39.42,
+      41.38,
+      42.72,
+      43.27,
+      43.98,
+      43.1,
+      43.42,
+      43.1,
+      44.35,
+      43.83,
+      45.54,
+      46.65,
+      46.21,
+      45.77,
+      45.35,
+      45.0,
+      44.58,
+      43.74,
+      43.67,
+      43.75,
+      43.32
+    ],
+    "filing_status": [
+      "filed",
+      "missed",
+      "filed",
+      "filed",
+      "filed",
+      "missed",
+      "filed",
+      "delayed",
+      "filed",
+      "delayed",
+      "missed",
+      "filed",
+      "missed",
+      "filed",
+      "missed",
+      "delayed",
+      "delayed",
+      "delayed",
+      "missed",
+      "filed",
+      "filed",
+      "missed",
+      "delayed",
+      "filed"
+    ],
+    "b2b_sales_ratio": 0.74,
+    "payment_delays_count": 13,
+    "primary_customer_sectors": {
+      "Agri-Input": 0.26,
+      "Services": 0.39,
+      "Food Processing": 0.35
+    }
+  },
+  "upi": {
+    "vpa": "vaidya@ybl",
+    "monthly_txn_count": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monthly_volume_lakhs": [
+      12.47,
+      12.08,
+      12.35,
+      13.12,
+      12.57,
+      12.46,
+      12.86,
+      13.73,
+      14.29,
+      14.26,
+      14.18,
+      14.59
+    ],
+    "avg_ticket_size": [
+      12.47,
+      12.08,
+      12.35,
+      13.12,
+      12.57,
+      12.46,
+      12.86,
+      13.73,
+      14.29,
+      14.26,
+      14.18,
+      14.59
+    ],
+    "p2m_ratio": 0.74,
+    "failed_txn_rate": 0.017
+  },
+  "aa": {
+    "consent_id": "AA-CONSENT-MSME071",
+    "accounts": [
+      {
+        "bank": "HDFC",
+        "type": "current"
+      }
+    ],
+    "monthly_closing_balance_lakhs": [
+      12.92,
+      13.27,
+      13.62,
+      13.31,
+      13.56,
+      13.44,
+      13.59,
+      13.98,
+      13.87,
+      14.35,
+      14.07,
+      13.71
+    ],
+    "monthly_credits_lakhs": [
+      7.25,
+      7.48,
+      7.85,
+      6.81,
+      6.24,
+      5.95,
+      7.19,
+      7.43,
+      8.03,
+      7.0,
+      8.29,
+      8.32
+    ],
+    "monthly_debits_lakhs": [
+      6.29,
+      5.78,
+      6.12,
+      5.41,
+      5.5,
+      5.33,
+      6.43,
+      5.94,
+      7.5,
+      5.59,
+      7.41,
+      7.23
+    ],
+    "abb_lakhs": 14.04,
+    "emi_on_time_rate": 0.78,
+    "bounce_count_12m": 0,
+    "od_utilization": 0.21
+  },
+  "epfo": {
+    "establishment_id": "RA/PAN/562518",
+    "employee_count": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "monthly_wage_bill_lakhs": [
+      72026.51,
+      88764.07,
+      110589.95,
+      94657.55,
+      73953.56,
+      83921.49,
+      107754.52,
+      92792.88,
+      104040.11,
+      89166.03,
+      87090.49,
+      101115.51
+    ],
+    "contribution_status": [
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "paid",
+      "missed",
+      "paid"
+    ],
+    "new_joiners_12m": 4,
+    "attrition_rate": 0.11
+  },
+  "google": {
+    "place_id": "ChIJMSME071",
+    "rating": 3.9,
+    "review_count": 31,
+    "reviews": [
+      {
+        "rating": 2,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 331
+      },
+      {
+        "rating": 1,
+        "text": "Standard service for the sector.",
+        "sentiment": "neutral",
+        "days_ago": 289
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 257
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 33
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 316
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 408
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 323
+      },
+      {
+        "rating": 2,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 30
+      },
+      {
+        "rating": 2,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 388
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 464
+      },
+      {
+        "rating": 1,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 227
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 299
+      },
+      {
+        "rating": 1,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 330
+      },
+      {
+        "rating": 1,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 538
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 144
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 93
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 161
+      },
+      {
+        "rating": 3,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 310
+      },
+      {
+        "rating": 4,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 123
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 416
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 406
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 34
+      },
+      {
+        "rating": 4,
+        "text": "Payment issues and unresponsive staff.",
+        "sentiment": "negative",
+        "days_ago": 161
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 8
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 50
+      },
+      {
+        "rating": 5,
+        "text": "Very professional team, highly recommended.",
+        "sentiment": "positive",
+        "days_ago": 217
+      },
+      {
+        "rating": 5,
+        "text": "Consistently good experience over the years.",
+        "sentiment": "positive",
+        "days_ago": 499
+      },
+      {
+        "rating": 5,
+        "text": "Excellent quality products and timely delivery.",
+        "sentiment": "positive",
+        "days_ago": 23
+      },
+      {
+        "rating": 4,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 441
+      },
+      {
+        "rating": 5,
+        "text": "Great service, fair pricing.",
+        "sentiment": "positive",
+        "days_ago": 386
+      },
+      {
+        "rating": 3,
+        "text": "Reliable supplier for our business needs.",
+        "sentiment": "positive",
+        "days_ago": 66
+      }
+    ],
+    "response_rate": 0.83,
+    "review_velocity_6m": 12
+  },
+  "bureau": {
+    "promoter_name": "Vamakshi Goswami",
+    "cibil_score": 712,
+    "active_loans": 0,
+    "dpd_12m": 0,
+    "write_offs_36m": 0,
+    "credit_utilization": 0.35
+  },
+  "courts": {
+    "civil_cases": 0,
+    "criminal_cases": 0,
+    "insolvency_petitions": 0,
+    "total_outstanding_litigation_lakhs": 0.0
+  },
+  "electricity": {
+    "consumer_number": "ELC469878",
+    "monthly_kwh": [
+      821.88,
+      825.49,
+      746.7,
+      684.55,
+      583.02,
+      534.29,
+      525.68,
+      501.05,
+      519.68,
+      543.44,
+      608.74,
+      562.89
+    ],
+    "tariff_category": "Commercial",
+    "payment_regularity": 0.74
+  },
+  "macro": {
+    "sector_growth_pct": null,
+    "monsoon_index_pct": 114.1,
+    "region_tier": "Metro"
+  },
+  "investment": {
+    "rnd_spend_lakhs_annual": 0.77,
+    "capex_lakhs_12m": 3.39,
+    "patents_count": 0,
+    "govt_scheme_beneficiary": false
+  }
+}
