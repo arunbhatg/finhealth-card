@@ -2,7 +2,8 @@
 
 from __future__ import annotations
 
-from src.utils.display_metrics import bill_pay_on_time_pct, court_case_count
+from src.utils.constants import FINN_SCORE_LABEL
+from src.utils.display_metrics import active_litigation_label, bill_pay_on_time_pct
 from src.utils.helpers import score_to_grade
 
 
@@ -56,7 +57,21 @@ def get_risk_flags(features: dict, profile: dict) -> list[dict]:
         flags.append({
             "level": "red",
             "label": "Active litigation",
-            "detail": f"{court_case_count(profile)} case(s) on record",
+            "detail": active_litigation_label(profile),
+        })
+
+    news = profile.get("news", {})
+    if news.get("negative_count_30d", 0) > news.get("positive_count_30d", 0):
+        flags.append({
+            "level": "amber",
+            "label": "Negative news flow",
+            "detail": f"{news['negative_count_30d']} negative vs {news.get('positive_count_30d', 0)} positive (30d)",
+        })
+    elif news.get("positive_count_30d", 0) >= 2 and news.get("negative_count_30d", 0) == 0:
+        flags.append({
+            "level": "green",
+            "label": "Positive news flow",
+            "detail": f"{news['positive_count_30d']} favourable articles (30d)",
         })
 
     if features["gst_turnover_yoy_growth"] > 10:
@@ -86,7 +101,7 @@ def get_risk_flags(features: dict, profile: dict) -> list[dict]:
 def get_key_metrics(features: dict, profile: dict) -> list[dict]:
     growth = features["gst_turnover_yoy_growth"]
     growth_sign = "+" if growth >= 0 else ""
-    cases = court_case_count(profile)
+    news = profile.get("news", {})
     return [
         {"label": "GST YoY growth", "value": f"{growth_sign}{growth:.1f}%"},
         {"label": "GST compliance", "value": f"{features['gst_filing_compliance']*100:.0f}%"},
@@ -97,7 +112,8 @@ def get_key_metrics(features: dict, profile: dict) -> list[dict]:
             "label": "Google sentiment",
             "value": f"{features['google_rating']:.1f}★",
         },
-        {"label": "Court cases", "value": str(cases)},
+        {"label": "Active litigation", "value": active_litigation_label(profile)},
+        {"label": "Recent news", "value": f"+{news.get('positive_count_30d', 0)} / −{news.get('negative_count_30d', 0)}"},
         {"label": "Elec. consumption", "value": f"{features['electricity_avg_kwh']:.0f} kWh"},
         {"label": "Monthly turnover", "value": f"₹{features['gst_avg_monthly_turnover']:.1f}L"},
     ]
@@ -108,7 +124,7 @@ def get_traditional_gap(profile: dict, score: float) -> dict:
     return {
         "traditional": "REJECT / NO FILE",
         "traditional_reason": "No audited financials · Thin/no commercial bureau · Informal books",
-        "alt_data": f"SCORE {int(score)} · {score_to_grade(score)}",
+        "alt_data": f"{FINN_SCORE_LABEL} {int(score)} · {score_to_grade(score)}",
         "alt_reason": "Digital footprint validates business activity and cash behaviour",
         "sources_used": 10,
         "time_to_decision": "< 5 min",

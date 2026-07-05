@@ -5,7 +5,7 @@ import streamlit as st
 from app.views._helpers import load_case
 from src.connectors.base import load_profile
 from src.features.feature_engineering import extract_features
-from src.utils.constants import DEMO_PERSONAS
+from src.utils.constants import DEMO_PERSONAS, FINN_SCORE_LABEL
 from src.utils.display_metrics import bill_pay_on_time_pct
 
 
@@ -37,7 +37,7 @@ def page_cases():
                     f"""
                     <div class="finn-case-stats">
                         <div class="finn-case-stat">
-                            <span class="label">Score</span>
+                            <span class="label">{FINN_SCORE_LABEL}</span>
                             <span class="value">{score}</span>
                         </div>
                         <div class="finn-case-stat">

@@ -9,6 +9,8 @@ if str(ROOT) not in sys.path:
 
 import streamlit as st
 
+from src.utils.constants import FINN_SCORE_LABEL
+
 PAGE_ORDER = ("Cases", "Assessment", "Details")
 
 
@@ -63,7 +65,7 @@ def sidebar():
         score = int(st.session_state.score_result["final_score"]) if st.session_state.score_result else "—"
         st.sidebar.markdown(
             f"**{p['business_name'][:26]}**  \n"
-            f"<span class='finn-muted'>{p['sector']} · {score}</span>",
+            f"<span class='finn-muted'>{p['sector']} · {FINN_SCORE_LABEL}: {score}</span>",
             unsafe_allow_html=True,
         )
         if st.sidebar.button("Change case", width="stretch"):

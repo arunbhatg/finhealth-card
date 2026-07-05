@@ -56,6 +56,8 @@ GRADE_THRESHOLDS = [
     (0, "Poor"),
 ]
 
+FINN_SCORE_LABEL = "FINN. Alternative Score"
+
 DEMO_PERSONAS = {
     "MSME001": {
         "name": "Sharma Precision Works",

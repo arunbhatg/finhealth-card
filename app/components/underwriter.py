@@ -7,8 +7,9 @@ import streamlit as st
 from app.components.widgets import render_score_gauge
 from src.scoring.loan_simulator import simulate_loan
 from src.scoring.underwriter_insights import get_credit_decision, get_key_metrics, get_risk_flags
-from src.utils.constants import SECTOR_GROWTH
-from src.utils.display_metrics import court_case_count
+from src.utils.chart_helpers import timeseries_df
+from src.utils.constants import FINN_SCORE_LABEL, SECTOR_GROWTH
+from src.utils.upi_insights import upi_insight_metrics, upi_momentum
 
 
 def _chips(flags: list[dict], levels: tuple[str, ...], css: str, limit: int = 4) -> None:
@@ -59,7 +60,7 @@ def render_overview(profile: dict, features: dict, result: dict) -> None:
     boosters = result.get("boosters", [])[:3]
     draggers = result.get("draggers", [])[:3]
     if boosters or draggers:
-        with st.expander("Score drivers", expanded=False):
+        with st.expander(f"{FINN_SCORE_LABEL} drivers", expanded=False):
             for d in boosters:
                 st.caption(f"↑ {d['factor']} ({d['value']})")
             for d in draggers:
@@ -84,42 +85,100 @@ def _google_sentiment_counts(reviews: list[dict]) -> dict[str, int]:
     return counts
 
 
+def _render_upi_panel(profile: dict, features: dict) -> None:
+    upi = profile["upi"]
+    st.caption(f"Merchant VPA: {upi.get('vpa', '—')} · {upi_momentum(upi['monthly_volume_lakhs'])}")
+
+    chart_col, info_col = st.columns([1.35, 1])
+    with chart_col:
+        df = timeseries_df(upi["monthly_volume_lakhs"], y_name="Volume (₹L)")
+        fig = px.line(
+            df,
+            x="Month",
+            y="Volume (₹L)",
+            markers=True,
+            title="UPI collection trend",
+        )
+        fig.update_layout(**_chart_layout())
+        st.plotly_chart(fig, width="stretch")
+
+    with info_col:
+        for row in upi_insight_metrics(profile, features):
+            st.metric(row["label"], row["value"])
+
+
+def _render_news_panel(profile: dict) -> None:
+    news = profile.get("news", {})
+    articles = news.get("articles", [])
+    pos = news.get("positive_count_30d", 0)
+    neg = news.get("negative_count_30d", 0)
+    source = "live" if news.get("live") else "synthetic"
+
+    df = pd.DataFrame(
+        {"Sentiment": ["Positive", "Negative"], "Articles": [pos, neg]}
+    )
+    colors = {"Positive": "#22C55E", "Negative": "#EF4444"}
+    fig = px.bar(
+        df,
+        x="Sentiment",
+        y="Articles",
+        title=f"Recent news (30d) · {source}",
+        color="Sentiment",
+        color_discrete_map=colors,
+    )
+    fig.update_layout(**_chart_layout())
+    st.plotly_chart(fig, width="stretch")
+
+    if articles:
+        with st.expander("Headlines", expanded=False):
+            for article in articles[:5]:
+                sentiment = article.get("sentiment", "neutral")
+                marker = "🟢" if sentiment == "positive" else "🔴" if sentiment == "negative" else "🟡"
+                days = article.get("published_days_ago", "—")
+                src = article.get("source", "")
+                st.caption(f"{marker} {article['title']} · {src} · {days}d ago")
+
+
 def render_charts(profile: dict, features: dict) -> None:
     gst = profile["gst"]
-    upi = profile["upi"]
     aa = profile["aa"]
     epfo = profile["epfo"]
     google = profile["google"]
     electricity = profile["electricity"]
     sector = profile["sector"]
 
-    st.markdown("**Revenue & collections**")
+    st.markdown("**Revenue & digital collections**")
     c1, c2 = st.columns(2)
     with c1:
-        df = pd.DataFrame({"Turnover (₹L)": gst["monthly_turnover_lakhs"]})
-        fig = px.line(df, markers=True, title="GST turnover")
+        df = timeseries_df(gst["monthly_turnover_lakhs"], y_name="Turnover (₹L)")
+        fig = px.line(
+            df,
+            x="Month",
+            y="Turnover (₹L)",
+            markers=True,
+            title="GST turnover",
+        )
         fig.update_layout(**_chart_layout())
         st.plotly_chart(fig, width="stretch")
     with c2:
-        df = pd.DataFrame({"UPI (₹L)": upi["monthly_volume_lakhs"]})
-        fig = px.bar(df, title="UPI collections")
-        fig.update_layout(**_chart_layout())
-        st.plotly_chart(fig, width="stretch")
+        _render_upi_panel(profile, features)
 
     st.markdown("**Operations & payroll**")
     c3, c4 = st.columns(2)
     with c3:
-        df = pd.DataFrame({"Credits": aa["monthly_credits_lakhs"], "Debits": aa["monthly_debits_lakhs"]})
-        fig = px.area(df, title="Bank cash flow")
+        credits = timeseries_df(aa["monthly_credits_lakhs"], y_name="Credits (₹L)")
+        debits = timeseries_df(aa["monthly_debits_lakhs"], y_name="Debits (₹L)")
+        df = credits.merge(debits, on="Month")
+        fig = px.area(df, x="Month", y=["Credits (₹L)", "Debits (₹L)"], title="Bank cash flow")
         fig.update_layout(**_chart_layout(show_legend=True))
         st.plotly_chart(fig, width="stretch")
     with c4:
-        df = pd.DataFrame({"Staff": epfo["employee_count"]})
-        fig = px.line(df, markers=True, title="Employee growth")
+        df = timeseries_df([float(x) for x in epfo["employee_count"]], y_name="Staff")
+        fig = px.line(df, x="Month", y="Staff", markers=True, title="Employee growth")
         fig.update_layout(**_chart_layout())
         st.plotly_chart(fig, width="stretch")
 
-    st.markdown("**Sentiment, sector & risk**")
+    st.markdown("**Sentiment, sector & utilities**")
     c5, c6 = st.columns(2)
     with c5:
         sentiment = _google_sentiment_counts(google.get("reviews", []))
@@ -149,18 +208,10 @@ def render_charts(profile: dict, features: dict) -> None:
 
     c7, c8 = st.columns(2)
     with c7:
-        total_cases = court_case_count(profile)
-        fig = px.bar(
-            x=["Court cases"],
-            y=[total_cases],
-            title="Court cases",
-            color_discrete_sequence=["#EF4444" if total_cases else "#22C55E"],
-        )
-        fig.update_layout(**_chart_layout())
-        st.plotly_chart(fig, width="stretch")
+        _render_news_panel(profile)
     with c8:
-        df = pd.DataFrame({"kWh": electricity["monthly_kwh"]})
-        fig = px.line(df, markers=True, title="Electricity consumption")
+        df = timeseries_df(electricity["monthly_kwh"], y_name="kWh")
+        fig = px.line(df, x="Month", y="kWh", markers=True, title="Electricity consumption")
         fig.update_layout(**_chart_layout())
         st.plotly_chart(fig, width="stretch")
 

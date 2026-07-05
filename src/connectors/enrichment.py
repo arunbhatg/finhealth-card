@@ -6,6 +6,7 @@ import copy
 
 from src.connectors.live.google_places import fetch_google_places
 from src.connectors.live.macro_public import fetch_live_macro
+from src.connectors.live.news_api import fetch_business_news, mock_business_news
 from src.connectors.live.weather_public import fetch_live_weather
 from src.utils.constants import MACRO_INDICATORS, SECTOR_GROWTH
 
@@ -72,6 +73,25 @@ def enrich_profile_with_public_data(profile: dict) -> tuple[dict, list[dict]]:
             "name": "Google Business",
             "mode": "mock",
             "detail": "Synthetic reviews · set GOOGLE_PLACES_API_KEY for live",
+        })
+
+    # --- Business news (NewsAPI.org optional) ---
+    news_live = fetch_business_news(profile["business_name"], profile["sector"])
+    if news_live:
+        enriched["news"] = news_live
+        status.append({
+            "key": "news",
+            "name": "Business News",
+            "mode": "live",
+            "detail": f"{news_live['positive_count_30d']} positive · {news_live['negative_count_30d']} negative (30d) · NewsAPI",
+        })
+    else:
+        enriched["news"] = profile.get("news") or mock_business_news(enriched)
+        status.append({
+            "key": "news",
+            "name": "Business News",
+            "mode": "mock",
+            "detail": "Synthetic headlines · set NEWS_API_KEY for live",
         })
 
     # --- Borrower-specific sources (mock in PoC) ---

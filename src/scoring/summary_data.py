@@ -4,7 +4,8 @@ from __future__ import annotations
 
 import pandas as pd
 
-from src.utils.constants import MACRO_INDICATORS, SECTOR_GROWTH
+from src.utils.constants import FINN_SCORE_LABEL, MACRO_INDICATORS, SECTOR_GROWTH
+from src.utils.display_metrics import active_litigation_label
 from src.utils.helpers import avg_recent, compliance_rate, yoy_growth
 
 
@@ -118,6 +119,7 @@ def source_snapshot_tables(profile: dict) -> dict[str, pd.DataFrame]:
     courts = profile["courts"]
     elec = profile["electricity"]
     inv = profile["investment"]
+    news = profile.get("news", {})
 
     n = len(gst["monthly_turnover_lakhs"])
     months = [f"M{i+1}" for i in range(n)]
@@ -151,6 +153,7 @@ def source_snapshot_tables(profile: dict) -> dict[str, pd.DataFrame]:
             "kWh": elec["monthly_kwh"],
         }),
         "Courts": _kv_table([
+            ("Active litigation", active_litigation_label(profile)),
             ("Civil cases", courts["civil_cases"]),
             ("Criminal cases", courts["criminal_cases"]),
             ("Insolvency", courts["insolvency_petitions"]),
@@ -174,6 +177,15 @@ def source_snapshot_tables(profile: dict) -> dict[str, pd.DataFrame]:
             ("Monsoon index", f"{profile['macro'].get('monsoon_index_pct', 100)}%"),
             ("Region", profile["macro"].get("region_tier", "—")),
         ]),
+        "News": pd.DataFrame([
+            {
+                "Headline": a.get("title", ""),
+                "Sentiment": a.get("sentiment", "neutral"),
+                "Source": a.get("source", ""),
+                "Days ago": a.get("published_days_ago", "—"),
+            }
+            for a in news.get("articles", [])
+        ]) if news.get("articles") else _kv_table([("Status", "No articles")]),
         "Bureau": _kv_table([
             ("Promoter", bureau["promoter_name"]),
             ("CIBIL", bureau["cibil_score"]),
@@ -187,9 +199,9 @@ def source_snapshot_tables(profile: dict) -> dict[str, pd.DataFrame]:
 
 def score_summary_table(result: dict) -> pd.DataFrame:
     rows = [
-        ("Final score", int(result["final_score"])),
-        ("Rule score", int(result["rule_score"])),
-        ("ML score", int(result["ml_score"]) if result.get("ml_score") else "—"),
+        (FINN_SCORE_LABEL, int(result["final_score"])),
+        ("Rule component", int(result["rule_score"])),
+        ("ML component", int(result["ml_score"]) if result.get("ml_score") else "—"),
     ]
     for pillar, data in result.get("pillars", {}).items():
         rows.append((f"Pillar: {pillar.title()}", f"{data['score']:.0f}/100"))
