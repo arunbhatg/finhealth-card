@@ -95,6 +95,20 @@ def top_nav():
         st.rerun()
 
 
+def app_header():
+    from src.utils.labels import APP_TAGLINE, APP_TITLE
+
+    st.markdown(
+        f"""
+        <div class="finn-app-header">
+            <div class="finn-app-title">{APP_TITLE}</div>
+            <div class="finn-app-tagline">{APP_TAGLINE}</div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
 def run_app():
     from app.components.branding import render_footer_branding
     from app.components.styles import inject_styles
@@ -110,9 +124,7 @@ def run_app():
     init_session()
     bootstrap_once()
     sidebar()
-    from app.components.branding import render_app_header
-
-    render_app_header()
+    app_header()
     top_nav()
     _run_page(st.session_state.page)
     render_footer_branding()
