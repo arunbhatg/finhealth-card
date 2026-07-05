@@ -6,8 +6,13 @@ import streamlit as st
 
 from app.components.widgets import render_score_gauge
 from src.scoring.loan_simulator import simulate_loan
-from src.scoring.underwriter_insights import court_case_count, get_credit_decision, get_key_metrics, get_risk_flags
+from src.scoring.underwriter_insights import get_credit_decision, get_key_metrics, get_risk_flags
 from src.utils.constants import SECTOR_GROWTH
+
+
+def _court_case_count(profile: dict) -> int:
+    courts = profile["courts"]
+    return courts["civil_cases"] + courts["criminal_cases"] + courts["insolvency_petitions"]
 
 
 def _chips(flags: list[dict], levels: tuple[str, ...], css: str, limit: int = 4) -> None:
@@ -148,7 +153,7 @@ def render_charts(profile: dict, features: dict) -> None:
 
     c7, c8 = st.columns(2)
     with c7:
-        total_cases = court_case_count(profile)
+        total_cases = _court_case_count(profile)
         fig = px.bar(
             x=["Court cases"],
             y=[total_cases],

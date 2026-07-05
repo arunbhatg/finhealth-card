@@ -5,6 +5,16 @@ from __future__ import annotations
 from src.utils.helpers import score_to_grade
 
 
+def court_case_count(profile: dict) -> int:
+    courts = profile["courts"]
+    return courts["civil_cases"] + courts["criminal_cases"] + courts["insolvency_petitions"]
+
+
+def bill_pay_on_time_pct(features: dict) -> float:
+    """Blended on-time rate across utility and bank autopay."""
+    return (features["electricity_payment_regularity"] + features["aa_emi_on_time_rate"]) / 2 * 100
+
+
 def get_credit_decision(score: float) -> dict:
     if score >= 700:
         return {
@@ -80,16 +90,6 @@ def get_risk_flags(features: dict, profile: dict) -> list[dict]:
         flags.append({"level": "amber", "label": "Weak Google sentiment", "detail": f"{features['google_rating']:.1f}★ rating"})
 
     return flags
-
-
-def court_case_count(profile: dict) -> int:
-    courts = profile["courts"]
-    return courts["civil_cases"] + courts["criminal_cases"] + courts["insolvency_petitions"]
-
-
-def bill_pay_on_time_pct(features: dict) -> float:
-    """Blended on-time rate across utility and bank autopay."""
-    return (features["electricity_payment_regularity"] + features["aa_emi_on_time_rate"]) / 2 * 100
 
 
 def get_key_metrics(features: dict, profile: dict) -> list[dict]:
