@@ -2,12 +2,12 @@
 
 import streamlit as st
 
-from app.components.underwriter import (
-    render_decision_header,
-    render_driver_chart,
-    render_key_metrics_row,
-    render_risk_flags,
+from app.components.summary_sheet import (
+    render_flags_with_detail,
+    render_metric_row_with_drilldown,
+    render_summary_sheet,
 )
+from app.components.underwriter import render_decision_header, render_driver_chart
 from app.components.widgets import pillar_bar_chart
 from app.views._helpers import require_case
 from src.utils.helpers import score_to_grade
@@ -26,7 +26,7 @@ def page_credit_decision():
 
     render_decision_header(score, grade, profile, features)
     st.divider()
-    render_key_metrics_row(features, profile)
+    render_metric_row_with_drilldown(features, profile)
 
     st.divider()
     c1, c2 = st.columns([1, 1])
@@ -36,17 +36,12 @@ def page_credit_decision():
         pillar_bar_chart(result["pillars"])
 
     st.divider()
-    render_risk_flags(features, profile)
+    render_flags_with_detail(features, profile)
 
-    # Nice-to-have at the bottom
-    with st.expander("Detailed source summaries (secondary)"):
-        for s in result.get("data_summary", []):
-            st.markdown(f"**{s['source']}** — {s['headline']}")
-            for h in s.get("highlights", [])[:2]:
-                st.caption(f"· {h}")
+    st.divider()
+    with st.expander("📋 Quick summary sheet (click to expand)", expanded=False):
+        render_summary_sheet(profile, features, result)
 
-    with st.expander("Pillar-level driver detail (secondary)"):
-        for pillar, data in result["pillars"].items():
-            st.markdown(f"**{pillar.title()}** — {data['score']:.0f}/100")
-            for d in data["drivers"][:3]:
-                st.caption(f"{d['factor']}: {d['value']} ({d['impact']:.0f} pts)")
+    if st.button("Open full summary sheet →", type="primary"):
+        st.session_state.page = "⑤ Data Summary Sheet"
+        st.rerun()

@@ -14,12 +14,14 @@ from app.views.decision import page_credit_decision
 from app.views.evidence import page_evidence
 from app.views.loan import page_loan_offer
 from app.views.onboarding import page_onboarding_flow
+from app.views.summary import page_summary_sheet
 
 NAV = {
     "① Select MSME Case": page_select_case,
     "② Credit Decision": page_credit_decision,
     "③ Evidence & Trends": page_evidence,
     "④ Loan Offer": page_loan_offer,
+    "⑤ Data Summary Sheet": page_summary_sheet,
 }
 
 
