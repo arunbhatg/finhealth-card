@@ -25,6 +25,30 @@ def _chips(flags: list[dict], levels: tuple[str, ...], css: str, limit: int = 4)
     st.markdown(html, unsafe_allow_html=True)
 
 
+def _render_score_drivers(result: dict) -> None:
+    boosters = result.get("boosters", [])[:3]
+    draggers = result.get("draggers", [])[:3]
+    if not boosters and not draggers:
+        return
+
+    st.markdown(f'<p class="finn-section-title">{FINN_SCORE_LABEL} drivers</p>', unsafe_allow_html=True)
+    c1, c2 = st.columns(2)
+    with c1:
+        st.markdown("**Pulling score up**")
+        if boosters:
+            for d in boosters:
+                st.caption(f"↑ {d['factor']} ({d['value']})")
+        else:
+            st.caption("—")
+    with c2:
+        st.markdown("**Pulling score down**")
+        if draggers:
+            for d in draggers:
+                st.caption(f"↓ {d['factor']} ({d['value']})")
+        else:
+            st.caption("—")
+
+
 def render_overview(profile: dict, features: dict, result: dict) -> None:
     from src.utils.helpers import score_to_grade
 
@@ -43,6 +67,8 @@ def render_overview(profile: dict, features: dict, result: dict) -> None:
             unsafe_allow_html=True,
         )
 
+    _render_score_drivers(result)
+
     metrics = get_key_metrics(features, profile)
     cols = st.columns(3)
     for i, m in enumerate(metrics):
@@ -58,15 +84,6 @@ def render_overview(profile: dict, features: dict, result: dict) -> None:
         with c2:
             st.markdown("**Strengths**")
             _chips(flags, ("green",), "finn-chip-green")
-
-    boosters = result.get("boosters", [])[:3]
-    draggers = result.get("draggers", [])[:3]
-    if boosters or draggers:
-        with st.expander(f"{FINN_SCORE_LABEL} drivers", expanded=False):
-            for d in boosters:
-                st.caption(f"↑ {d['factor']} ({d['value']})")
-            for d in draggers:
-                st.caption(f"↓ {d['factor']} ({d['value']})")
 
 
 def _chart_layout(*, show_legend: bool = False, height: int = 280) -> dict:
