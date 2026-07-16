@@ -7,7 +7,7 @@ from src.connectors.base import load_profile
 from src.features.feature_engineering import extract_features
 from src.utils.constants import DEMO_PERSONAS
 from src.utils.display_metrics import bill_pay_on_time_pct
-from src.utils.ui_text import FINN_SCORE_LABEL
+from src.utils.ui_text import FINN_DOT_HTML, FINN_SCORE_LABEL_HTML
 
 
 def _decision_color(action: str) -> str:
@@ -19,7 +19,10 @@ def page_cases():
     from src.scoring.underwriter_insights import get_credit_decision
 
     st.markdown("### Select a case")
-    st.caption("Choose a demo MSME profile to generate a FINN. alternative score.")
+    st.markdown(
+        f'<p class="finn-muted" style="margin:0 0 1rem 0">Choose a demo MSME profile to generate a {FINN_DOT_HTML} alternative score.</p>',
+        unsafe_allow_html=True,
+    )
 
     cols = st.columns(2)
     for i, (msme_id, meta) in enumerate(DEMO_PERSONAS.items()):
@@ -38,7 +41,7 @@ def page_cases():
                     f"""
                     <div class="finn-case-stats">
                         <div class="finn-case-stat">
-                            <span class="label">{FINN_SCORE_LABEL}</span>
+                            <span class="label">{FINN_SCORE_LABEL_HTML}</span>
                             <span class="value">{score}</span>
                         </div>
                         <div class="finn-case-stat">

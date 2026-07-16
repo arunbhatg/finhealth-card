@@ -1,4 +1,4 @@
-"""FINN. brand assets and Finndot app link."""
+"""Finn. brand assets and Finndot app link."""
 
 import streamlit as st
 
@@ -6,6 +6,9 @@ FINNDOT_PLAY_URL = "https://play.google.com/store/apps/details?id=com.anomapro.f
 
 FINN_BLACK = "#1A1A1A"
 FINN_GREEN = "#22C55E"
+
+# Inline mark — inherits surrounding text color; period is always green.
+FINN_DOT_HTML = f'Finn<span style="color:{FINN_GREEN}">.</span>'
 
 
 def finn_logo_html(size: str = "medium") -> str:
@@ -15,7 +18,7 @@ def finn_logo_html(size: str = "medium") -> str:
         f'<span style="font-family: Segoe UI, system-ui, -apple-system, sans-serif; '
         f'font-weight: 700; font-size: {font_size}; letter-spacing: -0.03em; '
         f'line-height: 1.1; white-space: nowrap;">'
-        f'<span style="color: {FINN_BLACK};">FINN</span>'
+        f'<span style="color: {FINN_BLACK};">Finn</span>'
         f'<span style="color: {FINN_GREEN};">.</span>'
         f"</span>"
     )
@@ -29,15 +32,15 @@ def render_sidebar_branding() -> None:
 def render_app_header() -> None:
     """Main content hero — product title above page navigation."""
     try:
-        from src.utils.ui_text import APP_TAGLINE, APP_TITLE
+        from src.utils.ui_text import APP_TAGLINE, APP_TITLE_HTML
     except ImportError:
-        APP_TITLE = "FINN. Alternative Score System"
+        APP_TITLE_HTML = f"{FINN_DOT_HTML} Alternative Score System"
         APP_TAGLINE = "NTC MSME underwriting · powered by Finndot alternative data"
 
     st.markdown(
         f"""
         <div class="finn-app-header">
-            <div class="finn-app-title">{APP_TITLE}</div>
+            <div class="finn-app-title">{APP_TITLE_HTML}</div>
             <div class="finn-app-tagline">{APP_TAGLINE}</div>
         </div>
         """,

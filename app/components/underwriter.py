@@ -9,7 +9,7 @@ from src.scoring.loan_simulator import simulate_loan
 from src.scoring.underwriter_insights import get_credit_decision, get_key_metrics, get_risk_flags
 from src.utils.chart_helpers import timeseries_df
 from src.utils.constants import SECTOR_GROWTH
-from src.utils.ui_text import FINN_SCORE_LABEL
+from src.utils.ui_text import FINN_SCORE_LABEL_HTML
 from src.utils.upi_insights import upi_momentum
 from src.utils.helpers import avg_recent
 
@@ -31,7 +31,7 @@ def _render_score_drivers(result: dict) -> None:
     if not boosters and not draggers:
         return
 
-    st.markdown(f'<p class="finn-section-title">{FINN_SCORE_LABEL} drivers</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="finn-section-title">{FINN_SCORE_LABEL_HTML} drivers</p>', unsafe_allow_html=True)
     c1, c2 = st.columns(2)
     with c1:
         st.markdown("**Pulling score up**")

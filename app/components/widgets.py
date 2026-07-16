@@ -6,7 +6,7 @@ import streamlit as st
 from src.utils.helpers import score_to_grade
 
 
-from src.utils.ui_text import FINN_SCORE_LABEL
+from src.utils.ui_text import FINN_SCORE_LABEL_HTML
 
 
 def render_score_gauge(score: float, grade: str = "") -> None:
@@ -18,7 +18,7 @@ def render_score_gauge(score: float, grade: str = "") -> None:
             mode="gauge+number",
             value=score,
             number={"suffix": "", "font": {"size": 36}},
-            title={"text": f"{grade}<br><span style='font-size:11px'>{FINN_SCORE_LABEL}</span>", "font": {"size": 14}},
+            title={"text": f"{grade}<br><span style='font-size:11px'>{FINN_SCORE_LABEL_HTML}</span>", "font": {"size": 14}},
             gauge={
                 "axis": {"range": [300, 900], "tickwidth": 0},
                 "bar": {"color": color, "thickness": 0.22},

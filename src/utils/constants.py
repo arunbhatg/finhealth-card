@@ -56,7 +56,7 @@ GRADE_THRESHOLDS = [
     (0, "Poor"),
 ]
 
-FINN_SCORE_LABEL = "FINN. Alternative Score"
+FINN_SCORE_LABEL = "Finn. Alternative Score"
 
 DEMO_PERSONAS = {
     "MSME001": {
