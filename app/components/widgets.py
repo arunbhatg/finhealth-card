@@ -3,10 +3,8 @@
 import plotly.graph_objects as go
 import streamlit as st
 
+from app.components.branding import FINN_SCORE_LABEL_HTML
 from src.utils.helpers import score_to_grade
-
-
-from src.utils.ui_text import FINN_SCORE_LABEL_HTML
 
 
 def render_score_gauge(score: float, grade: str = "") -> None:

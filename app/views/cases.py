@@ -2,12 +2,12 @@
 
 import streamlit as st
 
+from app.components.branding import FINN_DOT_HTML, FINN_SCORE_LABEL_HTML
 from app.views._helpers import load_case
 from src.connectors.base import load_profile
 from src.features.feature_engineering import extract_features
 from src.utils.constants import DEMO_PERSONAS
 from src.utils.display_metrics import bill_pay_on_time_pct
-from src.utils.ui_text import FINN_DOT_HTML, FINN_SCORE_LABEL_HTML
 
 
 def _decision_color(action: str) -> str:

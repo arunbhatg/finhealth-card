@@ -4,12 +4,12 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+from app.components.branding import FINN_SCORE_LABEL_HTML
 from app.components.widgets import render_score_gauge
 from src.scoring.loan_simulator import simulate_loan
 from src.scoring.underwriter_insights import get_credit_decision, get_key_metrics, get_risk_flags
 from src.utils.chart_helpers import timeseries_df
 from src.utils.constants import SECTOR_GROWTH
-from src.utils.ui_text import FINN_SCORE_LABEL_HTML
 from src.utils.upi_insights import upi_momentum
 from src.utils.helpers import avg_recent
 

@@ -9,6 +9,9 @@ FINN_GREEN = "#22C55E"
 
 # Inline mark — inherits surrounding text color; period is always green.
 FINN_DOT_HTML = f'Finn<span style="color:{FINN_GREEN}">.</span>'
+FINN_SCORE_LABEL_HTML = f"{FINN_DOT_HTML} Alternative Score"
+APP_TITLE_HTML = f"{FINN_DOT_HTML} Alternative Score System"
+APP_TAGLINE = "NTC MSME underwriting · powered by Finndot alternative data"
 
 
 def finn_logo_html(size: str = "medium") -> str:
@@ -31,12 +34,6 @@ def render_sidebar_branding() -> None:
 
 def render_app_header() -> None:
     """Main content hero — product title above page navigation."""
-    try:
-        from src.utils.ui_text import APP_TAGLINE, APP_TITLE_HTML
-    except ImportError:
-        APP_TITLE_HTML = f"{FINN_DOT_HTML} Alternative Score System"
-        APP_TAGLINE = "NTC MSME underwriting · powered by Finndot alternative data"
-
     st.markdown(
         f"""
         <div class="finn-app-header">
