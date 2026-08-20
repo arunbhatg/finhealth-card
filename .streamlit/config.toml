@@ -9,4 +9,4 @@ font = "sans serif"
 headless = true
 fileWatcherType = "poll"
 
-# Bump to force Streamlit Cloud rebuild (IDBI PNG co-brand).
+# Bump to force Streamlit Cloud rebuild (IDBI PNG via st.image).
