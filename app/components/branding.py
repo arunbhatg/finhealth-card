@@ -1,4 +1,6 @@
-"""Finn. brand assets and Finndot app link."""
+"""Finn. brand assets, IDBI Bank co-branding, and Finndot app link."""
+
+from pathlib import Path
 
 import streamlit as st
 
@@ -7,11 +9,14 @@ FINNDOT_PLAY_URL = "https://play.google.com/store/apps/details?id=com.anomapro.f
 FINN_BLACK = "#1A1A1A"
 FINN_GREEN = "#22C55E"
 
+ASSETS_DIR = Path(__file__).resolve().parents[2] / "assets"
+IDBI_LOGO_PATH = ASSETS_DIR / "idbi-bank.svg"
+
 # Inline mark — inherits surrounding text color; period is always green.
 FINN_DOT_HTML = f'Finn<span style="color:{FINN_GREEN}">.</span>'
 FINN_SCORE_LABEL_HTML = f"{FINN_DOT_HTML} Alternative Score"
 APP_TITLE_HTML = f"{FINN_DOT_HTML} Alternative Score System"
-APP_TAGLINE = "NTC MSME underwriting · powered by Finndot alternative data"
+APP_TAGLINE = "NTC MSME underwriting · IDBI Bank × Finndot alternative data"
 
 
 def finn_logo_html(size: str = "medium") -> str:
@@ -28,28 +33,68 @@ def finn_logo_html(size: str = "medium") -> str:
 
 
 def render_sidebar_branding() -> None:
-    st.sidebar.markdown(finn_logo_html("medium"), unsafe_allow_html=True)
-    st.sidebar.caption("FinHealth Card")
+    idbi, divider, finn = st.sidebar.columns([1.6, 0.15, 1.1])
+    with idbi:
+        if IDBI_LOGO_PATH.exists():
+            st.image(str(IDBI_LOGO_PATH), use_container_width=True)
+        else:
+            st.markdown("**IDBI Bank**")
+    with divider:
+        st.markdown(
+            '<div style="border-left:1px solid #CBD5E1;height:28px;margin:6px auto;"></div>',
+            unsafe_allow_html=True,
+        )
+    with finn:
+        st.markdown(finn_logo_html("small"), unsafe_allow_html=True)
+    st.sidebar.caption("FinHealth Card · IDBI × Finn.")
 
 
 def render_app_header() -> None:
-    """Main content hero — product title above page navigation."""
-    st.markdown(
-        f"""
-        <div class="finn-app-header">
-            <div class="finn-app-title">{APP_TITLE_HTML}</div>
-            <div class="finn-app-tagline">{APP_TAGLINE}</div>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
+    """Main content hero — partner logos + product title above page navigation."""
+    if IDBI_LOGO_PATH.exists():
+        idbi, spacer, finn, _ = st.columns([1.35, 0.12, 0.85, 2.2])
+        with idbi:
+            st.image(str(IDBI_LOGO_PATH), use_container_width=True)
+        with spacer:
+            st.markdown(
+                '<div style="border-left:1px solid #CBD5E1;height:32px;margin:8px auto 0;"></div>',
+                unsafe_allow_html=True,
+            )
+        with finn:
+            st.markdown(finn_logo_html("medium"), unsafe_allow_html=True)
+        st.markdown(
+            f"""
+            <div class="finn-app-header">
+                <div class="finn-app-title">{APP_TITLE_HTML}</div>
+                <div class="finn-app-tagline">{APP_TAGLINE}</div>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+    else:
+        st.markdown(
+            f"""
+            <div class="finn-app-header">
+                <div class="finn-app-title">{APP_TITLE_HTML}</div>
+                <div class="finn-app-tagline">{APP_TAGLINE}</div>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
 
 
 def render_page_header_branding() -> None:
     """Compact logo row for main content area (optional)."""
-    col_logo, col_spacer = st.columns([1, 4])
+    col_logo, col_spacer = st.columns([1.4, 3.6])
     with col_logo:
-        st.markdown(finn_logo_html("small"), unsafe_allow_html=True)
+        if IDBI_LOGO_PATH.exists():
+            idbi, finn = st.columns([1.4, 1])
+            with idbi:
+                st.image(str(IDBI_LOGO_PATH), use_container_width=True)
+            with finn:
+                st.markdown(finn_logo_html("small"), unsafe_allow_html=True)
+        else:
+            st.markdown(finn_logo_html("small"), unsafe_allow_html=True)
 
 
 def render_footer_branding() -> None:

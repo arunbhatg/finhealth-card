@@ -14,7 +14,7 @@ FINN_GREEN = "#22C55E"
 FINN_DOT_HTML = f'Finn<span style="color:{FINN_GREEN}">.</span>'
 APP_TITLE = "Finn. Alternative Score System"
 APP_TITLE_HTML = f"{FINN_DOT_HTML} Alternative Score System"
-APP_TAGLINE = "NTC MSME underwriting · powered by Finndot alternative data"
+APP_TAGLINE = "NTC MSME underwriting · IDBI Bank × Finndot alternative data"
 FINN_SCORE_LABEL = "Finn. Alternative Score"
 FINN_SCORE_LABEL_HTML = f"{FINN_DOT_HTML} Alternative Score"
 
@@ -125,15 +125,20 @@ def top_nav():
 
 
 def app_header():
-    st.markdown(
-        f"""
-        <div class="finn-app-header">
-            <div class="finn-app-title">{APP_TITLE_HTML}</div>
-            <div class="finn-app-tagline">{APP_TAGLINE}</div>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
+    try:
+        from app.components.branding import render_app_header
+
+        render_app_header()
+    except Exception:
+        st.markdown(
+            f"""
+            <div class="finn-app-header">
+                <div class="finn-app-title">{APP_TITLE_HTML}</div>
+                <div class="finn-app-tagline">{APP_TAGLINE}</div>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
 
 
 def _footer_branding() -> None:

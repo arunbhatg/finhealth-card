@@ -2,11 +2,12 @@
 
 **Alternative-data credit assessment for New-To-Credit (NTC) MSMEs** — when traditional financials and bureau history are unavailable.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://finhealth-card-jkhldvvrytvhrkdrxevryn.streamlit.app/)
 
-**Repository:** https://github.com/arunbhatg/finhealth-card
+**Repository:** https://github.com/arunbhatg/finhealth-card  
+**Live demo:** https://finhealth-card-jkhldvvrytvhrkdrxevryn.streamlit.app/
 
-**Powered by Finn.** · [Try Finndot AI app](https://play.google.com/store/apps/details?id=com.anomapro.finndot.prd)
+**Powered by IDBI Bank × Finn.** · [Try Finndot AI app](https://play.google.com/store/apps/details?id=com.anomapro.finndot.prd)
 
 ---
 

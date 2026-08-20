@@ -5,7 +5,7 @@ FINN_GREEN = "#22C55E"
 # Plain-text labels (tabs, captions, dataframes, page titles).
 FINN_SCORE_LABEL = "Finn. Alternative Score"
 APP_TITLE = "Finn. Alternative Score System"
-APP_TAGLINE = "NTC MSME underwriting · powered by Finndot alternative data"
+APP_TAGLINE = "NTC MSME underwriting · IDBI Bank × Finndot alternative data"
 
 # HTML: period is always green.
 FINN_DOT_HTML = f'Finn<span style="color:{FINN_GREEN}">.</span>'
