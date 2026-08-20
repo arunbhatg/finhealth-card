@@ -59,7 +59,7 @@ def _render_partner_row(*, idbi_width: int, finn_size: str) -> None:
     left, mid, right = st.columns([2.4, 0.12, 1.1])
     with left:
         if img is not None:
-            st.image(img, width=idbi_width)
+            st.image(img, width=idbi_width, caption="IDBI Bank")
         else:
             st.markdown("**IDBI BANK**")
     with mid:
@@ -74,7 +74,7 @@ def _render_partner_row(*, idbi_width: int, finn_size: str) -> None:
 def render_sidebar_branding() -> None:
     img = _idbi_image()
     if img is not None:
-        st.sidebar.image(img, width=168)
+        st.sidebar.image(img, width=180, caption="IDBI Bank")
     else:
         st.sidebar.markdown("**IDBI BANK**")
     st.sidebar.markdown(finn_logo_html("small"), unsafe_allow_html=True)
